@@ -1,5 +1,24 @@
 # Trainer Road Plan: Traditional Base - High Volume III
 
+> The high-volume version of the Traditional Base III training phase will have
+> you on the bike 6 times each week for somewhere between 1 to 4 hours with
+> Recovery Week rides ranging from 1.5 to 2 hours.
+> 
+> The goals of this training phase expand to include a greater focus on muscular
+> endurance as we focus on turning bigger gears for growing durations by
+> simulating longer climbs, both in & out of the saddle, as well as more
+> straightforward strength endurance work. We'll also combine the attributes of
+> previous sprint drills - speed & force - into sprint drills which target rapid
+> acceleration, i.e. power. We'll continue the development of your aerobic
+> endurance by reaching the longest AE ride durations of the Traditional Base
+> training plans, and we'll continue to practice the Base I & II efficiency
+> drills.
+> 
+> Again, riders focused on improving their time trial performance should
+> consider extending this training phase by 1 week for a total of 5 weeks and
+> ultra-endurance riders should again consider extending this phase by an extra
+> 2 weeks for a total of 6 weeks.
+
 ## Week 1
 
 > The first week of Base III will start with an opportunity to assess changes in

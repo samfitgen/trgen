@@ -1,5 +1,25 @@
 # Trainer Road Plan: Traditional Base - High Volume II
 
+> The high-volume version of the Traditional Base II training phase will have
+> you on the bike 5 times each week for somewhere between 1 hour to 3.5 hours
+> with Recovery Week rides numbering only 4 and lasting 2 hours.
+> 
+> We have 3 main goals during this phase of training which are to continue the
+> development of your aerobic endurance by further improving your fat-for-fuel
+> preference via a fair amount of time still at low intensities. We'll also
+> target improvements in your ability to generate higher amounts of force on the
+> bike in a manner less likely to cause joint tissue damage or foster poor
+> movement patterns when under heavy pedaling loads. Finally, with the addition
+> of some Tempo riding we'll lay the basis for Base III's development of your
+> muscular endurance. There remains an emphasis on pedal speed & economy which
+> will be addressed via many of the same drills from Base I, each tied to
+> particular workouts.
+> 
+> Riders focused on improving their time trial performance, e.g. stage racers,
+> multisport athletes, etc. should consider extending this training phase by 1
+> week for a total of 5 weeks. Ultra-endurance riders should again consider
+> extending this phase by an extra 2 weeks for a total of 6 weeks.
+
 ## Week 1
 
 > The first week of Base II will start with an opportunity to assess changes in

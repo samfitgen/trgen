@@ -1,5 +1,10 @@
 # Trainer Road Plan: Full Distance Triathlon - Mid Volume
 
+> Establishing base fitness paves the way for workloads that are heaped higher &
+> higher during build training. With both forms of conditioning buttoned up, the
+> intent is now to top off your fitness, uncover a high level of freshness and
+> lock down your confidence over these final 8 weeks of training.<
+
 ## Wk1
 
 > _Tuesday_ **Swim Base + Threshold Intervals (3300m)** Warm-Up 350m Easy, RPE4;

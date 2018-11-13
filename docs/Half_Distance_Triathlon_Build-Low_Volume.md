@@ -1,5 +1,11 @@
 # Trainer Road Plan: Half Distance Triathlon Build - Low Volume
 
+> Having established your fairly broad base of fitness, these Build blocks shift
+> your training emphasis slightly away from intensity and more toward moderate-
+> level suffering. The importance of tolerating this longer-term physiological &
+> psychological challenge without succumbing to the urge to ease up is now your
+> primary focus.
+
 ## Week 1
 
 > _Tuesday_   **Ramp Test**  With 8 weeks of base work in your legs, it's time

@@ -1,5 +1,27 @@
 # Trainer Road Plan: HIT Maintenance - High Volume II
 
+> The HIT Maintenance plans are meant to provide competitive riders with a high-
+> intensity maintenance training plan that can be used to maintain hard-earned,
+> peak or near-peak fitness. At the same time, these plan remain malleable in
+> order to allow weekday & weekend race substitutions for the scheduled
+> workouts.
+> 
+> This second version of the HIT Maintenance plan is not an evolution of the
+> first version; rather, it's an optional plan that's only different in its
+> workout selection. Choose HIT Maintenance I or HIT Maintenance II, any order,
+> do one, do both, makes no matter. They're two versions of the same plan aimed
+> at providing options for riders with long, competitive seasons who don't want
+> to ride the same indoor workouts from Race plan to Race plan.
+> 
+> And as with version I, riders are given the option to alter the duration of
+> each end-of-week long ride, shift it to midweek if necessary, and/or perform
+> the ride outdoors when circumstances allow.
+> 
+> Again, these plans are flexible. But this isn't to say that they require any
+> tweaking and riders can choose to follow them just as they are in order to
+> maintain high-level fitness should the commonly utilized weekly format suit
+> their schedules.
+
 ## Week 1
 
 > The first week of any training plan is often dedicated to assessing your

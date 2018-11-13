@@ -1,5 +1,20 @@
 # Trainer Road Plan: Full Distance Triathlon Base - Low Volume
 
+> The low-volume version of the Full Distance Triathlon Base plan has
+> triathletes swimming three times each week for up to 7700m, on the bike 3-4
+> times each week for slightly more than 6 hours total during the peak riding
+> week (including a brick workout every other week) and running no more than 4
+> hours in the highest run-volume week.
+> 
+> The main objective here get time-constrained Full Distance triathletes to and
+> through a full-distance triathlon via the necessary base fitness in all 3
+> disciplines, all in the minimum amount of time - no more than 13 hours per
+> week, often substantially less.
+> 
+> Note: Double-day workouts can be done in any order and separated by as little
+> or as much time as you choose as long as you can keep the quality of both
+> workouts high.
+
 ## Week 1
 
 > _Tuesday_   **FTP Assessment**  Get a solid estimate of your current fitness

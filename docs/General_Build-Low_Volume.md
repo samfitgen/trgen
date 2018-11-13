@@ -1,5 +1,30 @@
 # Trainer Road Plan: General Build - Low Volume
 
+> As the competitive season opens, a necessary shift from basic capabilities
+> toward more specific ones takes place. This shift toward specificity is a
+> little less pronounced in the type of training aimed at riders seeking to keep
+> their events, and necessary capabilities, a bit broader.
+> 
+> So the overriding goal of the General Build plans is to place fairly even
+> emphasis on Threshold training and its focus on extending your durations
+> during efforts near your FTP, VO2max work and the ability to repeat hard
+> efforts and often in quick succession, and anaerobic intervals aimed at
+> increasing your repeatable, near-maximal power outputs.
+> 
+> We address the shorter, more intense efforts that can make or break a rider as
+> the pace kicks up and more severe efforts come one after another while never
+> neglecting the Threshold workouts that condition riders to periodically
+> sustain near-FTP power output for reasonably long periods even following those
+> briefer, high-intensity workloads.  
+> 
+> This even combination of key workouts suits riders with more general
+> aspirations and target events. All-around riders like stage racers - road or
+> dirt - and competitors looking for multi-faceted fitness in everything from
+> sprints to climbs to time trials need to administer frequent combinations of
+> near-FTP output, high-end & repeatable aerobic power, and near-maximal bursts
+> of speed. Evenly addressing all of these requirements is what the General
+> Build plans are all about.
+
 ## Week 1
 
 > First things first: time to assess improvement born out of your recent Base

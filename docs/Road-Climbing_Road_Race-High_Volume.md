@@ -1,5 +1,24 @@
 # Trainer Road Plan: Climbing Road Race - High Volume
 
+> Shaping a capable road racer -- whose events require everything from short,
+> near maximal efforts to all-out bursts of speed to long stretches of endurance
+> work and, in this case, multiple bouts of sustained climbing -- requires a
+> plan that hones the entire spectrum of performance capabilities.
+> 
+> Accordingly, the emphasis is split between high-power, often explosive efforts
+> and extended, near-FTP efforts that all find their way into a road race,
+> beginning, middle or end, flats or climbs, pointless or purposeful.
+> 
+> The high-volume version of the Climbing Road Race specialty plan has riders on
+> the bike 6 times each week for 60-120 minutes up until weeks 7 and 8 which
+> provide taper formats that can be repeated during a busy race season.
+> Typically, B-priority events go well following Week 7's format while Week 8's
+> even lower volume lends itself nicely to A-priority weekends.
+> 
+> Substitute any outdoor races or training rides for your scheduled workouts
+> when appropriate, but do your best to make these substitutions at least as
+> challenging as the workout you're skipping.
+
 ## Week 1
 
 > As per usual, your season's final bout of training begins with an opportunity

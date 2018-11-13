@@ -1,5 +1,21 @@
 # Trainer Road Plan: Sustained Power Build - Low Volume
 
+> With ample base conditioning in your legs, it's time to shift your focus from
+> more fundamental fitness toward greater sustained-power capabilities before
+> moving on to your most more specialized training later. And while you'll still
+> face your fair share of VO2max work in order to further your necessary aerobic
+> capabilities in minimal time, the majority of your interval sessions will
+> target improvements in strength endurance, fatigue resistance and the all-
+> important mental ability to withstand a steady dose of relentless discomfort.
+> 
+> Whether you're a road racer, a time trialist or multisport athlete, a marathon
+> mountain biker or perhaps a century or gran fondo participant, pushing the
+> pedals hard and doing it for a long time is a necessity.  
+> 
+> It's for this very reason that the Sustained Power Build plans were developed
+> -- to more specifically build your ability to push high, steady watts without
+> fading over lengthy durations during multi-hour events.
+
 ## Week 1
 
 > As you'd expect, Week 1 offers your first crack at assessing any improvements

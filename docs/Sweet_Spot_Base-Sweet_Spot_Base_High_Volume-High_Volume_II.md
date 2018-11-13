@@ -1,5 +1,22 @@
 # Trainer Road Plan: Sweet Spot Base - High Volume II
 
+> The Sweet Spot Base plans are foundation training plans that can serve as the
+> basis for all training tracks offered by TrainerRoad.
+> 
+> The high-volume version of Sweet Spot Base II varies little from its
+> predecessor in terms of intensity level but does grow the weekly volume at the
+> same rate achieved in the previous block of training. All workouts are still
+> aimed at increasing your ability to keep power to the pedals via improved
+> muscle endurance and higher fatigue resistance over longer, and still quite
+> demanding, but not overly exhausting workouts. This round of Sweet Spot
+> training ranges from about 10-11 hours per week.
+> 
+> Much like last time, following your initial fitness assessment, you'll face 5
+> weeks of work all targeted on that same narrow, specific range of power output
+> except your Friday recovery ride. Week 6 again brings this phase of high-end
+> base conditioning to a close with a week of low-intensity, aerobic Endurance
+> workouts.
+
 ## Week 1
 
 > Even with the inclusion of a comparatively low-TSS assessment workout to

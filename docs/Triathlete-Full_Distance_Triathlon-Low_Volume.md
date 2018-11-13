@@ -1,5 +1,10 @@
 # Trainer Road Plan: Full Distance Triathlon - Low Volume
 
+> Establishing base fitness paves the way for workloads that are heaped higher &
+> higher during build training. With both forms of conditioning buttoned up, the
+> intent is now to top off your fitness, uncover a high level of freshness and
+> lock down your confidence over these final 8 weeks of training.
+
 ## Week 1
 
 > _Tuesday_ **Ramp Test** It's pretty likely you've seen some improvement over

@@ -1,5 +1,22 @@
 # Trainer Road Plan: Traditional Base - High Volume I
 
+> The high-volume version of the Traditional Base I training phase will have you
+> on the bike 4 times each week for somewhere between 2 hours & 15 minutes to 2
+> hours & 45 minutes with Recovery Week rides only lasting 2 hours.
+> 
+> The primary goal of this phase of training is to develop or improve your
+> aerobic endurance by shifting your body's fuel preference toward fat while
+> working at low intensities; therefore, this training phase consists entirely
+> of Aerobic Endurance (AE) workouts. There is also a heavy emphasis on pedal
+> speed & economy which will be addressed via several different types of drills
+> tied to each workout.
+> 
+> New cyclists as well as those who are focused on weight loss may wish to
+> repeat this phase back-to-back thereby extending it to twice its length for a
+> total of 8 weeks. Intermediate riders along with ultra-endurance riders and
+> riders recovering from injury should consider extending this phase by an extra
+> 2 weeks for a total of 6 weeks.
+
 ## Week 1
 
 > The first week of Base I will offer a chance to assess your incoming fitness

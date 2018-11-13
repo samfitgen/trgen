@@ -1,5 +1,18 @@
 # Trainer Road Plan: Sweet Spot Base - Mid Volume I
 
+> The Sweet Spot Base plans are foundation training plans that can serve as the
+> basis for all training tracks offered by TrainerRoad.
+> 
+> The mid-volume version of Sweet Spot Base I serves as an opportunity to
+> revisit the form work that often gets neglected as the cycling season
+> progresses.  It then helps establish the aerobic fitness foundation upon which
+> you'll build your season's top fitness.
+> 
+> Following the initial fitness assessment, Sweet Spot Base I emphasizes pedal
+> economy - via leg speed, speed endurance, and cadence.   It also targets base
+> aerobic fitness via a healthy dose of Sweet Spot training aimed at making
+> every minute of your indoor endeavors count.
+
 ## Week 1
 
 > This first week is dedicated to assessing your current fitness, familiarizing

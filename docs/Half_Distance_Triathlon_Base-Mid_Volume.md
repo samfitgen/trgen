@@ -1,5 +1,19 @@
 # Trainer Road Plan: Half Distance Triathlon Base - Mid Volume
 
+> The mid-volume version of the Half Distance Triathlon Base plan has
+> triathletes swimming three times each week for up to 6600m, on the bike 4
+> times each week for up to 6.5 hours total (including a weekly brick workout),
+> and running less than 3.5 hours each week.
+> 
+> This version is aimed at reasonably experienced half distance triathletes
+> looking to make substantial improvements over past performances at these
+> distances - or even experienced Olympic distance triathletes looking to make
+> the jump to long course racing - on no more than 12.5 weekly training hours.
+> 
+> Note: Double-day workouts can be done in any order and separated by as little
+> or as much time as you choose, as long as you can keep the quality of both
+> workouts high.
+
 ## Week 1
 
 > _Tuesday_ **Swim Base Intervals (1700m)** Warm-Up 350m Easy, RPE4; 8x25m CU

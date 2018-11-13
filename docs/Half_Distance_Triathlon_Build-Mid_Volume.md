@@ -1,5 +1,11 @@
 # Trainer Road Plan: Half Distance Triathlon Build - Mid Volume
 
+> Having established your fairly broad base of fitness, these Build blocks shift
+> your training emphasis slightly away from intensity and more toward moderate-
+> level suffering. The importance of tolerating this longer-term physiological &
+> psychological challenge without succumbing to the urge to ease up is now your
+> primary focus.
+
 ## Week 1
 
 > _Tuesday_ **Swim Base + VO2max + Speed Intervals (2375m)** Warm-Up 350m Easy,

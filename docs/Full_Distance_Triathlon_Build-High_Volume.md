@@ -1,5 +1,10 @@
 # Trainer Road Plan: Full Distance Triathlon Build - High Volume
 
+> In what amounts to as much a battle of will as one of physical capability,
+> ultra-distance triathletes have to demonstrate exceedingly high levels of
+> fitness & mental fortitude. These Build blocks will address both via longer,
+> slightly less intense, but no less challenging workloads.
+
 ## Week 1
 
 > _Tuesday_ **Swim Base + Threshold Intervals (2800m)** Warm-Up 400m Easy, RPE4;

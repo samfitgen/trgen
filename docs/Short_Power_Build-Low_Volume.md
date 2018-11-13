@@ -1,5 +1,24 @@
 # Trainer Road Plan: Short Power Build - Low Volume
 
+> Building on the hard-earned base conditioning you've recently established,
+> it's time to move toward increasingly specific forms of training stress in
+> order to better prepare you for your specific events as well as the even more
+> event-specific training to follow.
+> 
+> Even a short-power rider maintains a heavy reliance on longer, sustained
+> power. Accordingly, a toned-down emphasis on strength endurance will still
+> find its way into this Short Power Build plan but greater attention will fall
+> on improving your ability to operate at high percentages of your VO2max power
+> as well as your ability to throw down big watts for very short durations,
+> repeatedly, and often with minimal recovery time.  
+> 
+> So riders concentrating on improving their abilities as shorter-course
+> mountain bikers, cyclocross racers, criterium specialists as well as those
+> taking part in weekday world championships will find this Build plan a proper
+> match for their dynamic riding style. This training will further your ability
+> to race aggressively, react quickly and powerfully, and do so again and again
+> with minimal or no decline in performance.
+
 ## Week 1
 
 > As is typical of most of our training plans' first week, Week 1 offers your

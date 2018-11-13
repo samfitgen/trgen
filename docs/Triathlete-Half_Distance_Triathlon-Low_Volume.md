@@ -1,5 +1,11 @@
 # Trainer Road Plan: Half Distance Triathlon - Low Volume
 
+> With the necessary endurance & strength in the bank, the objective becomes
+> growing as familiar as possible with the very specific demands of racing long
+> but not really long. This challenging mix of speed & endurance demands the
+> very particular preparation offered over the course of this final pre-race
+> block of training.
+
 ## Week 1
 
 > _Tuesday_ **Ramp Test** It's pretty likely you've seen some improvement over

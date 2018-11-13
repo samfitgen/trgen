@@ -1,5 +1,10 @@
 # Trainer Road Plan: Sprint Distance Triathlon - Mid Volume
 
+> As athletes draw closer to their events, more specific conditioning becomes
+> the focus of each subsequent training block. The increased focus on Threshold
+> and VO2max work here make it abundantly clear that Sprint triathlons require
+> speed in even measure with endurance.
+
 ## Week 1
 
 > _Tuesday_ **Ramp Test** One final FTP assessment awaits since it's very likely

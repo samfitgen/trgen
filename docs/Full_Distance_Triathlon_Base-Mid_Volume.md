@@ -1,5 +1,20 @@
 # Trainer Road Plan: Full Distance Triathlon Base - Mid Volume
 
+> The mid-volume version of the Full Distance Triathlon Base plan has
+> triathletes swimming three times each week for up to 9000m, on the bike 4
+> times each week for barely over 9 hours during the peak riding week (including
+> a few brick workouts) and running just over 4 hours during the peak-volume
+> running week.
+> 
+> The aim with this intermediate-volume plan is to push experienced full-
+> distance triathletes to new heights and help transitioning half-distance
+> triathletes make the jump to ultra-endurance distances via sufficient base
+> fitness in all 3 disciplines, all in 17 weekly training hours or less.
+> 
+> Note: Double-day workouts can be done in any order and separated by as little
+> or as much time as you choose as long as you can keep the quality of both
+> workouts high.
+
 ## Week 1
 
 > _Tuesday_ **Swim Base Intervals (1900m)** Warm-Up 350m Easy, RPE4; 10x25m CU

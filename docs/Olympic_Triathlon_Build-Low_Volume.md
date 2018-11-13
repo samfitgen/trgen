@@ -1,5 +1,10 @@
 # Trainer Road Plan: Olympic Triathlon Build - Low Volume
 
+> These Build blocks place increasing importance on not only extending but
+> sustaining your soon-to-be-elevated power & pace. Enduring some rather high-
+> level discomfort is challenging but necessary in order to push you to this new
+> level of performance.
+
 ## Week 1
 
 > _Tuesday_ **Swim Base + VO2max Intervals (1750m)** Warm-Up 250m Easy, RPE4;

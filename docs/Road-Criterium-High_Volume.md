@@ -1,5 +1,14 @@
 # Trainer Road Plan: Criterium - High Volume
 
+> The Criterium plans will prepare you for the highly dynamic nature of crit
+> racing by placing heavy emphasis on peaking your high, repeatable power output
+> without neglecting your ability to sustain big power for comparably longer
+> durations.
+> 
+> Whether you're the type of racer who excels via the use of short, explosive
+> bouts of work or the type that favors strategic breakaway efforts, the
+> Criterium plans are for you!
+
 ## Week 1
 
 > Week 1 begins with an all-important reassessment of your FTP via the Ramp

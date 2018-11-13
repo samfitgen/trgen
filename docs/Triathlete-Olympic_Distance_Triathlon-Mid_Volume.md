@@ -1,5 +1,11 @@
 # Trainer Road Plan: Olympic Distance Triathlon - Mid Volume
 
+> Trying to squeeze any final improvements out of your highest sustainable power
+> & pace while also subjecting you to the exact types of rigors you'll face on
+> race day, these final weeks of highly specialized training will challenge you
+> in every possible way before tapering your training just in time for your key
+> event(s).
+
 ## Week 1
 
 > _Tuesday_ **Ramp Test** Time to account for the improvement yielded by the

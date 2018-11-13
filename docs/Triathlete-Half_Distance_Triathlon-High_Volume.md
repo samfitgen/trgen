@@ -1,5 +1,11 @@
 # Trainer Road Plan: Half Distance Triathlon - High Volume
 
+> With the necessary endurance & strength in the bank, the objective becomes
+> growing as familiar as possible with the very specific demands of racing long
+> but not really long. This challenging mix of speed & endurance demands the
+> very particular preparation offered over the course of this final pre-race
+> block of training.
+
 ## Week 1
 
 > _Tuesday_ **Swim Base + VO2max Intervals (3100m)** Warm-Up 400m Easy, RPE4;

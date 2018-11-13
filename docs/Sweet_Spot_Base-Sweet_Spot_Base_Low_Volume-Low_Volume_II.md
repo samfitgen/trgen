@@ -1,5 +1,18 @@
 # Trainer Road Plan: Sweet Spot Base - Low Volume II
 
+> The Sweet Spot Base plans are foundation training plans that can serve as the
+> basis for all training tracks offered by TrainerRoad.
+> 
+> The low-volume version of Sweet Spot Base II builds rather substantially on
+> the preceding Base I plan in terms of workout types but only marginally
+> increases the stress from week to week all in the hopes of gradually
+> progressing your fitness and raising the training benefit that comes with
+> high-intensity intervals.
+> 
+> Over the course of this 6-week training plan, you'll have opportunities to
+> face and conquer everything from long aerobic Endurance rides to high-
+> intensity VO2max intervals and everything in between.
+
 ## Week 1
 
 > Week 1 is a smattering of the old blended with an interesting assortment of

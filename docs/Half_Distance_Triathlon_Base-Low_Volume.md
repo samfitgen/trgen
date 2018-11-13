@@ -1,5 +1,23 @@
 # Trainer Road Plan: Half Distance Triathlon Base - Low Volume
 
+> The low-volume version of the Half Distance Triathlon Base plan has
+> triathletes swimming three times each week for up to 6000m, on the bike 3-4
+> times each week for no more than 5 hours total (including a few brick
+> workouts), and running less than 3 hours each week.
+> 
+> The main objective here is to provide time-constrained Half Distance
+> triathletes the necessary fitness to successfully complete a race at these
+> extended distances. Athletes will achieve sufficient base fitness in all 3
+> disciplines, utilizing the minimum amount of time - no more than 10 hours per
+> week.
+> 
+> Proficient swimmers are welcome to trim their 3 weekly swims down to 2 if
+> their time constraints won’t allow 10 weekly hours.
+> 
+> Note: Double-day workouts can be done in any order and separated by as little
+> or as much time as you choose, as long as you can keep the quality of both
+> workouts high.
+
 ## Week 1
 
 > _Tuesday_   **FTP Assessment**  Get a solid estimate of your current fitness

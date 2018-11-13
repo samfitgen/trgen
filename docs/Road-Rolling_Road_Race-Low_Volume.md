@@ -1,5 +1,29 @@
 # Trainer Road Plan: Rolling Road Race - Low Volume
 
+> The aim of the Rolling Road Race training plan is to form a well-rounded rider
+> capable of the sustained power requirements of multi-hour road events that
+> also require short power surges to bridge gaps, cover breaks, and accelerate
+> up reasonably short, rolling hills.
+> 
+> Some attention is even devoted to furthering high power, explosive burst
+> capabilities (sprints) that undoubtedly weave their way into road races both
+> during the race and at its conclusion.
+> 
+> The low-volume version of the RRR Specialty plan will have you on the bike 3
+> times each week for 60-90 minutes during weeks 1-6 and the final 2 weeks are
+> devoted to tapering your training volume while retaining the necessary high
+> intensity in order to leave you fresh but sharp for your most important
+> events.
+> 
+> Weeks 7 and 8 provide a taper format that can be repeated for several weeks of
+> racing, but it's up to you to decide which week better suits your performance
+> & recovery needs. Typically, B-priority events can follow Week 7's format
+> while Week 8's even lower volume lends itself well to A-priority weekends.
+> 
+> Substitute any weekday races for the scheduled intervals workout - Tuesday
+> Night Worlds, for example - but do your best to make these races at least as
+> challenging as the workout you're skipping.
+
 ## Week 1
 
 > Your first workout is likely to be your final FTP reassessment, at least for

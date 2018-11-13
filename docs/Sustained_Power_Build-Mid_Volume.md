@@ -1,5 +1,20 @@
 # Trainer Road Plan: Sustained Power Build - Mid Volume
 
+> Coming off some consistent base training and adequate recovery following your
+> last phase of training should find you eager to do the work necessary to lift
+> your sustained-power capabilities. This plan will pursue that outcome from a
+> number of different angles, all effective in terms of increasing your strength
+> endurance, fatigue resistance and that ever-important mental ability to
+> withstand long bouts of relentless discomfort.
+> 
+> Whether you're a road racer, a time trialist or multisport athlete, a marathon
+> mountain biker or perhaps a century or gran fondo participant, pushing the
+> pedals hard and doing it for a long time is a necessity.
+> 
+> It's for this very reason that the Sustained Power Build plans were developed
+> -- to more specifically build your ability to push high, steady watts without
+> fading over lengthy durations during multi-hour events.
+
 ## Week 1
 
 > As you'd expect, Week 1 offers your first crack at assessing any improvements

@@ -1,5 +1,24 @@
 # Trainer Road Plan: Sweet Spot Base - Mid Volume II
 
+> The Sweet Spot Base plans are foundation training plans that can serve as the
+> basis for all training tracks offered by TrainerRoad.
+> 
+> The mid-volume version of Sweet Spot Base II builds rather substantially on
+> the preceding Base I plan in terms of workout types, but only marginally
+> increases the stress from week to week in an attempt to gradually progress
+> your fitness and raise the training benefit that comes with high-intensity
+> intervals.
+> 
+> An easy midweek ride has been added to offer an opportunity to accumulate up
+> to an hour's worth of low-level, aerobic base work that's unlikely to affect
+> the quality of your more intense work to follow over the course of the rest of
+> each week. It can be done outdoors and can also be skipped if your fatigue is
+> so high that a day off the bike is a safer bet than an easy one on the bike.
+> 
+> Over the course of this 6-week training plan, you'll have the opportunity to
+> face and conquer everything from long aerobic Endurance rides to high-
+> intensity VO2max intervals and everything in between.
+
 ## Week 1
 
 > Week 1 is a smattering of the old blended with an interesting assortment of
