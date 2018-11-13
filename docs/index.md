@@ -1,5 +1,17 @@
 # Workouts 
 
+* [Enthusiast / Maintenance-High Volume I](Enthusiast-Maintenance-High_Volume_I.md)
+
+* [Enthusiast / Maintenance-High Volume II](Enthusiast-Maintenance-High_Volume_II.md)
+
+* [Enthusiast / Maintenance-Low Volume I](Enthusiast-Maintenance-Low_Volume_I.md)
+
+* [Enthusiast / Maintenance-Low Volume II](Enthusiast-Maintenance-Low_Volume_II.md)
+
+* [Enthusiast / Maintenance-Mid Volume I](Enthusiast-Maintenance-Mid_Volume_I.md)
+
+* [Enthusiast / Maintenance-Mid Volume II](Enthusiast-Maintenance-Mid_Volume_II.md)
+
 * [Full Distance Triathlon Base / High Volume](Full_Distance_Triathlon_Base-High_Volume.md)
 
 * [Full Distance Triathlon Base / Low Volume](Full_Distance_Triathlon_Base-Low_Volume.md)
@@ -36,11 +48,23 @@
 
 * [Olympic Triathlon Build / Mid Volume](Olympic_Triathlon_Build-Mid_Volume.md)
 
-* [Road / High Volume](Road-High_Volume.md)
+* [Road / Climbing Road Race-High Volume](Road-Climbing_Road_Race-High_Volume.md)
 
-* [Road / Low Volume](Road-Low_Volume.md)
+* [Road / Climbing Road Race-Low Volume](Road-Climbing_Road_Race-Low_Volume.md)
 
-* [Road / Mid Volume](Road-Mid_Volume.md)
+* [Road / Climbing Road Race-Mid Volume](Road-Climbing_Road_Race-Mid_Volume.md)
+
+* [Road / Criterium-High Volume](Road-Criterium-High_Volume.md)
+
+* [Road / Criterium-Low Volume](Road-Criterium-Low_Volume.md)
+
+* [Road / Criterium-Mid Volume](Road-Criterium-Mid_Volume.md)
+
+* [Road / Rolling Road Race-High Volume](Road-Rolling_Road_Race-High_Volume.md)
+
+* [Road / Rolling Road Race-Low Volume](Road-Rolling_Road_Race-Low_Volume.md)
+
+* [Road / Rolling Road Race-Mid Volume](Road-Rolling_Road_Race-Mid_Volume.md)
 
 * [Short Power Build / High Volume](Short_Power_Build-High_Volume.md)
 
@@ -60,33 +84,57 @@
 
 * [Sustained Power Build / Mid Volume](Sustained_Power_Build-Mid_Volume.md)
 
-* [Sweet Spot Base / High Volume I](Sweet_Spot_Base-High_Volume_I.md)
+* [Sweet Spot Base / Sweet Spot Base High Volume-High Volume I](Sweet_Spot_Base-Sweet_Spot_Base_High_Volume-High_Volume_I.md)
 
-* [Sweet Spot Base / High Volume II](Sweet_Spot_Base-High_Volume_II.md)
+* [Sweet Spot Base / Sweet Spot Base High Volume-High Volume II](Sweet_Spot_Base-Sweet_Spot_Base_High_Volume-High_Volume_II.md)
 
-* [Sweet Spot Base / Low Volume I](Sweet_Spot_Base-Low_Volume_I.md)
+* [Sweet Spot Base / Sweet Spot Base Low Volume-Low Volume I](Sweet_Spot_Base-Sweet_Spot_Base_Low_Volume-Low_Volume_I.md)
 
-* [Sweet Spot Base / Low Volume II](Sweet_Spot_Base-Low_Volume_II.md)
+* [Sweet Spot Base / Sweet Spot Base Low Volume-Low Volume II](Sweet_Spot_Base-Sweet_Spot_Base_Low_Volume-Low_Volume_II.md)
 
-* [Sweet Spot Base / Mid Volume I](Sweet_Spot_Base-Mid_Volume_I.md)
+* [Sweet Spot Base / Sweet Spot Base Mid Volume-Mid Volume I](Sweet_Spot_Base-Sweet_Spot_Base_Mid_Volume-Mid_Volume_I.md)
 
-* [Sweet Spot Base / Mid Volume II](Sweet_Spot_Base-Mid_Volume_II.md)
+* [Sweet Spot Base / Sweet Spot Base Mid Volume-Mid Volume II](Sweet_Spot_Base-Sweet_Spot_Base_Mid_Volume-Mid_Volume_II.md)
 
-* [Traditional Base / High Volume I](Traditional_Base-High_Volume_I.md)
+* [Traditional Base / Traditional Base - High Volume-High Volume I](Traditional_Base-Traditional_Base_-_High_Volume-High_Volume_I.md)
 
-* [Traditional Base / High Volume II](Traditional_Base-High_Volume_II.md)
+* [Traditional Base / Traditional Base - High Volume-High Volume II](Traditional_Base-Traditional_Base_-_High_Volume-High_Volume_II.md)
 
-* [Traditional Base / High Volume III](Traditional_Base-High_Volume_III.md)
+* [Traditional Base / Traditional Base - High Volume-High Volume III](Traditional_Base-Traditional_Base_-_High_Volume-High_Volume_III.md)
 
-* [Traditional Base / Low Volume I](Traditional_Base-Low_Volume_I.md)
+* [Traditional Base / Traditional Base - Low Volume-Low Volume I](Traditional_Base-Traditional_Base_-_Low_Volume-Low_Volume_I.md)
 
-* [Traditional Base / Low Volume II](Traditional_Base-Low_Volume_II.md)
+* [Traditional Base / Traditional Base - Low Volume-Low Volume II](Traditional_Base-Traditional_Base_-_Low_Volume-Low_Volume_II.md)
 
-* [Traditional Base / Low Volume III](Traditional_Base-Low_Volume_III.md)
+* [Traditional Base / Traditional Base - Low Volume-Low Volume III](Traditional_Base-Traditional_Base_-_Low_Volume-Low_Volume_III.md)
 
-* [Traditional Base / Mid Volume I](Traditional_Base-Mid_Volume_I.md)
+* [Traditional Base / Traditional Base - Mid Volume-Mid Volume I](Traditional_Base-Traditional_Base_-_Mid_Volume-Mid_Volume_I.md)
 
-* [Traditional Base / Mid Volume II](Traditional_Base-Mid_Volume_II.md)
+* [Traditional Base / Traditional Base - Mid Volume-Mid Volume II](Traditional_Base-Traditional_Base_-_Mid_Volume-Mid_Volume_II.md)
 
-* [Traditional Base / Mid Volume III](Traditional_Base-Mid_Volume_III.md)
+* [Traditional Base / Traditional Base - Mid Volume-Mid Volume III](Traditional_Base-Traditional_Base_-_Mid_Volume-Mid_Volume_III.md)
+
+* [Triathlete / Full Distance Triathlon-High Volume](Triathlete-Full_Distance_Triathlon-High_Volume.md)
+
+* [Triathlete / Full Distance Triathlon-Low Volume](Triathlete-Full_Distance_Triathlon-Low_Volume.md)
+
+* [Triathlete / Full Distance Triathlon-Mid Volume](Triathlete-Full_Distance_Triathlon-Mid_Volume.md)
+
+* [Triathlete / Half Distance Triathlon-High Volume](Triathlete-Half_Distance_Triathlon-High_Volume.md)
+
+* [Triathlete / Half Distance Triathlon-Low Volume](Triathlete-Half_Distance_Triathlon-Low_Volume.md)
+
+* [Triathlete / Half Distance Triathlon-Mid Volume](Triathlete-Half_Distance_Triathlon-Mid_Volume.md)
+
+* [Triathlete / Olympic Distance Triathlon-High Volume](Triathlete-Olympic_Distance_Triathlon-High_Volume.md)
+
+* [Triathlete / Olympic Distance Triathlon-Low Volume](Triathlete-Olympic_Distance_Triathlon-Low_Volume.md)
+
+* [Triathlete / Olympic Distance Triathlon-Mid Volume](Triathlete-Olympic_Distance_Triathlon-Mid_Volume.md)
+
+* [Triathlete / Sprint Distance Triathlon-High Volume](Triathlete-Sprint_Distance_Triathlon-High_Volume.md)
+
+* [Triathlete / Sprint Distance Triathlon-Low Volume](Triathlete-Sprint_Distance_Triathlon-Low_Volume.md)
+
+* [Triathlete / Sprint Distance Triathlon-Mid Volume](Triathlete-Sprint_Distance_Triathlon-Mid_Volume.md)
 
