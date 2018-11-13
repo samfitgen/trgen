@@ -56,6 +56,7 @@ Rest Day
 > 
 > Good luck, ride hard!
 
+
 ### Wednesday 
 
 * **Name**: Hatch
@@ -116,6 +117,7 @@ Rest Day
 > Add this drill indoors or outdoors as often as you like, more frequently if
 > you recognize a substantial difference in one leg's strength or coordination.
 
+
 ### Thursday 
 
 * **Name**: Mount Field
@@ -128,6 +130,7 @@ Rest Day
 
 > Mount Field is 3x12-minute intervals at 85% FTP with 3-minute recoveries
 > between intervals.
+
 
 ### Friday 
 
@@ -150,6 +153,7 @@ Rest Day
 > The second part of Passadumkeag consists of 42 minutes of Sweet Spot-ish work
 > between 85-95% FTP with short bouts of aerobic Endurance riding at 55-65% FTP
 > separating each interval.
+
 
 ### Sunday 
 
@@ -197,6 +201,7 @@ Rest Day
 > anytime your form degrades; don't practice bad habits just to tack on 5 or 10
 > more seconds. Include this drill indoors 2-3 times each week accumulating 5-10
 > minutes per leg each workout.
+
 ## Week 2
 
 > The second week of Base III will introduce you to some standing hill intervals
@@ -226,6 +231,7 @@ Rest Day
 
 > Frissell -1 is 4x9-minute intervals at 95% FTP with 5-minute recoveries at 50%
 > FTP.
+
 
 ### Wednesday 
 
@@ -287,6 +293,7 @@ Rest Day
 > Add this drill indoors or outdoors as often as you like, more frequently if
 > you recognize a substantial difference in one leg's strength or coordination.
 
+
 ### Thursday 
 
 * **Name**: Seneca Rocks
@@ -299,6 +306,7 @@ Rest Day
 
 > Seneca Rocks is 3x15-minute intervals at 85% FTP with 5-minute recoveries
 > between intervals.
+
 
 ### Friday 
 
@@ -321,6 +329,7 @@ Rest Day
 > The second part of Ethan Allen consists of 51 minutes of Sweet Spot-ish work
 > between 85-95% FTP with short bouts of aerobic Endurance riding at 55-65% FTP
 > separating each interval.
+
 
 ### Sunday 
 
@@ -368,6 +377,7 @@ Rest Day
 > anytime your form degrades; don't practice bad habits just to tack on 5 or 10
 > more seconds. Include this drill indoors 2-3 times each week accumulating 5-10
 > minutes per leg each workout.
+
 ## Week 3
 
 > Week 3 of Base III builds your rides to the phase's highest levels of stress
@@ -394,6 +404,7 @@ Rest Day
 
 > Madison consists of 4x7-minute intervals at 100% FTP with 7-minute recoveries
 > between repeats.
+
 
 ### Wednesday 
 
@@ -455,6 +466,7 @@ Rest Day
 > Add this drill indoors or outdoors as often as you like, more frequently if
 > you recognize a substantial difference in one leg's strength or coordination.
 
+
 ### Thursday 
 
 * **Name**: Tray Mountain
@@ -467,6 +479,7 @@ Rest Day
 
 > Tray Mountain is 3x20-minute intervals at 90% FTP with 5-minute recoveries
 > between intervals.
+
 
 ### Friday 
 
@@ -489,6 +502,7 @@ Rest Day
 > The second part of North Pack consists of 59 minutes of Sweet Spot-ish work
 > between 85-95% FTP with short bouts of aerobic Endurance riding at 55-65% FTP
 > separating each interval.
+
 
 ### Sunday 
 
@@ -536,6 +550,7 @@ Rest Day
 > anytime your form degrades; don't practice bad habits just to tack on 5 or 10
 > more seconds. Include this drill indoors 2-3 times each week accumulating 5-10
 > minutes per leg each workout.
+
 ## Week 4
 
 > As usual, Week 4 of Base III will cut the workload down to its lowest point
@@ -566,6 +581,7 @@ Rest Day
 > Washington +2 is 5x7-minute intervals at 105% FTP with 5-minute recoveries
 > between intervals.
 
+
 ### Wednesday 
 
 * **Name**: Recess
@@ -587,6 +603,7 @@ Rest Day
 > on your bike and there are no strict rules governing effort level as long as
 > these feel recuperative and do not negatively impact your next key workout.
 
+
 ### Thursday 
 
 * **Name**: Pettit
@@ -601,6 +618,7 @@ Rest Day
 > 
 > Optional form drills include form sprints, speed-endurance intervals, and
 > quadrant drills.
+
 
 ### Friday 
 
@@ -622,6 +640,7 @@ Rest Day
 > Optional form drills include form sprints, speed-endurance intervals, and
 > quadrant drills.
 
+
 ### Sunday 
 
 * **Name**: Virginia
@@ -637,3 +656,4 @@ Rest Day
 > 
 > The optional form drills include Form Sprints, Endurance Spinning intervals,
 > and Pistons/Kick & Pull pedaling drills.
+

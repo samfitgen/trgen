@@ -98,6 +98,7 @@ Rest Day
 > dropping, and there is no benefit to continuing once your watts start to fall.
 > 
 > Good luck, ride hard!
+
 #### Workout 2
 * **Name**: Base Intervals
 
@@ -107,6 +108,7 @@ Rest Day
 > Warm-Up 350m Easy, RPE4 8x25m CU Drills w/ 10s rest between drills 6x100m
 > Easy-Moderate, RPE6 w/ 5s rest between intervals 8x25m K Drills w/ 15s rest
 > between drills Cool-Down 350m easy, RPE4.
+
 
 ### Wednesday 
 
@@ -119,6 +121,7 @@ Rest Day
 > Run 40min Easy-Moderate, RPE6 and randomly insert 6x30s bursts of high speed,
 > RPE9 over the course of the run with at least 1 minute of recovery running
 > between bursts.
+
 
 ### Thursday 
 
@@ -133,6 +136,7 @@ Rest Day
 
 > Pioneer is a 45-minute segment between 80-85% FTP nestled inside of an hour-
 > long workout.
+
 #### Workout 2
 * **Name**: Brick Workout (Pioneer + 15min Transition Run)
 * **Duration**: 15 hours
@@ -146,6 +150,7 @@ Rest Day
 > your running gear and hoofing it at an Easy-Moderate pace, RPE6 for only 15
 > minutes of heavy-leg running experience. Try not to let that initial lack of
 > coordination discourage you - it will pass before you know it.
+
 
 ### Friday 
 
@@ -166,6 +171,7 @@ Rest Day
 > The rest between intervals is 4 minutes and the workout kicks off with
 > 3x2-minute rounds of Isolated Leg Training (ILT) where riders can train each
 > leg's spin individually.
+
 #### Workout 2
 * **Name**: Swim Speed Intervals
 
@@ -175,6 +181,7 @@ Rest Day
 > Warm-Up 350m Easy, RPE4 8x25m F drills w/ 10s rest between drills 6x100m of
 > 25m Easy, RPE4/25m Hard, RPE8, 10s rest between intervals 8x25m SK drills w/
 > 15s rest between drills Cool-Down 350m easy, RPE4.
+
 
 ### Saturday 
 
@@ -189,6 +196,7 @@ Rest Day
 
 > Antelope is 5x10-minute Sweet Spot intervals ranging between 88-94% FTP with
 > 5-minute recoveries between intervals.
+
 #### Workout 2
 * **Name**: Base Run + Uphill Strides
 * **Duration**: 1 day and 6 hours
@@ -201,6 +209,7 @@ Rest Day
 > hill fairly tame such that you can run with a bit of speed and a fairly open
 > stride, not too choppy.
 
+
 ### Sunday 
 
 #### Workout 1
@@ -210,6 +219,7 @@ Rest Day
 **Description**:
 
 > Warm-Up 300m Easy, RPE4 1200m Easy-Moderate, RPE6 Cool-Down 300m easy, RPE4
+
 #### Workout 2
 * **Name**: Base Run
 * **Duration**: 2 days and 2 hours
@@ -220,6 +230,7 @@ Rest Day
 > 50min at Easy-Moderate pace, RPE6. Walk briefly when necessary and try to
 > recognize that quick walking breaks of a single minute can often keep the form
 > high while costing very little in terms of aerobic fitness improvements.
+
 ## Week 2
 
 > _Tuesday_ **Swim Base Intervals (1800m)** Warm-Up 350m Easy, RPE4; 8x25m F &T;
@@ -295,6 +306,7 @@ Rest Day
 
 > Shasta is 7x20-second all-out efforts at 200% FTP, each separated by about 5
 > minutes of active recovery at 65% of FTP.
+
 #### Workout 2
 * **Name**: Swim Base Intervals
 
@@ -304,6 +316,7 @@ Rest Day
 > Warm-Up 350m Easy, RPE4; 8x25m F&T; Drills w/ 10s rest between drills 7x100m
 > Easy-Moderate, RPE6 w/ 5s rest between intervals 8x25m K&R; Drills w/ 15s rest
 > between drills Cool-Down 350m easy, RPE4.
+
 
 ### Wednesday 
 
@@ -316,6 +329,7 @@ Rest Day
 > Run 40min Easy-Moderate, RPE6 and randomly insert a couple more 30s bursts of
 > high speed, RPE9 for a total of 8 this week. Separate them by at least 1
 > minute of regular-pace running between bursts.
+
 
 ### Thursday 
 
@@ -334,6 +348,7 @@ Rest Day
 > 
 > Tunnabora also includes 3x2-minute Isolated Leg Training (ILT) steps within
 > the warmup and recoveries between intervals are each 3 minutes long.
+
 #### Workout 2
 * **Name**: Base Run + Uphill Strides
 * **Duration**: 1 day and 16 hours
@@ -345,6 +360,7 @@ Rest Day
 > sprints, RPE10, preferably uphill w/ 40s of recovery between them. Keep the
 > hill’s grade reasonable such that you can run pretty naturally, pretty fast,
 > but work substantially harder.
+
 
 ### Friday 
 
@@ -359,6 +375,7 @@ Rest Day
 
 > Mount Field is 3x12-minute intervals at 85% FTP with 3-minute recoveries
 > between intervals.
+
 #### Workout 2
 * **Name**: Swim Speed Intervals
 
@@ -368,6 +385,7 @@ Rest Day
 > Warm-Up 350m Easy, RPE4 8x25m CU drills w/ 10s rest between drills 4x150m of
 > 50m Easy, RPE4/25m Hard, RPE8, 10s rest between intervals 8x25m K drills w/
 > 15s rest between drills Cool-Down 350m easy, RPE4.
+
 
 ### Saturday 
 
@@ -386,6 +404,7 @@ Rest Day
 > There is no scheduled rest during this workout, but brief, occasional
 > backspins are encouraged if they're the difference between loss of form and a
 > high-quality workout.
+
 #### Workout 2
 * **Name**: Brick Workout (Cumberland + 30min Base Run)
 * **Duration**: 1 day and 6 hours
@@ -400,6 +419,7 @@ Rest Day
 > if your strategy includes running breaks or this early point in the training
 > season merits them, walk for a minute when necessary.
 
+
 ### Sunday 
 
 #### Workout 1
@@ -409,6 +429,7 @@ Rest Day
 **Description**:
 
 > Warm-Up 350m Easy, RPE4 1200m Easy-Moderate, RPE6 Cool-Down 350m easy, RPE4.
+
 #### Workout 2
 * **Name**: Base Run
 * **Duration**: 2 days and 7 hours
@@ -420,6 +441,7 @@ Rest Day
 > to grow your continuous running stretches a minute or two each week. So if you
 > ran for 8 minutes last week before walking for a minute, try to run for 9 or
 > 10 minutes before walking during next week’s base runs.
+
 ## Week 3
 
 > _Tuesday_ **Swim Base Intervals (1900m)** Warm-Up 350m Easy, RPE4; 8x25m BB
@@ -498,6 +520,7 @@ Rest Day
 
 > Berryessa is 8x20-second all-out efforts at 200% FTP, each separated by almost
 > 5 minutes of active recovery at 65% of FTP.
+
 #### Workout 2
 * **Name**: Swim Base Intervals
 
@@ -507,6 +530,7 @@ Rest Day
 > Warm-Up 350m Easy, RPE4 8x25m BB Drills w/ 10s rest between drills 8x100m
 > Easy-Moderate, RPE6 w/ 5s rest between intervals 8x25m K&R; Drills w/ 15s rest
 > between drills Cool-Down 350m easy, RPE4.
+
 
 ### Wednesday 
 
@@ -521,6 +545,7 @@ Rest Day
 > running between bursts, but this week try to clean them up a little by running
 > more fluidly, more relaxed, but just as fast.
 
+
 ### Thursday 
 
 #### Workout 1
@@ -534,6 +559,7 @@ Rest Day
 
 > Pioneer is a 45-minute segment between 80-85% FTP nestled inside of an hour-
 > long workout.
+
 #### Workout 2
 * **Name**:  Brick Workout (Pioneer + 20min Race-Pace Run)
 * **Duration**: 20 hours
@@ -548,6 +574,7 @@ Rest Day
 > it’s like to overdo the opening couple miles of your half marathon, and build
 > some strength in the process.
 
+
 ### Friday 
 
 #### Workout 1
@@ -561,6 +588,7 @@ Rest Day
 
 > Tallac is 3x15-minute efforts spent in the Sweet Spot (88-94% FTP) with
 > 3-minute recoveries between intervals.
+
 #### Workout 2
 * **Name**: Swim Speed Intervals
 
@@ -571,6 +599,7 @@ Rest Day
 > 50m Build from RPE4 to RPE8/25m Descend from RPE8 to RPE4, 15s rest between
 > intervals 8x25m SK drills w/ 15s rest between drills Cool-Down 350m easy,
 > RPE4.
+
 
 ### Saturday 
 
@@ -584,6 +613,7 @@ Rest Day
 **Description**:
 
 > Boarstone is 2 hours of steady, aerobic Endurance spent between 65-75% FTP.
+
 #### Workout 2
 * **Name**: Base Run + Uphill Strides
 * **Duration**: 1 day and 6 hours
@@ -596,6 +626,7 @@ Rest Day
 > between them. If you’ve yet to find the same hill, keep looking for something
 > that makes running fast hard but...fast.
 
+
 ### Sunday 
 
 #### Workout 1
@@ -605,6 +636,7 @@ Rest Day
 **Description**:
 
 > Warm-Up 250m Easy, RPE4 1500m Easy-Moderate, RPE6 Cool-Down 250m easy, RPE4.
+
 #### Workout 2
 * **Name**: Base Run
 * **Duration**: 2 days and 12 hours
@@ -616,6 +648,7 @@ Rest Day
 > of continuous running this week but keep your form at the top of your list of
 > priorities. Much like swimming, small improvements in your technique can go a
 > long way toward making you faster (and less prone to injury).
+
 ## Week 4 (Recovery)
 
 > _Tuesday_ **Swim Base Intervals (1500m)** Warm-Up 350m Easy, RPE4; 8x25m SC
@@ -681,6 +714,7 @@ Rest Day
 
 > Haku is 6x20-second all-out efforts at 200% FTP, each separated by about 5
 > minutes of active recovery at 65% of FTP.
+
 #### Workout 2
 * **Name**: Swim Base Intervals
 
@@ -689,6 +723,7 @@ Rest Day
 
 > Warm-Up 350m Easy, RPE4 8x25m SC Drills w/ 10s rest between drills 6x100m
 > Easy-Moderate, RPE6 w/ 5s rest between intervals Cool-Down 350m easy, RPE4.
+
 
 ### Wednesday 
 
@@ -701,6 +736,7 @@ Rest Day
 > Run 35min Easy-Moderate, RPE6 and sprinkle in just 8x30s bursts of high speed,
 > RPE9 this week. Separate them by at least 1 minute of regular-pace running
 > between bursts.
+
 
 ### Thursday 
 
@@ -721,6 +757,7 @@ Rest Day
 > 
 > Then, you'll see a second, shorter 3x2-minute round of ILT and finish with
 > 2x6-minute Cadence Spin-Ups with 3 minutes of recovery between them.
+
 #### Workout 2
 * **Name**: Base Run + Uphill Strides
 * **Duration**: 1 day and 16 hours
@@ -731,6 +768,7 @@ Rest Day
 > Run 40min Easy-Moderate, RPE6 and then conclude your run with 4x20s controlled
 > sprints, RPE10, again this week, ideally on that same hill w/ 40s of recovery
 > between them.
+
 
 ### Friday 
 
@@ -747,6 +785,7 @@ Rest Day
 > 
 > Optional form drills include form sprints, speed-endurance intervals, and
 > quadrant drills.
+
 #### Workout 2
 * **Name**: Swim Speed Intervals
 
@@ -756,6 +795,7 @@ Rest Day
 > Warm-Up 350m Easy, RPE4 8x25m BB drills w/ 10s rest between drills 5x150m of
 > 25m Easy RPE4/25m Hard RPE8 10s rest between intervals Cool-Down 350m easy,
 > RPE4.
+
 
 ### Saturday 
 
@@ -770,6 +810,7 @@ Rest Day
 
 > Pioneer is a 45-minute segment between 80-85% FTP nestled inside of an hour-
 > long workout.
+
 #### Workout 2
 * **Name**: Brick Workout (Pioneer + 20min Transition Run)
 * **Duration**: 20 hours
@@ -783,6 +824,7 @@ Rest Day
 > not sustainable for a half marathon. You never know who you might have to
 > chase down or ditch coming out of transition.
 
+
 ### Sunday 
 
 #### Workout 1
@@ -792,6 +834,7 @@ Rest Day
 **Description**:
 
 > Warm-Up 300m Easy, RPE4 1200m Easy-Moderate, RPE6 Cool-Down 300m easy, RPE4.
+
 #### Workout 2
 * **Name**: Base Run
 * **Duration**: 1 day and 21 hours
@@ -802,6 +845,7 @@ Rest Day
 > 45min at Easy-Moderate pace, RPE6, and due to the recovery nature of this
 > week’s workouts, you’re welcome to take 1 to 2-minute walk-breaks as often as
 > necessary over the course of this run.
+
 ## Week 5
 
 > _Tuesday_ **Swim Base Intervals + Sprints (1925m)** Warm-Up 350m Easy, RPE4;
@@ -872,6 +916,7 @@ Rest Day
 > Baird -1 is 3 sets of 5x1-minute intervals at 120% FTP where recoveries
 > between intervals are 2 minutes long and recoveries between sets of intervals
 > are 3 minutes long.
+
 #### Workout 2
 * **Name**: Swim Base Intervals + Sprints 
 
@@ -882,6 +927,7 @@ Rest Day
 > Easy-Moderate, RPE6 w/ 5s rest between intervals 9x25m Sprints, All-Out, RPE10
 > w/ 20s rest between sprints 8x25m K Drills w/ 15s rest between drills Cool-
 > Down 350m easy, RPE4.
+
 
 ### Wednesday 
 
@@ -894,6 +940,7 @@ Rest Day
 > 15min Warm-Up, Easy, RPE4 then perform 6x1-minutes all-out repeats, RPE10 with
 > 3 minutes of recovery, RPE2 between them; 10min Cool-Down, RPE4 for roughly 45
 > minutes of running.
+
 
 ### Thursday 
 
@@ -912,6 +959,7 @@ Rest Day
 > There is no scheduled rest during this workout, but brief, occasional
 > backspins are encouraged if they're the difference between loss of form and a
 > high-quality workout.
+
 #### Workout 2
 * **Name**:  Brick Workout (Cumberland + 30min Base Run)
 * **Duration**: 1 day and 6 hours
@@ -923,6 +971,7 @@ Rest Day
 > fitness. So feel welcome to push the bike leg a little harder this time, then
 > keep your short base run at an Easy-Moderate pace, RPE6 for 30 minutes of
 > smoother, more controlled running.
+
 
 ### Friday 
 
@@ -940,6 +989,7 @@ Rest Day
 > 
 > Optional drills alternate each interval and include riding aerodynamically and
 > riding out of the saddle.
+
 #### Workout 2
 * **Name**: Swim Speed Intervals
 
@@ -950,6 +1000,7 @@ Rest Day
 > 50m Build from RPE4 to RPE8/50m Descend from RPE8 to RPE4, 15s rest between
 > intervals 8x25m K&R; drills w/15s rest between drills Cool-Down 350m easy,
 > RPE4.
+
 
 ### Saturday 
 
@@ -963,6 +1014,7 @@ Rest Day
 **Description**:
 
 > Laurentian is 2.25hours of Aerobic Endurance spent between 65-75% FTP.
+
 #### Workout 2
 * **Name**: Base Run + Uphill Strides
 * **Duration**: 1 day and 18 hours
@@ -973,6 +1025,7 @@ Rest Day
 > Run 35min Easy-Moderate, RPE6 and then conclude your run with 6x20s controlled
 > sprints, RPE10, preferably up a mild hill w/ 40s of recovery between sprints.
 
+
 ### Sunday 
 
 #### Workout 1
@@ -982,6 +1035,7 @@ Rest Day
 **Description**:
 
 > Warm-Up 300m Easy, RPE4 1500m Easy-Moderate, RPE6 Cool-Down 300m easy, RPE4.
+
 #### Workout 2
 * **Name**: Long Base Run
 * **Duration**: 2 days and 17 hours
@@ -993,6 +1047,7 @@ Rest Day
 > continuous mileage and a slower form of fatigue than you’ll see during your
 > shorter base runs. Accordingly, reduce the intensity to 4 or 5RPE if it keeps
 > your legs turning over, non-stop and injury-free.
+
 ## Week 6
 
 > _Tuesday_ **Swim Base Intervals + Sprints (1950m)** Warm-Up 350m Easy, RPE4;
@@ -1073,6 +1128,7 @@ Rest Day
 > 
 > 3-minute recoveries fall between intervals and 6-minute recoveries separate
 > the sets.
+
 #### Workout 2
 * **Name**: Swim Base Intervals + Sprints
 
@@ -1083,6 +1139,7 @@ Rest Day
 > Easy-Moderate, RPE6 w/ 5s rest between intervals 10x25m Sprints, All-Out,
 > RPE10 w/ 20s rest between sprints 8x25m SK Drills w/ 15s rest between drills
 > Cool-Down 350m easy, RPE4.
+
 
 ### Wednesday 
 
@@ -1095,6 +1152,7 @@ Rest Day
 > 15min Warm-Up, Easy, RPE4 then perform 7x1-minute, all-out repeats, RPE10 this
 > week, recovering for 3 minutes between repeats at RPE2. Then cool down for 10
 > minutes, RPE4 for a total of about 55 minutes of running.
+
 
 ### Thursday 
 
@@ -1112,6 +1170,7 @@ Rest Day
 > 
 > Optional drills alternate each interval and include riding aerodynamically and
 > riding out of the saddle.
+
 #### Workout 2
 * **Name**: Base Run + Uphill Strides
 * **Duration**: 2 days and 2 hours
@@ -1122,6 +1181,7 @@ Rest Day
 > Run 50min Easy-Moderate, RPE6 and then conclude your run with another 6x20s
 > controlled sprints, RPE10, preferably on that same mild hill w/ 40s of
 > recovery between them.
+
 
 ### Friday 
 
@@ -1136,6 +1196,7 @@ Rest Day
 
 > Tray Mountain is 3x20-minute intervals at 90% FTP with 5-minute recoveries
 > between intervals.
+
 #### Workout 2
 * **Name**: Swim Speed Intervals 
 
@@ -1145,6 +1206,7 @@ Rest Day
 > Warm-Up 350m Easy, RPE4 8x25m FS drills w/ 10s rest between drills; 5x200m of
 > 50m Easy, RPE4/50m Hard, RPE8, 15s rest between intervals 8x25m K drills w/15s
 > rest between drills Cool-Down 350m easy, RPE4.
+
 
 ### Saturday 
 
@@ -1159,6 +1221,7 @@ Rest Day
 
 > Phoenix is 90 minutes of continuous riding where you'll spend 75 minutes
 > between 80-85% FTP.
+
 #### Workout 2
 * **Name**:  Brick Workout (Phoenix + 30min Base Run)
 * **Duration**: 1 day and 6 hours
@@ -1173,6 +1236,7 @@ Rest Day
 > while you get clear of the fatigue from riding, establish a manageable pace
 > and get your running legs under you.
 
+
 ### Sunday 
 
 #### Workout 1
@@ -1184,6 +1248,7 @@ Rest Day
 > Warm-Up 350m Easy, RPE4 1650m Moderate-Hard, RPE8 Cool-Down 350m easy, RPE4.
 > Shoot for a pace that’s more in line with your goal race pace, and if at all
 > possible, try doing this swim in open water.
+
 #### Workout 2
 * **Name**: Base Run
 * **Duration**: 2 days and 2 hours
@@ -1193,6 +1258,7 @@ Rest Day
 
 > 50min at Easy-Moderate pace, RPE6. Practice steady, fluid running, entirely
 > continuous if you can do it without sacrificing form.
+
 ## Week 7
 
 > _Tuesday_ **Swim Base Intervals + Sprints (2075m)** Warm-Up 350m Easy, RPE4;
@@ -1270,6 +1336,7 @@ Rest Day
 > 
 > 2 minutes of recovery fall between Intervals and 6 minutes of easy spinning
 > separate each set.
+
 #### Workout 2
 * **Name**: Swim Base Intervals + Sprints
 
@@ -1280,6 +1347,7 @@ Rest Day
 > Easy-Moderate, RPE6 w/ 5s rest between intervals 11x25m Sprints, All-Out,
 > RPE10 w/ 20s rest between sprints 8x25m K&R; Drills w/ 15s rest between drills
 > Cool-Down 350m easy, RPE4.
+
 
 ### Wednesday 
 
@@ -1294,6 +1362,7 @@ Rest Day
 > between repeats at RPE2 and then cool down for 10 minutes, RPE4 for roughly 60
 > minutes of running.
 
+
 ### Thursday 
 
 #### Workout 1
@@ -1307,6 +1376,7 @@ Rest Day
 
 > Phoenix is 90 minutes of continuous riding where you'll spend 75 minutes
 > between 80-85% FTP.
+
 #### Workout 2
 * **Name**:  Brick Workout (Phoenix + 30min Base Run)
 * **Duration**: 1 day and 6 hours
@@ -1319,6 +1389,7 @@ Rest Day
 > possible - then dismount, transition quickly into your running gear and make
 > 30 minutes of Easy-Moderate pace, RPE6 look downright effortless...even if it
 > doesn’t feel that way.
+
 
 ### Friday 
 
@@ -1333,6 +1404,7 @@ Rest Day
 
 > Spruce Knob is 2x30-minute intervals at 85% FTP with a 6-minute recovey
 > between each.
+
 #### Workout 2
 * **Name**: Swim Speed Intervals 
 
@@ -1342,6 +1414,7 @@ Rest Day
 > Warm-Up 350m Easy, RPE4 8x25m HCU drills w/ 10s rest between drills 6x200m of
 > 50m Build from RPE4 to RPE8/50m Descend from RPE8 to RPE4, 15s rest between
 > intervals 8x25m SK drills w/15s rest between drills Cool-Down 350m easy, RPE4.
+
 
 ### Saturday 
 
@@ -1355,6 +1428,7 @@ Rest Day
 **Description**:
 
 > 2.5 hours of Aerobic Endurance spent between 65-75% FTP.
+
 #### Workout 2
 * **Name**: Base Run + Uphill Strides
 * **Duration**: 1 day and 11 hours
@@ -1366,6 +1440,7 @@ Rest Day
 > controlled sprints, RPE10, ideally on that perfect hill w/ 40s of recovery
 > between them.
 
+
 ### Sunday 
 
 #### Workout 1
@@ -1375,6 +1450,7 @@ Rest Day
 **Description**:
 
 > Warm-Up 200m Easy, RPE4 1800m Easy-Moderate, RPE6 Cool-Down 200m easy, RPE4.
+
 #### Workout 2
 * **Name**: Long Base Run
 * **Duration**: 2 days and 22 hours
@@ -1385,6 +1461,7 @@ Rest Day
 > Run for 70min at an Easy-Moderate pace, RPE6. The goal here is again steady,
 > continuous mileage and that slower form of fatigue, so reduce the intensity to
 > 4 or 5RPE if it helps you keep running with fewer, ideally no walk-breaks.
+
 ## Week 8 (Recovery)
 
 > _Tuesday_ **Swim Base Intervals + Sprints (1725m)** Warm-Up 350m Easy, RPE4;
@@ -1450,6 +1527,7 @@ Rest Day
 > Baird -1 is 3 sets of 5x1-minute intervals at 120% FTP where recoveries
 > between intervals are 2 minutes long and recoveries between sets of intervals
 > are 3 minutes long.
+
 #### Workout 2
 * **Name**: Swim Base Intervals + Sprints 
 
@@ -1459,6 +1537,7 @@ Rest Day
 > Warm-Up 350m Easy, RPE4 8x25m SC Drills w/ 10s rest between drills 6x100m
 > Easy-Moderate, RPE6 w/ 5s rest between intervals 9x25m Sprints, All-Out, RPE10
 > w/ 20s rest between sprints Cool-Down 350m easy, RPE4.
+
 
 ### Wednesday 
 
@@ -1472,6 +1551,7 @@ Rest Day
 > repeats, RPE10 for this recovery week. Recover for a few minutes between
 > repeats at RPE2 and then cool down for 10 minutes, RPE4 for about 45 minutes
 > of running.
+
 
 ### Thursday 
 
@@ -1489,6 +1569,7 @@ Rest Day
 > 
 > Optional drills alternate each interval and include riding aerodynamically and
 > riding out of the saddle.
+
 #### Workout 2
 * **Name**: Base Run + Uphill Strides
 * **Duration**: 1 day and 16 hours
@@ -1499,6 +1580,7 @@ Rest Day
 > Run 35min Easy-Moderate, RPE6 and then conclude your run with just 4x20s
 > controlled sprints, RPE10, either uphill or on the flat this week, and only
 > rest for 40s between them.
+
 
 ### Friday 
 
@@ -1515,6 +1597,7 @@ Rest Day
 > 
 > Optional form drills include form sprints, speed-endurance intervals, and
 > quadrant drills.
+
 #### Workout 2
 * **Name**: Swim Speed Intervals 
 
@@ -1524,6 +1607,7 @@ Rest Day
 > Warm-Up 350m Easy, RPE4 8x25m BB drills w/ 10s rest between drills 6x150m of
 > 50m Easy, RPE4/25m Hard, RPE8, 15s rest between intervals Cool-Down 350m easy,
 > RPE4.
+
 
 ### Saturday 
 
@@ -1542,6 +1626,7 @@ Rest Day
 > There is no scheduled rest during this workout, but brief, occasional
 > backspins are encouraged if they're the difference between loss of form and a
 > high-quality workout.
+
 #### Workout 2
 * **Name**:  Brick Workout (Cumberland + 30min Base Run)
 * **Duration**: 1 day and 6 hours
@@ -1554,6 +1639,7 @@ Rest Day
 > run at an Easy-Moderate pace, RPE6 for 30 minutes of running with occasional
 > 1-minute walk-breaks if necessary.
 
+
 ### Sunday 
 
 #### Workout 1
@@ -1563,6 +1649,7 @@ Rest Day
 **Description**:
 
 > Warm-Up 300m Easy, RPE4 1400m Easy-Moderate, RPE6 Cool-Down 300m easy, RPE4.
+
 #### Workout 2
 * **Name**: Base Run
 * **Duration**: 2 days and 2 hours
@@ -1572,3 +1659,4 @@ Rest Day
 
 > 50min at Easy-Moderate pace, RPE6. Practice steady, fluid running, entirely
 > continuous if you can do it without sacrificing form.
+

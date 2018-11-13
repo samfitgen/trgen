@@ -56,6 +56,7 @@ Rest Day
 > 
 > Good luck, ride hard!
 
+
 ### Wednesday 
 
 * **Name**: Flattop
@@ -105,6 +106,7 @@ Rest Day
 > more seconds. Include this drill indoors 2-3 times each week accumulating 5-10
 > minutes per leg each workout.
 
+
 ### Thursday 
 
 * **Name**: Tray Mountain
@@ -117,6 +119,7 @@ Rest Day
 
 > Tray Mountain is 3x20-minute intervals at 90% FTP with 5-minute recoveries
 > between intervals.
+
 
 ### Friday 
 
@@ -132,6 +135,7 @@ Rest Day
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
+
 
 ### Saturday 
 
@@ -149,6 +153,7 @@ Rest Day
 > The second part of North Pack consists of 59 minutes of Sweet Spot-ish work
 > between 85-95% FTP with short bouts of aerobic Endurance riding at 55-65% FTP
 > separating each interval.
+
 
 ### Sunday 
 
@@ -196,6 +201,7 @@ Rest Day
 > anytime your form degrades; don't practice bad habits just to tack on 5 or 10
 > more seconds. Include this drill indoors 2-3 times each week accumulating 5-10
 > minutes per leg each workout.
+
 ## Week 2
 
 > The second week of Base III will introduce you to some standing hill intervals
@@ -225,6 +231,7 @@ Rest Day
 
 > Frissell is 4x9-minute intervals at 95% FTP with 9-minute recoveries at 50%
 > FTP.
+
 
 ### Wednesday 
 
@@ -275,6 +282,7 @@ Rest Day
 > more seconds. Include this drill indoors 2-3 times each week accumulating 5-10
 > minutes per leg each workout.
 
+
 ### Thursday 
 
 * **Name**: Spruce Knob
@@ -287,6 +295,7 @@ Rest Day
 
 > Spruce Knob is 2x30-minute intervals at 85% FTP with a 6-minute recovey
 > between each.
+
 
 ### Friday 
 
@@ -302,6 +311,7 @@ Rest Day
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
+
 
 ### Saturday 
 
@@ -319,6 +329,7 @@ Rest Day
 > The second part of Aniakchak consists of almost 70 minutes of Sweet Spot-ish
 > work between 85-92% FTP with short bouts of aerobic Endurance riding at 55-65%
 > FTP separating each interval.
+
 
 ### Sunday 
 
@@ -366,6 +377,7 @@ Rest Day
 > anytime your form degrades; don't practice bad habits just to tack on 5 or 10
 > more seconds. Include this drill indoors 2-3 times each week accumulating 5-10
 > minutes per leg each workout.
+
 ## Week 3
 
 > Week 3 of Base III builds your rides to the phase's highest levels of stress
@@ -392,6 +404,7 @@ Rest Day
 
 > Eisenhower consists of 4x9-minute intervals at FTP with 9-minute recoveries
 > between each.
+
 
 ### Wednesday 
 
@@ -442,6 +455,7 @@ Rest Day
 > more seconds. Include this drill indoors 2-3 times each week accumulating 5-10
 > minutes per leg each workout.
 
+
 ### Thursday 
 
 * **Name**: Round Bald
@@ -454,6 +468,7 @@ Rest Day
 
 > Round Bald is 3x20-minute intervals at 85% FTP with 5-minute recoveries
 > between each.
+
 
 ### Friday 
 
@@ -469,6 +484,7 @@ Rest Day
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
+
 
 ### Saturday 
 
@@ -486,6 +502,7 @@ Rest Day
 > The second part of Baird Peak consists of 75 minutes of Sweet Spot work
 > between 88-94% FTP with short, 3-minute recovery valleys separating each
 > interval.
+
 
 ### Sunday 
 
@@ -547,6 +564,7 @@ Rest Day
 > & then softly kicking over the top of each pedalstroke. Add this drill indoors
 > or outdoors as often as you like, more frequently if you recognize a
 > substantial difference in one leg's strength or coordination.
+
 ## Week 4
 
 > As usual, Week 4 of Base III will cut the workload down to its lowest point
@@ -577,6 +595,7 @@ Rest Day
 > Mt Hale +3 is 4x9-minute intervals at 105% FTP with equal-time, 9-minute
 > recoveries.
 
+
 ### Wednesday 
 
 * **Name**: Fletcher
@@ -593,6 +612,7 @@ Rest Day
 > This workout's form drills include Form Sprints, Endurance Spinning, and
 > Pistons/Kick & Pull pedaling drills.
 
+
 ### Thursday 
 
 * **Name**: Gibbs
@@ -607,6 +627,7 @@ Rest Day
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
+
 
 ### Friday 
 
@@ -629,6 +650,7 @@ Rest Day
 > on your bike and there are no strict rules governing effort level as long as
 > these feel recuperative and do not negatively impact your next key workout.
 
+
 ### Saturday 
 
 * **Name**: Gibbs
@@ -644,6 +666,7 @@ Rest Day
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
 
+
 ### Sunday 
 
 * **Name**: Gibbs
@@ -658,3 +681,4 @@ Rest Day
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
+

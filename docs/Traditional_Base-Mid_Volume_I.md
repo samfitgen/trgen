@@ -57,6 +57,7 @@ Rest Day
 > 
 > Good luck, ride hard!
 
+
 ### Wednesday 
 
 Rest Day
@@ -77,6 +78,7 @@ Rest Day
 > 
 > This workout's form drills include Form Sprints, Endurance Spinning, and
 > Pistons/Kick & Pull pedaling drills.
+
 
 ### Friday 
 
@@ -99,6 +101,7 @@ Rest Day
 > This workout's form drills include Form Sprints, Endurance Spinning, and
 > Pistons/Kick & Pull pedaling drills.
 
+
 ### Sunday 
 
 * **Name**: Fletcher
@@ -114,6 +117,7 @@ Rest Day
 > 
 > This workout's form drills include Form Sprints, Endurance Spinning, and
 > Pistons/Kick & Pull pedaling drills.
+
 ## Week 2
 
 > The second week of Base I slightly ups the duration of each of your 4 weekly
@@ -142,6 +146,7 @@ Rest Day
 > The optional form drills include Form Sprints, Endurance Spinning intervals,
 > and Pistons/Kick & Pull pedaling drills.
 
+
 ### Wednesday 
 
 Rest Day
@@ -162,6 +167,7 @@ Rest Day
 > 
 > The optional form drills include Form Sprints, Endurance Spinning intervals,
 > and Pistons/Kick & Pull pedaling drills.
+
 
 ### Friday 
 
@@ -184,6 +190,7 @@ Rest Day
 > The optional form drills include Form Sprints, Endurance Spinning intervals,
 > and Pistons/Kick & Pull pedaling drills.
 
+
 ### Sunday 
 
 * **Name**: Virginia
@@ -199,6 +206,7 @@ Rest Day
 > 
 > The optional form drills include Form Sprints, Endurance Spinning intervals,
 > and Pistons/Kick & Pull pedaling drills.
+
 ## Week 3
 
 > Week 3 of Base I builds your rides to the phase's highest durations so far
@@ -226,6 +234,7 @@ Rest Day
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
 
+
 ### Wednesday 
 
 Rest Day
@@ -245,6 +254,7 @@ Rest Day
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
+
 
 ### Friday 
 
@@ -266,6 +276,7 @@ Rest Day
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
 
+
 ### Sunday 
 
 * **Name**: Gibbs
@@ -280,6 +291,7 @@ Rest Day
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
+
 ## Week 4
 
 > Week 4 of Base I will cut the workload down to its lowest point in order to
@@ -309,6 +321,7 @@ Rest Day
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > quadrant drills like Pistons and Kick & Pull drills.
 
+
 ### Wednesday 
 
 Rest Day
@@ -329,6 +342,7 @@ Rest Day
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > quadrant drills like Pistons and Kick & Pull drills.
+
 
 ### Friday 
 
@@ -351,6 +365,7 @@ Rest Day
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > quadrant drills like Pistons and Kick & Pull drills.
 
+
 ### Sunday 
 
 * **Name**: Whorl 
@@ -366,3 +381,4 @@ Rest Day
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > quadrant drills like Pistons and Kick & Pull drills.
+

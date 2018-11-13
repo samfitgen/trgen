@@ -433,7 +433,6 @@ Rest Day
 ### Saturday 
 
 * **Name**: Carter +1
-* **Type**: 🚴‍♂️
 * **Duration**: 45 minutes
 * **TSS**: 43.0
 * **NP**: 152

@@ -55,6 +55,7 @@ Rest Day
 > 
 > Good luck, ride hard!
 
+
 ### Wednesday 
 
 Rest Day
@@ -72,6 +73,7 @@ Rest Day
 
 > Slide Mountain is 3x10-minute intervals at 85% FTP with 4-minute recoveries
 > between intervals.
+
 
 ### Friday 
 
@@ -94,6 +96,7 @@ Rest Day
 > The second part of North Twin consists of 25 minutes of Sweet Spot-ish work
 > between 85-95% FTP with short bouts of aerobic Endurance riding at 55-75% FTP
 > separating each interval.
+
 
 ### Sunday 
 
@@ -138,6 +141,7 @@ Rest Day
 > and then softly kicking over the top of each pedalstroke. Add this drill
 > indoors or outdoors as often as you like, more frequently if you recognize a
 > substantial difference in one leg's strength or coordination.
+
 ## Week 2
 
 > The second week of Base III will introduce you to some standing hill intervals
@@ -174,6 +178,7 @@ Rest Day
 > Pedalstroke quadrant drills are included mostly during the seated segments but
 > trickle into the standing segments too.
 
+
 ### Wednesday 
 
 Rest Day
@@ -191,6 +196,7 @@ Rest Day
 
 > Table Rock is 2x15-minute intervals at 85% FTP with 6-minute recoveries
 > between intervals.
+
 
 ### Friday 
 
@@ -213,6 +219,7 @@ Rest Day
 > The second part of Mount Major consists of 27 minutes of Sweet Spot-ish work
 > between 85-95% FTP with short bouts of aerobic Endurance riding at 55-75% FTP
 > separating each interval.
+
 
 ### Sunday 
 
@@ -257,6 +264,7 @@ Rest Day
 > and then softly kicking over the top of each pedalstroke. Add this drill
 > indoors or outdoors as often as you like, more frequently if you recognize a
 > substantial difference in one leg's strength or coordination.
+
 ## Week 3
 
 > Week 3 of Base III builds your rides to the phase's highest levels of stress
@@ -284,6 +292,7 @@ Rest Day
 > Garfield is made up of 4x5-minute intervals at 100% of your FTP with 5-minute
 > recoveries between repeats.
 
+
 ### Wednesday 
 
 Rest Day
@@ -301,6 +310,7 @@ Rest Day
 
 > Mount Field is 3x12-minute intervals at 85% FTP with 3-minute recoveries
 > between intervals.
+
 
 ### Friday 
 
@@ -323,6 +333,7 @@ Rest Day
 > The second part of Roan High consists of 31 minutes of Sweet Spot-ish work
 > between 85-95% FTP with short bouts of aerobic Endurance riding at 55-75% FTP
 > separating each interval.
+
 
 ### Sunday 
 
@@ -367,6 +378,7 @@ Rest Day
 > and then softly kicking over the top of each pedalstroke. Add this drill
 > indoors or outdoors as often as you like, more frequently if you recognize a
 > substantial difference in one leg's strength or coordination.
+
 ## Week 4
 
 > As usual, Week 4 of Base III will cut the workload down to its lowest point
@@ -397,6 +409,7 @@ Rest Day
 > Mansfield is 4x5-minute intervals at 105% FTP with 5-minute recoveries
 > following each interval.
 
+
 ### Wednesday 
 
 Rest Day
@@ -416,6 +429,7 @@ Rest Day
 > 
 > Optional form drills include form sprints, speed-endurance intervals, and
 > quadrant drills.
+
 
 ### Friday 
 
@@ -443,6 +457,7 @@ Rest Day
 > on your bike and there are no strict rules governing effort level as long as
 > these feel recuperative and do not negatively impact your next key workout.
 
+
 ### Sunday 
 
 * **Name**: Pettit
@@ -457,3 +472,4 @@ Rest Day
 > 
 > Optional form drills include form sprints, speed-endurance intervals, and
 > quadrant drills.
+

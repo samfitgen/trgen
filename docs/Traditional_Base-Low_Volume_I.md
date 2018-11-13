@@ -57,6 +57,7 @@ Rest Day
 > 
 > Good luck, ride hard!
 
+
 ### Wednesday 
 
 Rest Day
@@ -78,6 +79,7 @@ Rest Day
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > quadrant drills like Pistons and Kick & Pull drills.
 
+
 ### Friday 
 
 Rest Day
@@ -98,6 +100,7 @@ Rest Day
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > quadrant drills like Pistons and Kick & Pull drills.
+
 
 ### Sunday 
 
@@ -131,6 +134,7 @@ Rest Day
 > This workout's form drills include Form Sprints, Endurance Spinning, and
 > Pistons/Kick & Pull pedaling drills.
 
+
 ### Wednesday 
 
 Rest Day
@@ -152,6 +156,7 @@ Rest Day
 > This workout's form drills include Form Sprints, Endurance Spinning, and
 > Pistons/Kick & Pull pedaling drills.
 
+
 ### Friday 
 
 Rest Day
@@ -172,6 +177,7 @@ Rest Day
 > 
 > This workout's form drills include Form Sprints, Endurance Spinning, and
 > Pistons/Kick & Pull pedaling drills.
+
 
 ### Sunday 
 
@@ -205,6 +211,7 @@ Rest Day
 > The optional form drills include Form Sprints, Endurance Spinning intervals,
 > and Pistons/Kick & Pull pedaling drills.
 
+
 ### Wednesday 
 
 Rest Day
@@ -226,6 +233,7 @@ Rest Day
 > The optional form drills include Form Sprints, Endurance Spinning intervals,
 > and Pistons/Kick & Pull pedaling drills.
 
+
 ### Friday 
 
 Rest Day
@@ -246,6 +254,7 @@ Rest Day
 > 
 > The optional form drills include Form Sprints, Endurance Spinning intervals,
 > and Pistons/Kick & Pull pedaling drills.
+
 
 ### Sunday 
 
@@ -279,6 +288,7 @@ Rest Day
 > Optional form drills include form sprints, speed-endurance intervals, and
 > quadrant drills.
 
+
 ### Wednesday 
 
 Rest Day
@@ -299,6 +309,7 @@ Rest Day
 > Optional form drills include form sprints, speed-endurance intervals, and
 > quadrant drills.
 
+
 ### Friday 
 
 Rest Day
@@ -318,6 +329,7 @@ Rest Day
 > 
 > Optional form drills include form sprints, speed-endurance intervals, and
 > quadrant drills.
+
 
 ### Sunday 
 

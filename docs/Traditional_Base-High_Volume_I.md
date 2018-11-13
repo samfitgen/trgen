@@ -57,6 +57,7 @@ Rest Day
 > 
 > Good luck, ride hard!
 
+
 ### Wednesday 
 
 Rest Day
@@ -78,6 +79,7 @@ Rest Day
 > Optional form drills include Form Sprints,
 > 
 > Endurance Spinning & Individual Leg Training (ILT).
+
 
 ### Friday 
 
@@ -101,6 +103,7 @@ Rest Day
 > 
 > Endurance Spinning & Individual Leg Training (ILT).
 
+
 ### Sunday 
 
 * **Name**: Warren
@@ -117,6 +120,7 @@ Rest Day
 > Optional form drills include Form Sprints,
 > 
 > Endurance Spinning & Individual Leg Training (ILT).
+
 ## Week 2
 
 > The second week of Base I slightly ups the duration of each of your 4 weekly
@@ -145,6 +149,7 @@ Rest Day
 > Optional form drills include Form Sprints, Endurance Spinning and Single-Leg
 > Focus (SLF).
 
+
 ### Wednesday 
 
 Rest Day
@@ -165,6 +170,7 @@ Rest Day
 > 
 > Optional form drills include Form Sprints, Endurance Spinning and Single-Leg
 > Focus (SLF).
+
 
 ### Friday 
 
@@ -187,6 +193,7 @@ Rest Day
 > Optional form drills include Form Sprints, Endurance Spinning and Single-Leg
 > Focus (SLF).
 
+
 ### Sunday 
 
 * **Name**: Koip
@@ -202,6 +209,7 @@ Rest Day
 > 
 > Optional form drills include Form Sprints, Endurance Spinning and Single-Leg
 > Focus (SLF).
+
 ## Week 3
 
 > Week 3 of Base I builds your rides to the phase's highest durations so far
@@ -231,6 +239,7 @@ Rest Day
 > Some of the optional form drills are Form Sprints, Endurance Spinning
 > intervals, a bit of aero work & some Single-Leg Focus drills to name a few.
 
+
 ### Wednesday 
 
 Rest Day
@@ -251,6 +260,7 @@ Rest Day
 > 
 > Some of the optional form drills are Form Sprints, Endurance Spinning
 > intervals, a bit of aero work & some Single-Leg Focus drills to name a few.
+
 
 ### Friday 
 
@@ -273,6 +283,7 @@ Rest Day
 > Some of the optional form drills are Form Sprints, Endurance Spinning
 > intervals, a bit of aero work & some Single-Leg Focus drills to name a few.
 
+
 ### Sunday 
 
 * **Name**: Conness
@@ -288,6 +299,7 @@ Rest Day
 > 
 > Some of the optional form drills are Form Sprints, Endurance Spinning
 > intervals, a bit of aero work & some Single-Leg Focus drills to name a few.
+
 ## Week 4
 
 > Week 4 of Base I will cut the workload down to its lowest point in order to
@@ -316,6 +328,7 @@ Rest Day
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
 
+
 ### Wednesday 
 
 Rest Day
@@ -335,6 +348,7 @@ Rest Day
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
+
 
 ### Friday 
 
@@ -356,6 +370,7 @@ Rest Day
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
 
+
 ### Sunday 
 
 * **Name**: Gibbs
@@ -370,3 +385,4 @@ Rest Day
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
+

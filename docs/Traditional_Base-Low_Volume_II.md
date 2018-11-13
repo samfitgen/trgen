@@ -53,6 +53,7 @@ Rest Day
 > 
 > Good luck, ride hard!
 
+
 ### Wednesday 
 
 Rest Day
@@ -70,6 +71,7 @@ Rest Day
 
 > Mont Albert is 1 hour of Tempo intervals spent between 70-80% FTP with
 > intermittent, 1 to 3-minute recoveries at 55% FTP.
+
 
 ### Friday 
 
@@ -90,6 +92,7 @@ Rest Day
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
+
 
 ### Sunday 
 
@@ -123,6 +126,7 @@ Rest Day
 > the addition of 3x1-minute Force Intervals with 1 minute's rest between them
 > and 3x10s Strength Sprints followed by 6 minutes of Tempo work.
 
+
 ### Wednesday 
 
 Rest Day
@@ -140,6 +144,7 @@ Rest Day
 
 > Mont Gosford is 1.25 hours of Tempo intervals spent between 70-80% FTP with
 > intermittent, 2 to 3-minute recoveries at 55% FTP.
+
 
 ### Friday 
 
@@ -162,6 +167,7 @@ Rest Day
 > Optional form drills include Form Sprints,
 > 
 > Endurance Spinning & Individual Leg Training (ILT).
+
 
 ### Sunday 
 
@@ -194,6 +200,7 @@ Rest Day
 > the addition of 4x1-minute Force Intervals with 1 minute's rest between them
 > and 3x10s Strength Sprints followed by 6 minutes of Tempo work.
 
+
 ### Wednesday 
 
 Rest Day
@@ -211,6 +218,7 @@ Rest Day
 
 > Holt Hill totals over 70 minutes of Tempo intervals spent between 70-80% FTP
 > with intermittent, 3-minute recoveries.
+
 
 ### Friday 
 
@@ -232,6 +240,7 @@ Rest Day
 > 
 > Optional form drills include Form Sprints, Endurance Spinning and Single-Leg
 > Focus (SLF).
+
 
 ### Sunday 
 
@@ -264,6 +273,7 @@ Rest Day
 > addition of 3x2-minute Force Intervals with 2 minute's rest between them and
 > 3x10s Strength Sprints followed by 6 minutes of Tempo work.
 
+
 ### Wednesday 
 
 Rest Day
@@ -284,6 +294,7 @@ Rest Day
 > Optional form drills include form sprints, speed-endurance intervals, and
 > quadrant drills.
 
+
 ### Friday 
 
 Rest Day
@@ -303,6 +314,7 @@ Rest Day
 > 
 > Optional form drills include form sprints, speed-endurance intervals, and
 > quadrant drills.
+
 
 ### Sunday 
 

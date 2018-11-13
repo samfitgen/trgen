@@ -53,6 +53,7 @@ Rest Day
 > 
 > Good luck, ride hard!
 
+
 ### Wednesday 
 
 * **Name**: Gibbs
@@ -67,6 +68,7 @@ Rest Day
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
+
 
 ### Thursday 
 
@@ -83,6 +85,7 @@ Rest Day
 > 
 > Optional drills include form sprints, endurance- spinning intervals, some
 > single-leg focus drills and some random pedalstroke work.
+
 
 ### Friday 
 
@@ -102,6 +105,7 @@ Rest Day
 > Kennedy Peak is 2.5 hours of Tempo intervals spent between 70-80% FTP with
 > intermittent, 3-minute recoveries at 55% FTP.
 
+
 ### Sunday 
 
 * **Name**: Maclure
@@ -117,6 +121,7 @@ Rest Day
 > 
 > Some of the optional form drills are Form Sprints, Endurance Spinning
 > intervals & some Isolated Leg Training drills.
+
 ## Week 2
 
 > The second week of Base II slightly ups the duration of your midweek AE ride,
@@ -146,6 +151,7 @@ Rest Day
 > the addition of 3x2-minute Force Intervals with 2 minute's rest between them
 > and 3x10-second Strength Sprints followed by 6 minutes of Tempo work.
 
+
 ### Wednesday 
 
 * **Name**: Warren
@@ -163,6 +169,7 @@ Rest Day
 > 
 > Endurance Spinning & Individual Leg Training (ILT).
 
+
 ### Thursday 
 
 * **Name**: Hump Mountain
@@ -178,6 +185,7 @@ Rest Day
 > 
 > Optional drills include form sprints, endurance- spinning intervals, some
 > single-leg focus drills and some random pedalstroke work.
+
 
 ### Friday 
 
@@ -197,6 +205,7 @@ Rest Day
 > Martin Hill is 2.75 hours of Tempo intervals spent between 70-80% FTP with
 > intermittent, 3-minute recoveries at 55% FTP.
 
+
 ### Sunday 
 
 * **Name**: Tenaya
@@ -212,6 +221,7 @@ Rest Day
 > 
 > Some of the optional form drills are Form Sprints, Endurance Spinning
 > intervals & some Isolated Leg Training drills.
+
 ## Week 3
 
 > Week 3 of Base II builds your rides to the phase's highest durations so far
@@ -239,6 +249,7 @@ Rest Day
 > the addition of 4x2-minute Force Intervals with 2 minute's rest between them
 > and 3x10s Strength Sprints followed by 6 minutes of Tempo work.
 
+
 ### Wednesday 
 
 * **Name**: Koip
@@ -254,6 +265,7 @@ Rest Day
 > 
 > Optional form drills include Form Sprints, Endurance Spinning and Single-Leg
 > Focus (SLF).
+
 
 ### Thursday 
 
@@ -298,6 +310,7 @@ Rest Day
 > indoors or outdoors as often as you like, more frequently if you recognize a
 > substantial difference in one leg's strength or coordination.
 
+
 ### Friday 
 
 Rest Day
@@ -316,6 +329,7 @@ Rest Day
 > Mount Bond is 3 hours of Tempo intervals spent between 70-80% FTP with
 > intermittent, 3-minute recoveries at 55% FTP.
 
+
 ### Sunday 
 
 * **Name**: Lyell
@@ -331,6 +345,7 @@ Rest Day
 > 
 > Some of the optional form drills are Form Sprints, Endurance Spinning
 > intervals & some Isolated Leg Training drills.
+
 ## Week 4
 
 > Week 4 of Base II will cut the workload down to its lowest point and give you
@@ -359,6 +374,7 @@ Rest Day
 > addition of 3x3-minute Force Intervals with 3 minute's rest between them and
 > 3x10s Strength Sprints followed by 6 minutes of Tempo work.
 
+
 ### Wednesday 
 
 * **Name**: Gibbs
@@ -374,6 +390,7 @@ Rest Day
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
 
+
 ### Thursday 
 
 * **Name**: Gibbs
@@ -388,6 +405,7 @@ Rest Day
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
+
 
 ### Friday 
 
@@ -408,6 +426,7 @@ Rest Day
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
+
 
 ### Sunday 
 
