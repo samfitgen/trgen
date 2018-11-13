@@ -6,6 +6,12 @@
 
 * [Full_Distance_Triathlon_Base - Mid_Volume](Full_Distance_Triathlon_Base-Mid_Volume.md)
 
+* [Full_Distance_Triathlon_Build - High_Volume](Full_Distance_Triathlon_Build-High_Volume.md)
+
+* [Full_Distance_Triathlon_Build - Low_Volume](Full_Distance_Triathlon_Build-Low_Volume.md)
+
+* [Full_Distance_Triathlon_Build - Mid_Volume](Full_Distance_Triathlon_Build-Mid_Volume.md)
+
 * [General_Build - High_Volume](General_Build-High_Volume.md)
 
 * [General_Build - Low_Volume](General_Build-Low_Volume.md)
@@ -18,11 +24,29 @@
 
 * [Half_Distance_Triathlon_Base - Mid_Volume](Half_Distance_Triathlon_Base-Mid_Volume.md)
 
+* [Half_Distance_Triathlon_Build - High_Volume](Half_Distance_Triathlon_Build-High_Volume.md)
+
+* [Half_Distance_Triathlon_Build - Low_Volume](Half_Distance_Triathlon_Build-Low_Volume.md)
+
+* [Half_Distance_Triathlon_Build - Mid_Volume](Half_Distance_Triathlon_Build-Mid_Volume.md)
+
+* [Olympic_Triathlon_Build - High_Volume](Olympic_Triathlon_Build-High_Volume.md)
+
+* [Olympic_Triathlon_Build - Low_Volume](Olympic_Triathlon_Build-Low_Volume.md)
+
+* [Olympic_Triathlon_Build - Mid_Volume](Olympic_Triathlon_Build-Mid_Volume.md)
+
 * [Short_Power_Build - High_Volume](Short_Power_Build-High_Volume.md)
 
 * [Short_Power_Build - Low_Volume](Short_Power_Build-Low_Volume.md)
 
 * [Short_Power_Build - Mid_Volume](Short_Power_Build-Mid_Volume.md)
+
+* [Sprint_Triathlon_Build - High_Volume](Sprint_Triathlon_Build-High_Volume.md)
+
+* [Sprint_Triathlon_Build - Low_Volume](Sprint_Triathlon_Build-Low_Volume.md)
+
+* [Sprint_Triathlon_Build - Mid_Volume](Sprint_Triathlon_Build-Mid_Volume.md)
 
 * [Sustained_Power_Build - High_Volume](Sustained_Power_Build-High_Volume.md)
 
