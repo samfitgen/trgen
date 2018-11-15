@@ -130,6 +130,18 @@
 
 ### Olympic
 
+* [Olympic Triathlon Base / High Volume](Olympic_Triathlon_Base-High_Volume.md)
+
+* [Olympic Triathlon Base / Low Volume](Olympic_Triathlon_Base-Low_Volume.md)
+
+* [Olympic Triathlon Base / Mid Volume](Olympic_Triathlon_Base-Mid_Volume.md)
+
+* [Olympic Triathlon Build / High Volume](Olympic_Triathlon_Build-High_Volume.md)
+
+* [Olympic Triathlon Build / Low Volume](Olympic_Triathlon_Build-Low_Volume.md)
+
+* [Olympic Triathlon Build / Mid Volume](Olympic_Triathlon_Build-Mid_Volume.md)
+
 * [Triathlete / Olympic Distance Triathlon / High Volume](Triathlete-Olympic_Distance_Triathlon-High_Volume.md)
 
 * [Triathlete / Olympic Distance Triathlon / Low Volume](Triathlete-Olympic_Distance_Triathlon-Low_Volume.md)
@@ -137,6 +149,18 @@
 * [Triathlete / Olympic Distance Triathlon / Mid Volume](Triathlete-Olympic_Distance_Triathlon-Mid_Volume.md)
 
 ### Sprint
+
+* [Sprint Triathlon Base / High Volume](Sprint_Triathlon_Base-High_Volume.md)
+
+* [Sprint Triathlon Base / Low Volume](Sprint_Triathlon_Base-Low_Volume.md)
+
+* [Sprint Triathlon Base / Mid Volume](Sprint_Triathlon_Base-Mid_Volume.md)
+
+* [Sprint Triathlon Build / High Volume](Sprint_Triathlon_Build-High_Volume.md)
+
+* [Sprint Triathlon Build / Low Volume](Sprint_Triathlon_Build-Low_Volume.md)
+
+* [Sprint Triathlon Build / Mid Volume](Sprint_Triathlon_Build-Mid_Volume.md)
 
 * [Triathlete / Sprint Distance Triathlon / High Volume](Triathlete-Sprint_Distance_Triathlon-High_Volume.md)
 
