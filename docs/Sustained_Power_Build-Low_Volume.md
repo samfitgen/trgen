@@ -224,15 +224,17 @@ Rest Day
 
 * **Name**: Bashful +2
 * **Duration**: 1 hour
-* **TSS**: 91.0
-* **NP**: 192
-* **IF**: 96%
+* **TSS**: 89.0
+* **NP**: 188
+* **IF**: 94%
 
 **Description**:
 
-> Bashful +2 is 3 sets of 5x90-second intervals at 125% FTP where recoveries
-> between intervals are 1 minute long and recoveries between sets of intervals
-> are 5 minutes long.
+> Bashful +2 is 3 sets of 5x90-second intervals that rise from 121% FTP to 125%
+> FTP.
+> 
+> Recoveries between intervals are 1 minute long and recoveries between sets of
+> intervals are 5 minutes long.
 
 
 ### Wednesday 
@@ -321,9 +323,9 @@ Rest Day
 
 * **Name**: Collins
 * **Duration**: 1 hour and 15 minutes
-* **TSS**: 59.0
-* **NP**: 138
-* **IF**: 69%
+* **TSS**: 58.0
+* **NP**: 136
+* **IF**: 68%
 
 **Description**:
 
@@ -348,8 +350,8 @@ Rest Day
 
 > Brasstown is 90 minutes of aerobic Endurance riding spent between 65-75% FTP.
 > 
-> Optional form drills include Form Sprints, Endurance Spinning, Quadrant Drills
-> & Single-Leg Focus drills.
+> Optional form drills include Form Sprints, Endurance Spinning, Quadrant
+> Drills, and Single-Leg Focus drills.
 
 
 ### Sunday 
@@ -448,14 +450,14 @@ Rest Day
 ### Saturday 
 
 * **Name**: Fish -2
-* **Duration**: 1 hour and 30 minutes
-* **TSS**: 119.0
-* **NP**: 178
-* **IF**: 89%
+* **Duration**: 1 hour and 33 minutes
+* **TSS**: 120.0
+* **NP**: 176
+* **IF**: 88%
 
 **Description**:
 
-> Fish -2 is 4x15-minute intervals at 95-99% FTP with only 3-minute recoveries
+> Fish -2 is 4x15-minute intervals at 95-99% FTP with only 4-minute recoveries
 > between intervals.
 
 
@@ -490,7 +492,7 @@ Rest Day
 
 * **Name**: Dade +1
 * **Duration**: 1 hour and 15 minutes
-* **TSS**: 101.0
+* **TSS**: 100.0
 * **NP**: 180
 * **IF**: 90%
 
@@ -498,7 +500,7 @@ Rest Day
 
 > Dade +1 is three sets of 3x2.5-minute VO2max repeats at 120% FTP.
 > 
->  2.5 minutes of recovery fall between Intervals and 8 minutes of easy spinning
+> 4 minutes of recovery fall between Intervals and 6 minutes of easy spinning
 > separate each set.
 
 
@@ -571,14 +573,14 @@ Rest Day
 
 * **Name**: Kaiser +2
 * **Duration**: 1 hour and 15 minutes
-* **TSS**: 110.0
-* **NP**: 188
-* **IF**: 94%
+* **TSS**: 106.0
+* **NP**: 184
+* **IF**: 92%
 
 **Description**:
 
-> Kaiser +2 is 3 sets of 3x3-minute VO2max repeats at 120% FTP with 3-minute
-> recoveries between intervals and 6 minutes between sets.
+> Kaiser +2 is 3 sets of 3x3-minute VO2max repeats at 118% FTP with 4-minute
+> recoveries between intervals and 5 minutes between sets.
 
 
 ### Wednesday 
@@ -590,13 +592,13 @@ Rest Day
 
 * **Name**: Dicks -1
 * **Duration**: 1 hour and 15 minutes
-* **TSS**: 105.0
-* **NP**: 184
-* **IF**: 92%
+* **TSS**: 104.0
+* **NP**: 182
+* **IF**: 91%
 
 **Description**:
 
-> Dicks -1 is 5x8-minute intervals at 105% FTP with 3-minute recoveries between
+> Dicks -1 is 5x8-minute intervals at 105% FTP with 5-minute recoveries between
 > intervals.
 
 
@@ -654,11 +656,9 @@ Rest Day
 
 **Description**:
 
-> Whorl consists of an hour & 15 minutes of aerobic Endurance work spent between
-> 60-75% FTP.
-> 
-> Optional form drills include Form Sprints, Endurance Spinning intervals, and
-> quadrant drills like Pistons and Kick & Pull drills.
+> Whorl consists of 75 minutes of aerobic Endurance work spent between 60-75%
+> FTP. Optional form drills include form sprints, endurance-spinning intervals,
+> and various pedalstroke drills.
 
 
 ### Wednesday 
@@ -670,9 +670,9 @@ Rest Day
 
 * **Name**: Collins
 * **Duration**: 1 hour and 15 minutes
-* **TSS**: 59.0
-* **NP**: 138
-* **IF**: 69%
+* **TSS**: 58.0
+* **NP**: 136
+* **IF**: 68%
 
 **Description**:
 

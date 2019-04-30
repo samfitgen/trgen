@@ -145,7 +145,8 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of 2 hours of aerobic Endurance spent between 60-70% FTP.
+> Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70%
+> FTP.
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
@@ -176,9 +177,9 @@ Rest Day
 
 * **Name**: Joe Devel
 * **Duration**: 1 hour
-* **TSS**: 70.0
-* **NP**: 168
-* **IF**: 84%
+* **TSS**: 68.0
+* **NP**: 164
+* **IF**: 82%
 
 **Description**:
 
@@ -190,7 +191,7 @@ Rest Day
 > 30-second On-segments at 130% FTP, set 3 consists of 45-second On-segments at
 > 120% FTP and set 4 consists of 18-second On-segments at 140% FTP.
 > 
-> All recoveries between sets are a little over 5 minutes long.
+> All recoveries between sets are a 7 minutes long.
 
 
 ### Wednesday 
@@ -248,7 +249,8 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of 2 hours of aerobic Endurance spent between 60-70% FTP.
+> Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70%
+> FTP.
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
@@ -345,7 +347,8 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of 2 hours of aerobic Endurance spent between 60-70% FTP.
+> Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70%
+> FTP.
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
@@ -511,22 +514,21 @@ Rest Day
 
 * **Name**: Winchell
 * **Duration**: 1 hour and 30 minutes
-* **TSS**: 121.0
-* **NP**: 180
-* **IF**: 90%
+* **TSS**: 118.0
+* **NP**: 178
+* **IF**: 89%
 
 **Description**:
 
 > Winchell is a combination workout that starts with 3 sets of 4-minute
 > Threshold efforts at 95-105% FTP with active recoveries that increase in
-> duration but also in intensity.
+> durationover the course of each interval set.
 > 
 > The second half of the workout is made up of 3 sets of 40/20's where you'll
 > ride for 40 seconds at 120-130% FTP, rinse for 20 seconds, then repeat for 5
 > short efforts per set of high-intensity repeats.
 > 
-> Recoveries between sets of 40/20's diminish from a little over 3 minutes to a
-> little over 2 minutes.
+> Recoveries between sets of 40/20's last for 5 minutes each.
 
 
 ### Sunday 
@@ -539,7 +541,8 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of 2 hours of aerobic Endurance spent between 60-70% FTP.
+> Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70%
+> FTP.
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
@@ -573,9 +576,9 @@ Rest Day
 
 * **Name**: Tiehacker
 * **Duration**: 1 hour
-* **TSS**: 75.0
-* **NP**: 174
-* **IF**: 87%
+* **TSS**: 70.0
+* **NP**: 168
+* **IF**: 84%
 
 **Description**:
 
@@ -643,7 +646,8 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of 2 hours of aerobic Endurance spent between 60-70% FTP.
+> Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70%
+> FTP.
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
@@ -737,11 +741,11 @@ Rest Day
 > out the same way you stepped in.
 > 
 > Brief, 30-second active recoveries fall between each push, and recoveries
-> between the 14-minute sets last 3 minutes.
+> between the 14-minute sets last 5minutes.
 > 
-> Part II of Broken Finger consists of breakaway simulations where you drill it
-> for 1-2 minutes at 110-125% FTP and then settle in for 2-3 minutes at 95-105%
-> FTP.
+> After another 5-minute recovery, part II of Broken Finger consists of
+> breakaway simulations where you drill it for 1-2 minutes at 110-125% FTP and
+> then settle in for 2-3 minutes at 95-105% FTP.
 > 
 > Active recoveries between these intervals are a quick 2 minutes each.
 
@@ -756,7 +760,8 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of 2 hours of aerobic Endurance spent between 60-70% FTP.
+> Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70%
+> FTP.
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.

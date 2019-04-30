@@ -96,10 +96,9 @@ Rest Day
 **Description**:
 
 > Baxter is 90 minutes of non-stop aerobic conditioning at 55-80% FTP where the
-> effort changes based on cadence.
-> 
-> Effectively a fixed-gear trainer ride with low to moderate effort levels that
-> primarily utilize fat as the fuel source.
+> effort changes based on cadence making this effectively a fixed-gear trainer
+> ride with low to moderate effort levels aimed at primarily utilizing fat as
+> the fuel source.
 
 
 ### Sunday 
@@ -248,13 +247,13 @@ Rest Day
 
 * **Name**: Eclipse
 * **Duration**: 1 hour and 30 minutes
-* **TSS**: 105.0
-* **NP**: 168
-* **IF**: 84%
+* **TSS**: 104.0
+* **NP**: 166
+* **IF**: 83%
 
 **Description**:
 
-> Eclipse is comprised of 3x20-minute Sweet Spot efforts (88-94% FTP) with 5
+> Eclipse is comprised of 3x20 minute Sweet Spot efforts (88-94% FTP) with 7
 > minutes of recovery between intervals.
 
 
@@ -401,7 +400,7 @@ Rest Day
 
 > Palisade is 5x9-minute intervals alternating slightly above or slightly below
 > FTP. Each interval is a combination of 1-minute efforts at 95% FTP followed
-> immediatly by 2-minute efforts at 105% FTP.
+> immediately by 2-minute efforts at 105% FTP.
 > 
 > 6 minutes of recovery fall between intervals.
 
@@ -474,8 +473,8 @@ Rest Day
 
 > Brasstown is 90 minutes of aerobic Endurance riding spent between 65-75% FTP.
 > 
-> Optional form drills include Form Sprints, Endurance Spinning, Quadrant Drills
-> & Single-Leg Focus drills.
+> Optional form drills include Form Sprints, Endurance Spinning, Quadrant
+> Drills, and Single-Leg Focus drills.
 
 
 ### Sunday 

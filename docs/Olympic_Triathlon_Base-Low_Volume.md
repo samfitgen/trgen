@@ -56,9 +56,9 @@ Rest Day
 
 **Description**:
 
-> Warm-Up 250m Easy, RPE4 6x25m CU Drills w/ 10s rest between drills 3x100m
-> Easy-Moderate, RPE6 w/ 5s rest between intervals 6x25m K Drills w/ 15s rest
-> between drills Cool-Down 250m easy, RPE4
+> Warm-Up 250m Easy, RPE4 6x25m CU drills w/ 10s rest between drills 3x100m
+> Easy-Moderate, RPE6 w/ 5s rest between intervals 6x25m K drills w/ 15s rest
+> between drills Cool-Down 250m Easy, RPE4
 
 
 ### Wednesday 
@@ -121,7 +121,7 @@ Rest Day
 
 > Warm-Up 250m Easy, RPE4 6x25m F drills w/ 10s rest between drills 4x100m of
 > 25m Easy, RPE4/25m Hard, RPE8, 10s rest between intervals 6x25m K drills w/
-> 15s rest between drills Cool-Down 250m easy, RPE4
+> 15s rest between drills Cool-Down 250m Easy, RPE4
 
 
 ### Saturday 
@@ -202,9 +202,9 @@ Rest Day
 
 **Description**:
 
-> Warm-Up 250m Easy, RPE4 6x25m F&T; Drills w/ 10s rest between drills 4x100m
-> Easy-Moderate, RPE6 w/ 5s rest between intervals 6x25m SK Drills w/ 15s rest
-> between drills Cool-Down 250m easy, RPE4
+> Warm-Up 250m Easy, RPE4 6x25m F&T; drills w/ 10s rest between drills 4x100m
+> Easy-Moderate, RPE6 w/ 5s rest between intervals 6x25m SK drills w/ 15s rest
+> between drills Cool-Down 250m Easy, RPE4
 
 
 ### Wednesday 
@@ -247,7 +247,7 @@ Rest Day
 
 > Warm-Up 250m Easy, RPE4 6x25m CU drills w/ 10s rest between drills 4x150m of
 > 50m Easy, RPE4/25m Hard, RPE8, 10s rest between intervals 6x25m SK drills w/
-> 15s rest between drills Cool-Down 250m easy, RPE4
+> 15s rest between drills Cool-Down 250m Easy, RPE4
 
 
 ### Saturday 
@@ -342,9 +342,9 @@ Rest Day
 
 **Description**:
 
-> Warm-Up 250m Easy, RPE4 6x25m BB Drills w/ 10s rest between drills 5x100m
-> Easy-Moderate, RPE6 w/ 5s rest between intervals 6x25m K&R; Drills w/ 15s rest
-> between drills Cool-Down 250m easy, RPE4
+> Warm-Up 250m Easy, RPE4 6x25m BB drills w/ 10s rest between drills 5x100m
+> Easy-Moderate, RPE6 w/ 5s rest between intervals 6x25m K&R; drills w/ 15s rest
+> between drills Cool-Down 250m Easy, RPE4
 
 
 ### Wednesday 
@@ -390,7 +390,7 @@ Rest Day
 
 > Warm-Up 250m Easy, RPE4 6x25m FS drills w/ 10s rest between drills 5x150m of
 > 50m Easy, RPE4/25m Hard, RPE8, 10s rest between intervals 6x25m K&R; drills w/
-> 15s rest between drills Cool-Down 250m easy, RPE4
+> 15s rest between drills Cool-Down 250m Easy, RPE4
 
 
 ### Saturday 
@@ -463,8 +463,8 @@ Rest Day
 
 **Description**:
 
-> Warm-Up 250m Easy, RPE4 6x25m SC Drills w/ 10s rest between drills 4x100m
-> Easy-Moderate, RPE6 w/ 5s rest between intervals Cool-Down 250m easy, RPE4
+> Warm-Up 250m Easy, RPE4 6x25m SC drills w/ 10s rest between drills 4x100m
+> Easy-Moderate, RPE6 w/ 5s rest between intervals Cool-Down 250m Easy, RPE4
 
 
 ### Wednesday 
@@ -502,7 +502,7 @@ Rest Day
 **Description**:
 
 > Warm-Up 250m Easy, RPE4 6x25m BB drills w/ 10s rest between drills 4x150m of
-> 25m Easy, RPE4/25m Hard, RPE8, 10s rest between intervals Cool-Down 250m easy,
+> 25m Easy, RPE4/25m Hard, RPE8, 10s rest between intervals Cool-Down 250m Easy,
 > RPE4
 
 
@@ -593,9 +593,9 @@ Rest Day
 
 **Description**:
 
-> Warm-Up 250m Easy, RPE4 6x25m SA Drills w/ 10s rest between drills 6x100m
-> Easy-Moderate, RPE6 w/ 5s rest between intervals 6x25m K Drills w/ 15s rest
-> between drills Cool-Down 250m easy, RPE4
+> Warm-Up 250m Easy, RPE4 6x25m SA drills w/ 10s rest between drills 6x100m
+> Easy-Moderate, RPE6 w/ 5s rest between intervals 6x25m K drills w/ 15s rest
+> between drills Cool-Down 250m Easy, RPE4
 
 
 ### Wednesday 
@@ -636,7 +636,7 @@ Rest Day
 > Warm-Up 250m Easy, RPE4 6x25m SC drills w/ 10s rest between drills 4x100m of
 > 25m Easy, RPE4/25m Hard, RPE8, 10s rest between intervals 8x25m Sprints, All-
 > Out, RPE10 w/ 20s rest between sprints 6x25m SK drills w/15s rest between
-> drills Cool-Down 250m easy, RPE4
+> drills Cool-Down 250m Easy, RPE4
 
 
 ### Saturday 
@@ -713,18 +713,18 @@ Rest Day
 
 **Description**:
 
-> Warm-Up 250m Easy, RPE4 6x25m CU Drills w/ 10s rest between drills 7x100m
-> Easy-Moderate, RPE6 w/ 5s rest between intervals 6x25m K&R; Drills w/ 15s rest
-> between drills Cool-Down 250m easy, RPE4
+> Warm-Up 250m Easy, RPE4 6x25m CU drills w/ 10s rest between drills 7x100m
+> Easy-Moderate, RPE6 w/ 5s rest between intervals 6x25m K&R; drills w/ 15s rest
+> between drills Cool-Down 250m Easy, RPE4
 
 
 ### Wednesday 
 
 * **Name**: Shortoff -1
 * **Duration**: 45 minutes
-* **TSS**: 56.0
-* **NP**: 174
-* **IF**: 87%
+* **TSS**: 59.0
+* **NP**: 178
+* **IF**: 89%
 
 **Description**:
 
@@ -754,10 +754,10 @@ Rest Day
 
 **Description**:
 
-> Warm-Up 250m Easy, RPE4 6x25m HCU drills w6 10s rest between drills 6x100m of
-> 25m Build from RPE4 to RPE8/25m Descend from RPE8 to RPE4, 10s rest between
+> Warm-Up 250m Easy, RPE4 6x25m HCU drills w/ 6 10s rest between drills 6x100m
+> of 25m Build from RPE4 to RPE8/25m Descend from RPE8 to RPE4, 10s rest between
 > intervals 6x25m Sprints, All-Out, RPE10 w/ 20s rest between sprints 6x25m K
-> drills w/15s rest between drills Cool-Down 250m easy, RPE4
+> drills w/15s rest between drills Cool-Down 250m Easy, RPE4
 
 
 ### Saturday 

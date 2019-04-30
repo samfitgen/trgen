@@ -110,16 +110,6 @@ Rest Day
 ### Wednesday 
 
 #### Workout 1
-* **Name**: Swim Base Intervals
-
-
-**Description**:
-
-> Warm-Up 300m Easy, RPE4 8x25m CU Drills w/ 10s rest between drills 4x100m
-> Easy-Moderate, RPE6 w/ 5s rest between intervals 8x25m K Drills w/ 15s rest
-> between drills Cool-Down 300m easy, RPE4
-
-#### Workout 2
 * **Name**: Base Run + Speed Intervals 
 * **Duration**: 1 day and 11 hours
 
@@ -129,6 +119,16 @@ Rest Day
 > Run 35min Easy-Moderate, RPE6 and randomly insert 6x30s bursts of high speed,
 > RPE9 over the course of the run with at least 1 minute of recovery running
 > between bursts.
+
+#### Workout 2
+* **Name**: Swim Base Intervals
+
+
+**Description**:
+
+> Warm-Up 300m Easy, RPE4 8x25m CU drills w/ 10s rest between drills 4x100m
+> Easy-Moderate, RPE6 w/ 5s rest between intervals 8x25m K drills w/ 15s rest
+> between drills Cool-Down 300m Easy, RPE4
 
 
 ### Thursday 
@@ -148,16 +148,6 @@ Rest Day
 ### Friday 
 
 #### Workout 1
-* **Name**: Swim Speed Intervals
-
-
-**Description**:
-
-> Warm-Up 300m Easy, RPE4 8x25m F drills w/ 10s rest between drills 4x100m of
-> 25m Easy, RPE4/25m Hard, RPE8, 10s rest between intervals 8x25m SK drills w/
-> 15s rest between drills Cool-Down 300m easy, RPE4
-
-#### Workout 2
 * **Name**: Base Run 
 * **Duration**: 1 day and 11 hours
 
@@ -167,6 +157,16 @@ Rest Day
 > 35min at Easy-Moderate pace, RPE6. Walk briefly when necessary, no more than a
 > minute though, if it means the difference between running well and sacrificing
 > form while running efficiency suffers.
+
+#### Workout 2
+* **Name**: Swim Speed Intervals
+
+
+**Description**:
+
+> Warm-Up 300m Easy, RPE4 8x25m F drills w/ 10s rest between drills 4x100m of
+> 25m Easy, RPE4/25m Hard, RPE8, 10s rest between intervals 8x25m SK drills w/
+> 15s rest between drills Cool-Down 300m Easy, RPE4
 
 
 ### Saturday 
@@ -186,14 +186,6 @@ Rest Day
 ### Sunday 
 
 #### Workout 1
-* **Name**: Continuous Base Swim
-
-
-**Description**:
-
-> Warm-Up 250m Easy, RPE4 1200m Easy-Moderate, RPE6 Cool-Down 250m easy, RPE4
-
-#### Workout 2
 * **Name**: Base Run 
 * **Duration**: 2 days and 2 hours
 
@@ -203,6 +195,14 @@ Rest Day
 > 50min at Easy-Moderate pace, RPE6. Again, walk briefly when necessary and try
 > to recognize that quick walking breaks of a single minute can often keep the
 > form high while costing very little in terms of aerobic fitness improvements.
+
+#### Workout 2
+* **Name**: Continuous Base Swim
+
+
+**Description**:
+
+> Warm-Up 250m Easy, RPE4 1200m Easy-Moderate, RPE6 Cool-Down 250m Easy, RPE4
 
 ## Week 2
 
@@ -276,16 +276,6 @@ Rest Day
 ### Wednesday 
 
 #### Workout 1
-* **Name**:  Swim Base Intervals
-
-
-**Description**:
-
-> Warm-Up 300m Easy, RPE4 8x25m F&T; Drills w/ 10s rest between drills 5x100m
-> Easy-Moderate, RPE6 w/ 5s rest between intervals 8x25m K&R; Drills w/ 15s rest
-> between drills Cool-Down 300m easy, RPE4
-
-#### Workout 2
 * **Name**: Base Run + Speed Intervals
 * **Duration**: 1 day and 11 hours
 
@@ -295,6 +285,16 @@ Rest Day
 > Run 35min Easy-Moderate, RPE6 and randomly insert a couple more 30s bursts of
 > high speed, RPE9 for a total of 8 this week. Separate them by at least 1
 > minute of regular-pace running between bursts.
+
+#### Workout 2
+* **Name**:  Swim Base Intervals
+
+
+**Description**:
+
+> Warm-Up 300m Easy, RPE4 8x25m F&T; drills w/ 10s rest between drills 5x100m
+> Easy-Moderate, RPE6 w/ 5s rest between intervals 8x25m K&R; drills w/ 15s rest
+> between drills Cool-Down 300m Easy, RPE4
 
 
 ### Thursday 
@@ -318,16 +318,6 @@ Rest Day
 ### Friday 
 
 #### Workout 1
-* **Name**: Swim Speed Intervals
-
-
-**Description**:
-
-> Warm-Up 300m Easy, RPE4 8x25m CU drills w/ 10s rest between drills 5x100m of
-> 25m Build from RPE4 to RPE8/25m Descend from RPE8 to RPE4, 10s rest between
-> intervals 8x25m K drills w/ 15s rest between drills Cool-Down 300m easy, RPE4
-
-#### Workout 2
 * **Name**: Base Run
 * **Duration**: 1 day and 16 hours
 
@@ -338,6 +328,16 @@ Rest Day
 > process if they’re helping you maintain high run quality, but avoid using them
 > as a crutch or an excuse to take a break. Use them if necessary but keep your
 > running as continuous as possible if you’re capable.
+
+#### Workout 2
+* **Name**: Swim Speed Intervals
+
+
+**Description**:
+
+> Warm-Up 300m Easy, RPE4 8x25m CU drills w/ 10s rest between drills 5x100m of
+> 25m Build from RPE4 to RPE8/25m Descend from RPE8 to RPE4, 10s rest between
+> intervals 8x25m K drills w/ 15s rest between drills Cool-Down 300m Easy, RPE4
 
 
 ### Saturday 
@@ -372,14 +372,6 @@ Rest Day
 ### Sunday 
 
 #### Workout 1
-* **Name**: Continuous Base Swim
-
-
-**Description**:
-
-> Warm-Up 300m Easy, RPE4 1200m Easy-Moderate, RPE6 Cool-Down 300m easy, RPE4
-
-#### Workout 2
 * **Name**: Base Run
 * **Duration**: 2 days and 2 hours
 
@@ -390,6 +382,14 @@ Rest Day
 > to grow your continuous running stretches a minute or two each week. So if you
 > ran for 8 minutes last week before walking for a minute, try to run for 9 or
 > 10 minutes before walking during next week’s base runs.
+
+#### Workout 2
+* **Name**: Continuous Base Swim
+
+
+**Description**:
+
+> Warm-Up 300m Easy, RPE4 1200m Easy-Moderate, RPE6 Cool-Down 300m Easy, RPE4
 
 ## Week 3
 
@@ -464,16 +464,6 @@ Rest Day
 ### Wednesday 
 
 #### Workout 1
-* **Name**: Swim Base Intervals
-
-
-**Description**:
-
-> Warm-Up 300m Easy, RPE4 8x25m BB Drills w/ 10s rest between drills 6x100m
-> Easy-Moderate, RPE6 w/ 5s rest between intervals 8x25m K&R; Drills w/ 15s rest
-> between drills Cool-Down 300m easy, RPE4
-
-#### Workout 2
 * **Name**: Base Run + Speed Intervals
 * **Duration**: 1 day and 16 hours
 
@@ -484,6 +474,16 @@ Rest Day
 > RPE9 just like last week, still separated by at least 1 minute of regular-pace
 > running between bursts, but this week try to clean them up a little by running
 > more fluidly, more relaxed, but just as fast.
+
+#### Workout 2
+* **Name**: Swim Base Intervals
+
+
+**Description**:
+
+> Warm-Up 300m Easy, RPE4 8x25m BB drills w/ 10s rest between drills 6x100m
+> Easy-Moderate, RPE6 w/ 5s rest between intervals 8x25m K&R; drills w/ 15s rest
+> between drills Cool-Down 300m Easy, RPE4
 
 
 ### Thursday 
@@ -509,16 +509,6 @@ Rest Day
 ### Friday 
 
 #### Workout 1
-* **Name**: Swim Speed Intervals
-
-
-**Description**:
-
-> Warm-Up 300m Easy, RPE4 8x25m FS drills w/ 10s rest between drills 6x100m of
-> 25m Easy, RPE4/25m Hard, RPE8, 10s rest between intervals 8x25m SK drills w/
-> 15s rest between drills Cool-Down 300m easy, RPE4
-
-#### Workout 2
 * **Name**: Base Run
 * **Duration**: 1 day and 16 hours
 
@@ -529,6 +519,16 @@ Rest Day
 > this week but keep your form at the top of your list of priorities. Much like
 > swimming, small improvements in your technique can go a long way toward making
 > you faster (and less prone to injury).
+
+#### Workout 2
+* **Name**: Swim Speed Intervals
+
+
+**Description**:
+
+> Warm-Up 300m Easy, RPE4 8x25m FS drills w/ 10s rest between drills 6x100m of
+> 25m Easy, RPE4/25m Hard, RPE8, 10s rest between intervals 8x25m SK drills w/
+> 15s rest between drills Cool-Down 300m Easy, RPE4
 
 
 ### Saturday 
@@ -548,14 +548,6 @@ Rest Day
 ### Sunday 
 
 #### Workout 1
-* **Name**: Continuous Base Swim
-
-
-**Description**:
-
-> Warm-Up 250m Easy, RPE4 1500m Easy-Moderate, RPE6 Cool-Down 250m easy, RPE4
-
-#### Workout 2
 * **Name**: Base Run
 * **Duration**: 2 days and 7 hours
 
@@ -565,6 +557,14 @@ Rest Day
 > 55min at Easy-Moderate pace, RPE6. Nearly an hour of running so fluidly and
 > lightly that it’s hard to tell you’re even working. Walk briefly when
 > necessary and only if necessary.
+
+#### Workout 2
+* **Name**: Continuous Base Swim
+
+
+**Description**:
+
+> Warm-Up 250m Easy, RPE4 1500m Easy-Moderate, RPE6 Cool-Down 250m Easy, RPE4
 
 ## Week 4 (Recovery)
 
@@ -632,15 +632,6 @@ Rest Day
 ### Wednesday 
 
 #### Workout 1
-* **Name**: Swim Base Intervals
-
-
-**Description**:
-
-> Warm-Up 300m Easy, RPE4 8x25m SC Drills w/ 10s rest between drills 4x100m
-> Easy-Moderate, RPE6 w/ 5s rest between intervals Cool-Down 300m easy, RPE4
-
-#### Workout 2
 * **Name**: Base Run + Speed Intervals
 * **Duration**: 1 day and 11 hours
 
@@ -650,6 +641,15 @@ Rest Day
 > Run 35min Easy-Moderate, RPE6 and sprinkle in just 6x30s bursts of high speed,
 > RPE9 this week. Separate them by at least 1 minute of regular-pace running
 > between bursts.
+
+#### Workout 2
+* **Name**: Swim Base Intervals
+
+
+**Description**:
+
+> Warm-Up 300m Easy, RPE4 8x25m SC drills w/ 10s rest between drills 4x100m
+> Easy-Moderate, RPE6 w/ 5s rest between intervals Cool-Down 300m Easy, RPE4
 
 
 ### Thursday 
@@ -669,16 +669,6 @@ Rest Day
 ### Friday 
 
 #### Workout 1
-* **Name**: Swim Speed Intervals
-
-
-**Description**:
-
-> Warm-Up 300m Easy, RPE4 8x25m BB drills w/ 10s rest between drills 6x100m of
-> 25m Build from RPE4 to RPE8/25m Descend from RPE8 to RPE4, 10s rest between
-> intervals Cool-Down 300m easy, RPE4
-
-#### Workout 2
 * **Name**: Base Run
 * **Duration**: 1 day and 11 hours
 
@@ -688,6 +678,16 @@ Rest Day
 > 35min at Easy-Moderate pace, RPE6. Feel free to extend the occasional walking
 > break up to 2 minutes in the interest of recharging your mind and body this
 > week.
+
+#### Workout 2
+* **Name**: Swim Speed Intervals
+
+
+**Description**:
+
+> Warm-Up 300m Easy, RPE4 8x25m BB drills w/ 10s rest between drills 6x100m of
+> 25m Build from RPE4 to RPE8/25m Descend from RPE8 to RPE4, 10s rest between
+> intervals Cool-Down 300m Easy, RPE4
 
 
 ### Saturday 
@@ -719,14 +719,6 @@ Rest Day
 > long workout.
 
 #### Workout 2
-* **Name**: Continuous Base Swim
-
-
-**Description**:
-
-> Warm-Up 200m Easy, RPE4 1200m Easy-Moderate, RPE6 Cool-Down 200m easy, RPE4
-
-#### Workout 3
 * **Name**:  Brick Workout (Pioneer + 15min Transition Run)
 * **Duration**: 15 hours
 
@@ -738,6 +730,14 @@ Rest Day
 > In any case, practice your swim-to-bike transition before hopping on your
 > bike. Then, practice your bike-to-run transition before running through your
 > bike leg’s fatigue for 15 quick minutes.
+
+#### Workout 3
+* **Name**: Continuous Base Swim
+
+
+**Description**:
+
+> Warm-Up 200m Easy, RPE4 1200m Easy-Moderate, RPE6 Cool-Down 200m Easy, RPE4
 
 ## Week 5
 
@@ -809,17 +809,6 @@ Rest Day
 ### Wednesday 
 
 #### Workout 1
-* **Name**: Swim Base Intervals + Sprints
-
-
-**Description**:
-
-> Warm-Up 300m Easy, RPE4 8x25m CU Drills w/ 10s rest between drills 5x100m
-> Easy-Moderate, RPE6 w/ 5s rest between intervals 8x25m Sprints, All-Out, RPE10
-> w/ 20s rest between sprints 8x25m K Drills w/ 15s rest between drills Cool-
-> Down 300m easy, RPE4
-
-#### Workout 2
 * **Name**: Base Run + Anaerobic Repeats
 * **Duration**: 1 day and 21 hours
 
@@ -829,6 +818,17 @@ Rest Day
 > 10min Warm-Up, Easy, RPE4 then perform 10x30s all-out repeats, RPE10 with 2
 > minutes of recovery, RPE2 between them; 10min Cool-Down, RPE4 for roughly 45
 > minutes of running.
+
+#### Workout 2
+* **Name**: Swim Base Intervals + Sprints
+
+
+**Description**:
+
+> Warm-Up 300m Easy, RPE4 8x25m CU drills w/ 10s rest between drills 5x100m
+> Easy-Moderate, RPE6 w/ 5s rest between intervals 8x25m Sprints, All-Out, RPE10
+> w/ 20s rest between sprints 8x25m K drills w/ 15s rest between drills Cool-
+> Down 300m Easy, RPE4
 
 
 ### Thursday 
@@ -851,16 +851,6 @@ Rest Day
 ### Friday 
 
 #### Workout 1
-* **Name**: Swim Speed Intervals
-
-
-**Description**:
-
-> Warm-Up 300m Easy, RPE4 6x50m HCU drills w/ 10s rest between drills 5x150m of
-> 50m Easy, RPE4/25m Hard, RPE8, 15s rest between intervals 8x25m K&R; drills
-> w/15s rest between drills Cool-Down 300m easy, RPE4
-
-#### Workout 2
 * **Name**: Base Run + Uphill Strides
 * **Duration**: 1 day and 16 hours
 
@@ -871,6 +861,16 @@ Rest Day
 > sprints, RPE10, preferably uphill w/ 40s of recovery between them. Keep the
 > hill fairly tame such that you can run with a bit of speed and a fairly open
 > stride, not too choppy.
+
+#### Workout 2
+* **Name**: Swim Speed Intervals
+
+
+**Description**:
+
+> Warm-Up 300m Easy, RPE4 6x50m HCU drills w/ 10s rest between drills 5x150m of
+> 50m Easy, RPE4/25m Hard, RPE8, 15s rest between intervals 8x25m K&R; drills w/
+> 15s rest between drills Cool-Down 300m Easy, RPE4
 
 
 ### Saturday 
@@ -889,14 +889,6 @@ Rest Day
 ### Sunday 
 
 #### Workout 1
-* **Name**: Continuous Base Swim
-
-
-**Description**:
-
-> Warm-Up 300m Easy, RPE4 1500m Easy-Moderate, RPE6 Cool-Down 300m easy, RPE4
-
-#### Workout 2
 * **Name**: Base Run
 * **Duration**: 2 days and 12 hours
 
@@ -907,6 +899,14 @@ Rest Day
 > but also keep extending your continuous running segments. If you’re managing
 > these runs continuously, no breaks at all, then start working to run more
 > fluidly staying lighter on your feet.
+
+#### Workout 2
+* **Name**: Continuous Base Swim
+
+
+**Description**:
+
+> Warm-Up 300m Easy, RPE4 1500m Easy-Moderate, RPE6 Cool-Down 300m Easy, RPE4
 
 ## Week 6
 
@@ -986,17 +986,6 @@ Rest Day
 ### Wednesday 
 
 #### Workout 1
-* **Name**: Swim Base Intervals + Sprints 
-
-
-**Description**:
-
-> Warm-Up 300m Easy, RPE4 8x25m F&T; Drills w/ 10s rest between drills 6x100m
-> Easy-Moderate, RPE6 w/ 5s rest between intervals 9x25m Sprints, All-Out, RPE10
-> w/ 20s rest between sprints 8x25m SK Drills w/ 15s rest between drills Cool-
-> Down 300m easy, RPE4
-
-#### Workout 2
 * **Name**: Base Run + Anaerobic Repeats
 * **Duration**: 2 days and 2 hours
 
@@ -1006,6 +995,17 @@ Rest Day
 > 10min Warm-Up, Easy, RPE4 then perform 12x30s all-out repeats, RPE10 with 2
 > minutes of recovery, RPE2 between them; 10min Cool-Down, RPE4 for roughly 50
 > minutes of running.
+
+#### Workout 2
+* **Name**: Swim Base Intervals + Sprints 
+
+
+**Description**:
+
+> Warm-Up 300m Easy, RPE4 8x25m F&T; drills w/ 10s rest between drills 6x100m
+> Easy-Moderate, RPE6 w/ 5s rest between intervals 9x25m Sprints, All-Out, RPE10
+> w/ 20s rest between sprints 8x25m SK drills w/ 15s rest between drills Cool-
+> Down 300m Easy, RPE4
 
 
 ### Thursday 
@@ -1025,16 +1025,6 @@ Rest Day
 ### Friday 
 
 #### Workout 1
-* **Name**: Swim Speed Intervals
-
-
-**Description**:
-
-> Warm-Up 300m Easy, RPE4 6x50m FS drills w/ 10s rest between drills 8x100m of
-> 25m Build from RPE4 to RPE8/25m Descend from RPE8 to RPE4, 10s rest between
-> intervals 8x25m K drills w/15s rest between drills Cool-Down 300m easy, RPE4
-
-#### Workout 2
 * **Name**: Base Run + Uphill Strides
 * **Duration**: 1 day and 16 hours
 
@@ -1045,6 +1035,16 @@ Rest Day
 > sprints, RPE10, this week, preferably uphill w/ 40s of recovery between them.
 > Keep that hill fairly tame and try to run much the same way you would on the
 > flat, just working harder.
+
+#### Workout 2
+* **Name**: Swim Speed Intervals
+
+
+**Description**:
+
+> Warm-Up 300m Easy, RPE4 6x50m FS drills w/ 10s rest between drills 8x100m of
+> 25m Build from RPE4 to RPE8/25m Descend from RPE8 to RPE4, 10s rest between
+> intervals 8x25m K drills w/ 15s rest between drills Cool-Down 300m Easy, RPE4
 
 
 ### Saturday 
@@ -1079,16 +1079,6 @@ Rest Day
 ### Sunday 
 
 #### Workout 1
-* **Name**: Swim Time Trial
-
-
-**Description**:
-
-> Warm-Up 400m Easy, RPE4 800m Moderate-Hard, RPE8 Cool-Down 400m easy, RPE4
-> Shoot for a pace that’s more in line with your goal race pace, and if at all
-> possible, try doing this swim in open water.
-
-#### Workout 2
 * **Name**: Base Run
 * **Duration**: 1 day and 11 hours
 
@@ -1098,6 +1088,16 @@ Rest Day
 > 35min at Easy-Moderate pace, RPE6. Short and sweet this week, so if you’ve yet
 > to run continuously for more than 30 minutes, here’s a chance to impress
 > yourself with your progress.
+
+#### Workout 2
+* **Name**: Swim Time Trial
+
+
+**Description**:
+
+> Warm-Up 400m Easy, RPE4 800m Moderate-Hard, RPE8 Cool-Down 400m Easy, RPE4
+> Shoot for a pace that’s more in line with your goal race pace, and if at all
+> possible, try doing this swim in open water.
 
 ## Week 7
 
@@ -1173,17 +1173,6 @@ Rest Day
 ### Wednesday 
 
 #### Workout 1
-* **Name**: Swim Base Intervals + Sprints
-
-
-**Description**:
-
-> Warm-Up 300m Easy, RPE4 8x25m CS Drills w/ 10s rest between drills 7x100m
-> Easy-Moderate, RPE6 w/ 5s rest between intervals 10x25m Sprints, All-Out,
-> RPE10 w/ 20s rest between sprints 8x25m K&R; Drills w/ 15s rest between drills
-> Cool-Down 300m easy, RPE4
-
-#### Workout 2
 * **Name**: Base Run + Anaerobic Repeats
 * **Duration**: 2 days and 2 hours
 
@@ -1194,6 +1183,17 @@ Rest Day
 > out repeat, RPE10 this week for a total of 10. Recover for 2 minutes between
 > repeats at RPE2 and then cool down for 10 minutes, RPE4 for roughly 50 minutes
 > of running.
+
+#### Workout 2
+* **Name**: Swim Base Intervals + Sprints
+
+
+**Description**:
+
+> Warm-Up 300m Easy, RPE4 8x25m CS drills w/ 10s rest between drills 7x100m
+> Easy-Moderate, RPE6 w/ 5s rest between intervals 10x25m Sprints, All-Out,
+> RPE10 w/ 20s rest between sprints 8x25m K&R; drills w/ 15s rest between drills
+> Cool-Down 300m Easy, RPE4
 
 
 ### Thursday 
@@ -1206,23 +1206,13 @@ Rest Day
 
 **Description**:
 
-> Spruce Knob is 2x30-minute intervals at 85% FTP with a 6-minute recovey
+> Spruce Knob is 2x30-minute intervals at 85% FTP with a 6-minute recovery
 > between each.
 
 
 ### Friday 
 
 #### Workout 1
-* **Name**: Swim Speed Intervals
-
-
-**Description**:
-
-> Warm-Up 300m Easy, RPE4 8x25m HCU drills w/ 10s rest between drills 6x150m of
-> 50m Easy, RPE4/25m Hard, RPE8, 15s rest between intervals 8x25m SK drills
-> w/15s rest between drills Cool-Down 300m easy, RPE4
-
-#### Workout 2
 * **Name**: Base Run + Uphill Strides
 * **Duration**: 1 day and 21 hours
 
@@ -1234,18 +1224,29 @@ Rest Day
 > You know the deal, don’t pick a hill that’s too steep for some reasonably fast
 > running.
 
+#### Workout 2
+* **Name**: Swim Speed Intervals
+
+
+**Description**:
+
+> Warm-Up 300m Easy, RPE4 8x25m HCU drills w/ 10s rest between drills 6x150m of
+> 50m Easy, RPE4/25m Hard, RPE8, 15s rest between intervals 8x25m SK drills w/
+> 15s rest between drills Cool-Down 300m Easy, RPE4
+
 
 ### Saturday 
 
-* **Name**: Big Squaw
+* **Name**: Ochoco
 * **Duration**: 2 hours and 30 minutes
-* **TSS**: 121.0
+* **TSS**: 120.0
 * **NP**: 138
 * **IF**: 69%
 
 **Description**:
 
-> 2.5 hours of Aerobic Endurance spent between 65-75% FTP.
+> Ochoco is 2 hours 30 minutes of aerobic Endurance riding spent between 65-75%
+> FTP.
 
 
 ### Sunday 
@@ -1256,7 +1257,7 @@ Rest Day
 
 **Description**:
 
-> Warm-Up 250m Easy, RPE4 1800m Easy-Moderate, RPE6 Cool-Down 250m easy, RPE4
+> Warm-Up 250m Easy, RPE4 1800m Easy-Moderate, RPE6 Cool-Down 250m Easy, RPE4
 
 #### Workout 2
 * **Name**: Long Base Run
@@ -1267,8 +1268,8 @@ Rest Day
 
 > Run for 65min at an Easy-Moderate pace, RPE6. The goal here is steady,
 > continuous mileage and a slower form of fatigue than you’ll see during your
-> shorter base runs. Accordingly, reduce the intensity to 4 or 5RPE if it keeps
-> your legs turning over, non-stop and injury-free.
+> shorter base runs. Accordingly, reduce the intensity to RPE5 or RPE4 if it
+> keeps your legs turning over, non-stop and injury-free.
 
 ## Week 8 (Recovery)
 
@@ -1340,16 +1341,6 @@ Rest Day
 ### Wednesday 
 
 #### Workout 1
-* **Name**:  Swim Base Intervals + Sprints
-
-
-**Description**:
-
-> Warm-Up 300m Easy, RPE4 8x25m SC Drills w/ 10s rest between drills 5x100m
-> Easy-Moderate, RPE6 w/ 5s rest between intervals 8x25m Sprints, All-Out, RPE10
-> w/ 20s rest between sprints Cool-Down 300m easy, RPE4
-
-#### Workout 2
 * **Name**: Base Run + Anaerobic Repeats
 * **Duration**: 1 day and 21 hours
 
@@ -1359,6 +1350,16 @@ Rest Day
 > 10min Warm-Up, Easy, RPE4 then dial things back to 10x30-second, all-out
 > repeats, RPE10 this week. Recover for a couple minutes between repeats at RPE2
 > and then cool down for 10 minutes, RPE4 for about 45 minutes of running.
+
+#### Workout 2
+* **Name**:  Swim Base Intervals + Sprints
+
+
+**Description**:
+
+> Warm-Up 300m Easy, RPE4 8x25m SC drills w/ 10s rest between drills 5x100m
+> Easy-Moderate, RPE6 w/ 5s rest between intervals 8x25m Sprints, All-Out, RPE10
+> w/ 20s rest between sprints Cool-Down 300m Easy, RPE4
 
 
 ### Thursday 
@@ -1380,16 +1381,6 @@ Rest Day
 ### Friday 
 
 #### Workout 1
-* **Name**: Swim Speed Intervals
-
-
-**Description**:
-
-> Warm-Up 300m Easy, RPE4 8x25m BB drills w/ 10s rest between drills 5x150m of
-> 50m Build from RPE4 to RPE8/25m Descend from RPE8 to RPE4, 15s rest between
-> intervals 8x25m K drills w/15s rest between drills Cool-Down 300m easy, RPE4
-
-#### Workout 2
 * **Name**: Base Run + Uphill Strides
 * **Duration**: 1 day and 11 hours
 
@@ -1399,6 +1390,16 @@ Rest Day
 > Run 35min Easy-Moderate, RPE6 and then conclude your run with just 4x20s
 > controlled sprints, RPE10, this week, preferably uphill but flat land works
 > too this week, and follow each with 40s of recovery.
+
+#### Workout 2
+* **Name**: Swim Speed Intervals
+
+
+**Description**:
+
+> Warm-Up 300m Easy, RPE4 8x25m BB drills w/ 10s rest between drills 5x150m of
+> 50m Build from RPE4 to RPE8/25m Descend from RPE8 to RPE4, 15s rest between
+> intervals 8x25m K drills w/ 15s rest between drills Cool-Down 300m Easy, RPE4
 
 
 ### Saturday 
@@ -1430,14 +1431,6 @@ Rest Day
 > long workout.
 
 #### Workout 2
-* **Name**:  Continuous Base Swim
-
-
-**Description**:
-
-> Warm-Up 300m Easy, RPE4 1200m Easy-Moderate, RPE6 Cool-Down 300m easy, RPE4
-
-#### Workout 3
 * **Name**: Brick Workout (Pioneer + 15min Transition Run)
 * **Duration**: 15 hours
 
@@ -1449,4 +1442,12 @@ Rest Day
 > route or not, practice your swim-to-bike transition before hopping on your
 > bike. Then, practice your bike-to-run transition before a short but
 > challenging 15-minute run.
+
+#### Workout 3
+* **Name**:  Continuous Base Swim
+
+
+**Description**:
+
+> Warm-Up 300m Easy, RPE4 1200m Easy-Moderate, RPE6 Cool-Down 300m Easy, RPE4
 

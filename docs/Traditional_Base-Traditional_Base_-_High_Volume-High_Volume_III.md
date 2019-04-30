@@ -86,8 +86,8 @@ Rest Day
 
 **Description**:
 
-> Nearly 3 hours of Aerobic Endurance spent almost entirely between 60-70% FTP
-> including an early round of Power Sprints. Form drills include Endurance
+> Flattop is 3 hours of Aerobic Endurance spent almost entirely between 60-70%
+> FTP including an early round of Power Sprints. Form drills include Endurance
 > Spinning intervals and some Isolated Leg Training drills.
 > 
 > Power Sprints: These are the culmination of Form Sprints and Strength Sprints
@@ -150,7 +150,8 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of 2 hours of aerobic Endurance spent between 60-70% FTP.
+> Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70%
+> FTP.
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
@@ -178,7 +179,7 @@ Rest Day
 
 * **Name**: Mount Alice
 * **Duration**: 3 hours and 30 minutes
-* **TSS**: 164.0
+* **TSS**: 163.0
 * **NP**: 136
 * **IF**: 68%
 
@@ -262,8 +263,8 @@ Rest Day
 
 **Description**:
 
-> Nearly 3 hours of Aerobic Endurance spent almost entirely between 60-70% FTP
-> including an early round of Power Sprints. Form drills include Endurance
+> Flattop is 3 hours of Aerobic Endurance spent almost entirely between 60-70%
+> FTP including an early round of Power Sprints. Form drills include Endurance
 > Spinning intervals and some Isolated Leg Training drills.
 > 
 > Power Sprints: These are the culmination of Form Sprints and Strength Sprints
@@ -312,7 +313,7 @@ Rest Day
 
 **Description**:
 
-> Spruce Knob is 2x30-minute intervals at 85% FTP with a 6-minute recovey
+> Spruce Knob is 2x30-minute intervals at 85% FTP with a 6-minute recovery
 > between each.
 
 
@@ -326,7 +327,8 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of 2 hours of aerobic Endurance spent between 60-70% FTP.
+> Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70%
+> FTP.
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
@@ -435,8 +437,8 @@ Rest Day
 
 **Description**:
 
-> Nearly 3 hours of Aerobic Endurance spent almost entirely between 60-70% FTP
-> including an early round of Power Sprints. Form drills include Endurance
+> Flattop is 3 hours of Aerobic Endurance spent almost entirely between 60-70%
+> FTP including an early round of Power Sprints. Form drills include Endurance
 > Spinning intervals and some Isolated Leg Training drills.
 > 
 > Power Sprints: These are the culmination of Form Sprints and Strength Sprints
@@ -499,7 +501,8 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of 2 hours of aerobic Endurance spent between 60-70% FTP.
+> Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70%
+> FTP.
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
@@ -625,8 +628,8 @@ Rest Day
 
 **Description**:
 
-> Fletcher consists of nearly 90 minutes of aerobic Endurance spent between
-> 60-75% FTP.
+> Fletcher consists of nearly 90 minutes of aerobic Endurance riding spent
+> between 60-75% FTP.
 > 
 > This workout's form drills include Form Sprints, Endurance Spinning, and
 > Pistons/Kick & Pull pedaling drills.
@@ -642,7 +645,8 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of 2 hours of aerobic Endurance spent between 60-70% FTP.
+> Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70%
+> FTP.
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
@@ -680,7 +684,8 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of 2 hours of aerobic Endurance spent between 60-70% FTP.
+> Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70%
+> FTP.
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
@@ -696,7 +701,8 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of 2 hours of aerobic Endurance spent between 60-70% FTP.
+> Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70%
+> FTP.
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.

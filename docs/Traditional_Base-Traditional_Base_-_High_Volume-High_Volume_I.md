@@ -90,12 +90,9 @@ Rest Day
 
 **Description**:
 
-> Warren consists of nearly 2.25 hours of aerobic Endurance riding spent between
-> 60-70% FTP.
-> 
-> Optional form drills include Form Sprints,
-> 
-> Endurance Spinning & Individual Leg Training (ILT).
+> Warren consists of about 2 hours 15 minutes of aerobic Endurance riding spent
+> between 60-70% FTP and includes optional form drills like form sprints,
+> endurance-spinning, and Individual Leg Training (ILT).
 
 
 ### Friday 
@@ -113,12 +110,9 @@ Rest Day
 
 **Description**:
 
-> Warren consists of nearly 2.25 hours of aerobic Endurance riding spent between
-> 60-70% FTP.
-> 
-> Optional form drills include Form Sprints,
-> 
-> Endurance Spinning & Individual Leg Training (ILT).
+> Warren consists of about 2 hours 15 minutes of aerobic Endurance riding spent
+> between 60-70% FTP and includes optional form drills like form sprints,
+> endurance-spinning, and Individual Leg Training (ILT).
 
 
 ### Sunday 
@@ -131,12 +125,9 @@ Rest Day
 
 **Description**:
 
-> Warren consists of nearly 2.25 hours of aerobic Endurance riding spent between
-> 60-70% FTP.
-> 
-> Optional form drills include Form Sprints,
-> 
-> Endurance Spinning & Individual Leg Training (ILT).
+> Warren consists of about 2 hours 15 minutes of aerobic Endurance riding spent
+> between 60-70% FTP and includes optional form drills like form sprints,
+> endurance-spinning, and Individual Leg Training (ILT).
 
 ## Week 2
 
@@ -154,17 +145,15 @@ Rest Day
 
 * **Name**: Koip
 * **Duration**: 2 hours and 30 minutes
-* **TSS**: 106.0
+* **TSS**: 105.0
 * **NP**: 130
 * **IF**: 65%
 
 **Description**:
 
 > Koip consists of nearly 2.5 hours of aerobic Endurance riding spent between
-> 60-70% FTP.
-> 
-> Optional form drills include Form Sprints, Endurance Spinning and Single-Leg
-> Focus (SLF).
+> 60-70% FTP and includes form drills like form sprints, endurance spinning, and
+> single-leg focus (SLF) drills.
 
 
 ### Wednesday 
@@ -176,17 +165,15 @@ Rest Day
 
 * **Name**: Koip
 * **Duration**: 2 hours and 30 minutes
-* **TSS**: 106.0
+* **TSS**: 105.0
 * **NP**: 130
 * **IF**: 65%
 
 **Description**:
 
 > Koip consists of nearly 2.5 hours of aerobic Endurance riding spent between
-> 60-70% FTP.
-> 
-> Optional form drills include Form Sprints, Endurance Spinning and Single-Leg
-> Focus (SLF).
+> 60-70% FTP and includes form drills like form sprints, endurance spinning, and
+> single-leg focus (SLF) drills.
 
 
 ### Friday 
@@ -198,34 +185,30 @@ Rest Day
 
 * **Name**: Koip
 * **Duration**: 2 hours and 30 minutes
-* **TSS**: 106.0
+* **TSS**: 105.0
 * **NP**: 130
 * **IF**: 65%
 
 **Description**:
 
 > Koip consists of nearly 2.5 hours of aerobic Endurance riding spent between
-> 60-70% FTP.
-> 
-> Optional form drills include Form Sprints, Endurance Spinning and Single-Leg
-> Focus (SLF).
+> 60-70% FTP and includes form drills like form sprints, endurance spinning, and
+> single-leg focus (SLF) drills.
 
 
 ### Sunday 
 
 * **Name**: Koip
 * **Duration**: 2 hours and 30 minutes
-* **TSS**: 106.0
+* **TSS**: 105.0
 * **NP**: 130
 * **IF**: 65%
 
 **Description**:
 
 > Koip consists of nearly 2.5 hours of aerobic Endurance riding spent between
-> 60-70% FTP.
-> 
-> Optional form drills include Form Sprints, Endurance Spinning and Single-Leg
-> Focus (SLF).
+> 60-70% FTP and includes form drills like form sprints, endurance spinning, and
+> single-leg focus (SLF) drills.
 
 ## Week 3
 
@@ -340,7 +323,8 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of 2 hours of aerobic Endurance spent between 60-70% FTP.
+> Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70%
+> FTP.
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
@@ -361,7 +345,8 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of 2 hours of aerobic Endurance spent between 60-70% FTP.
+> Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70%
+> FTP.
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
@@ -382,7 +367,8 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of 2 hours of aerobic Endurance spent between 60-70% FTP.
+> Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70%
+> FTP.
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
@@ -398,7 +384,8 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of 2 hours of aerobic Endurance spent between 60-70% FTP.
+> Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70%
+> FTP.
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.

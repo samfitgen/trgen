@@ -112,9 +112,14 @@ Rest Day
 ## Week 2
 
 > Week 2 kicks off with an entirely new brand of pain in the form of tried and
-> true, high-intensity VO2max repeats. Get used to seeing these bad boys because
-> they're a staple of every week to come. Then, face another round of near-FTP
-> Threshold repeats just before your week draws to a close.
+> true, high-intensity VO2max repeats. Lucky for you, these are of the 'short-
+> short' variety and even though they'll coax out a very high level of oxygen
+> uptake, they'll do it in a manner arguably more friendly than the longer
+> efforts you'll face in your Build training.
+> 
+> Next, you'll face another round of near-FTP Threshold repeats just before your
+> week draws to a close with a round of Sweet Spot repeats that each begin with
+> a short burst of raw power.
 
 ### Monday 
 
@@ -123,20 +128,19 @@ Rest Day
 
 ### Tuesday 
 
-* **Name**: Huffaker
+* **Name**: Taylor -2
 * **Duration**: 1 hour
-* **TSS**: 77.0
-* **NP**: 174
-* **IF**: 87%
+* **TSS**: 70.0
+* **NP**: 166
+* **IF**: 83%
 
 **Description**:
 
-> Huffaker is 6x3-minute VO2max intervals done in 2 sets of 3 intervals where
-> they quickly ramp up to a very high but sustainable and repeatable intensity
-> between 110-120% FTP.
+> Taylor -2 is made up of 3x14-minute sets of 30-second VO2max repeats at 120%
+> FTP where you'll complete as many as 14 short intervals per set.
 > 
-> Recoveries between the intervals are 3 minutes long and the active break
-> between sets lasts 8 minutes.
+> The recovery intervals match the work intervals with 30 seconds of easy
+> spinning and the breaks between sets are 5 minutes long.
 
 
 ### Wednesday 
@@ -185,13 +189,18 @@ Rest Day
 
 ## Week 3
 
-> Week 3 begins with another foray into VO2max territory, but this time you have
-> an idea of what sort of power you can, and perhaps cannot repeat. Use the
-> knowledge gained from last week's longer repeats to accumulate a similar about
-> of VO2max work done in shorter, "friendlier" increments.
+> Week 3 is a blend of VO2max intervals, Threshold work, and an introduction
+> into the downright masochistic world of power steps.
+> 
+> Having conquered 30-second VO2max repeats last week, this week doubles the
+> sustained duration of each repeat. But don't worry because there are far less
+> of them thus only modestly lifting the workout's overall training stress. This
+> is the next stepping stone in your endeavors to eventually dole out power
+> outputs like these for substantially longer stretches or simply get very good
+> at repeating shorter, more intense repeats without fading.
 > 
 > Then, you'll move to your next familiar yet fresh workout format, Threshold
-> intervals with some more sprint-like bursts scattered throughout.  
+> intervals with some more sprint-like bursts scattered throughout.
 > 
 > Finally, you'll finish off your training week with a repeat workout of some
 > always painful over-unders.
@@ -203,19 +212,17 @@ Rest Day
 
 ### Tuesday 
 
-* **Name**: Mills
+* **Name**: Bluebell
 * **Duration**: 1 hour
-* **TSS**: 77.0
-* **NP**: 176
-* **IF**: 88%
+* **TSS**: 76.0
+* **NP**: 174
+* **IF**: 87%
 
 **Description**:
 
-> Mills consists of 3 sets of 3x2-minute VO2max repeats each starting at 120%
-> FTP and finishing at 110% FTP.
-> 
-> 3-minute recoveries fall between intervals and 6-minute recoveries separate
-> the sets.
+> Bluebell is 3 sets of 6x1-minute intervals at 120% FTP where recoveries
+> between intervals are 1 minute long and recoveries between sets of intervals
+> are 5 minutes long.
 
 
 ### Wednesday 
@@ -256,7 +263,7 @@ Rest Day
 
 > Palisade is 5x9-minute intervals alternating slightly above or slightly below
 > FTP. Each interval is a combination of 1-minute efforts at 95% FTP followed
-> immediatly by 2-minute efforts at 105% FTP.
+> immediately by 2-minute efforts at 105% FTP.
 > 
 > 6 minutes of recovery fall between intervals.
 
@@ -270,15 +277,19 @@ Rest Day
 > Week 4 is another well varied, cover-all-bases assortment of workouts that
 > lends itself to furthering a number of riding capabilities.
 > 
-> First, you'll experience the joy and the suffering of VO2max intervals, this
-> time with matched rest - work for 3 minutes, rest for 3 minutes. Then, bask in
-> the VO2max afterglow as you undertake a quiet beast of a Threshold workout
-> made even more challenging with an optional emphasis on determining your
-> power/aero balance.
+> In what may seem like an unreasonable jump up from 1-minute VO2max intervals,
+> this week once again doubles each interval's duration. Fortunately, the
+> efforts themselves are of the 'peak & fade' nature. This interval design
+> allows you to initially achieve a high oxygen uptake and then tone down the
+> power (and pain) while your cardiovascular stress remains high, high, high.
 > 
-> Finally, your week is capped off with yet another twist on over-under
-> intervals in the form of mildly varied under-segments, and short but equally
-> varied over-segments.
+> Then, bask in the VO2max afterglow as you undertake a quiet beast of a
+> Threshold workout made even more challenging with an optional emphasis on
+> determining your power/aero balance.  
+> 
+> Finally, you'll face some unforgiving steps up to and briefly beyond your FTP.
+> Practice riding through the pain without ever indulging the temptation to bail
+> out.
 
 ### Monday 
 
@@ -287,16 +298,19 @@ Rest Day
 
 ### Tuesday 
 
-* **Name**: Spencer
+* **Name**: Mills
 * **Duration**: 1 hour
-* **TSS**: 78.0
-* **NP**: 178
-* **IF**: 89%
+* **TSS**: 77.0
+* **NP**: 176
+* **IF**: 88%
 
 **Description**:
 
-> Spencer is 5x3-minute VO2max repeats at 120% FTP with 3-minute recoveries
-> between intervals.
+> Mills consists of 3 sets of 3x2-minute VO2max repeats each starting at 120%
+> FTP and finishing at 110% FTP.
+> 
+> 3-minute recoveries fall between intervals and 6-minute recoveries separate
+> the sets.
 
 
 ### Wednesday 
@@ -325,21 +339,19 @@ Rest Day
 
 ### Saturday 
 
-* **Name**: Leconte
+* **Name**: Mary Austin -1
 * **Duration**: 1 hour and 30 minutes
-* **TSS**: 123.0
-* **NP**: 180
-* **IF**: 90%
+* **TSS**: 118.0
+* **NP**: 178
+* **IF**: 89%
 
 **Description**:
 
-> Leconte consists of 3 sets of 2x10-minute criss-cross intervals where 2-minute
-> valleys between 95-99% FTP alternate with 30-second surges between 105-110%
-> FTP
+> Mary Austin -1 is 3 sets of 2x10-minute intervals consisting of 2-minute steps
+> up from 92%-102% FTP and then back down again.
 > 
-> Each interval criss-crosses your FTP never straying far from it until the
-> brief, 1-minute recoveries within each set or the 5-minute recovery segments
-> between sets.
+> Rest between intervals is a quick minute while each recovery between sets of
+> intervals is 5 minutes.
 
 
 ### Sunday 
@@ -348,11 +360,13 @@ Rest Day
 
 ## Week 5
 
-> Week 5 is a blend of VO2max intervals, Threshold work, and an introduction
-> into the downright masochistic world of power steps.
+> Week 5 is one more well varied, cover-all-bases assortment of workouts that
+> lends itself to furthering a number of riding capabilities.
 > 
-> Your VO2max intervals increase the demand of last week's round of repeats by a
-> single 3-minute effort.
+> Last week's VO2max repeats started at high power then dropped while this
+> week's holds them steadily high. Added to that, these stay up high for 3 full
+> minutes each. But don't worry, the recovery valleys are a bit longer than
+> usual and more importantly, you're ready for this.  
 > 
 > Up next is a workout that affords a bit of flexibility depending on your rate
 > of recovery. If you're tired, dial things down to Sweet Spot with a 10-15%
@@ -361,9 +375,9 @@ Rest Day
 > "functional" your FTP truly is? Then feel free to see how 40 very steady
 > minutes at hour-power, indoors, actually feels.
 > 
-> Finally, you'll face some unforgiving steps up to and briefly beyond your FTP.
-> Practice riding through the pain without ever indulging the temptation to bail
-> out.
+> Finally, your week is capped off with yet another twist on over-under
+> intervals in the form of mildly varied under-segments, and short but equally
+> varied over-segments.
 
 ### Monday 
 
@@ -372,15 +386,15 @@ Rest Day
 
 ### Tuesday 
 
-* **Name**: Kaiser
+* **Name**: Spencer +2
 * **Duration**: 1 hour
-* **TSS**: 86.0
+* **TSS**: 84.0
 * **NP**: 184
 * **IF**: 92%
 
 **Description**:
 
-> Kaiser is 6x3-minute VO2max repeats at 120% FTP with 3-minute recoveries
+> Spencer +2 is 6x3-minute VO2max repeats at 120% FTP with 4-minute recoveries
 > between intervals.
 
 
@@ -410,19 +424,21 @@ Rest Day
 
 ### Saturday 
 
-* **Name**: Mary Austin
+* **Name**: Leconte
 * **Duration**: 1 hour and 30 minutes
-* **TSS**: 124.0
-* **NP**: 182
-* **IF**: 91%
+* **TSS**: 123.0
+* **NP**: 180
+* **IF**: 90%
 
 **Description**:
 
-> Mary Austin is 3 sets of 2x10-minute intervals consisting of 2-minute steps up
-> from 95%-105% FTP and then back down again.
+> Leconte consists of 3 sets of 2x10-minute criss-cross intervals where 2-minute
+> valleys between 95-99% FTP alternate with 30-second surges between 105-110%
+> FTP
 > 
-> Rest between intervals is a quick minute while each recovery between sets of
-> intervals is 5 minutes.
+> Each interval criss-crosses your FTP never straying far from it until the
+> brief, 1-minute recoveries within each set or the 5-minute recovery segments
+> between sets.
 
 
 ### Sunday 

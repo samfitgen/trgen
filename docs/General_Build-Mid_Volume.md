@@ -99,8 +99,8 @@ Rest Day
 * **Name**: Collins +1
 * **Duration**: 1 hour and 15 minutes
 * **TSS**: 64.0
-* **NP**: 144
-* **IF**: 72%
+* **NP**: 142
+* **IF**: 71%
 
 **Description**:
 
@@ -131,21 +131,20 @@ Rest Day
 
 ### Saturday 
 
-* **Name**: Spanish Needle
+* **Name**: Spanish Needle -3
 * **Duration**: 1 hour and 30 minutes
-* **TSS**: 101.0
-* **NP**: 164
-* **IF**: 82%
+* **TSS**: 92.0
+* **NP**: 156
+* **IF**: 78%
 
 **Description**:
 
-> Spanish Needle is comprised of 6x8-minute sets of microbursts consisting of 15
-> seconds at 150% FTP followed directly by 15 seconds at 40% FTP.
-> 
-> Recovery valleys between sets of bursts are just over 5 minutes long.
+> Spanish Needle -3 is 6x8-minute sets of microbursts where you alternate
+> between 15 seconds at 140% FTP and 15 seconds at 40% FTP. Recovery valleys
+> between sets of bursts are just over 5 minutes long.
 > 
 > The first set of microbursts offers a ramping warmup which can help you
-> determine any Workout Intensity reductions that might be necessary.
+> determine any intensity reductions that might be necessary.
 
 
 ### Sunday 
@@ -220,41 +219,11 @@ Rest Day
 
 **Description**:
 
-> Pettit is an hour of Aerobic Endurance spent mostly between 60-70% FTP and
-> includes Form Sprints, Endurance Spinning intervals, and Pistons/Kick and Pull
-> pedaling drills.
+> Pettit +1 is an hour of aerobic Endurance work spent mostly between 60-70% FTP
+> and includes a couple late-ride sprints. It also includes some optional form
+> sprints, endurance spinning intervals, and various pedaling drills.
 > 
-> Form Sprints: Practice high-rpm sprint simulations at low power outputs to
-> reinforce proper sprinting technique by jumping out-of-the-saddle and winding
-> up a light gear. As your cadence reaches its controllable peak, gracefully
-> transition into the saddle where you can shift gears if necessary. These
-> sprints are only 10s long and are all about leg speed, form, and technique.
-> Experiment with which foot to lead with, and learn how to generate a lot of
-> leg speed in very little time.
-> 
-> Endurance Spinning: Practice spinning slightly quicker than your natural,
-> self-selected cadence. Ride at a cadence that's at the very top of your
-> comfortable rpm range and remain there for a solid 5 minutes. The goal is to
-> learn to turn the pedals more quickly with less force (muscle stress) thereby
-> improving your ability to remain predominantly aerobic over a wide range of
-> rpm's. If your HR rises more than a few BPM, you're pedaling too quickly -
-> take it easy and stay relaxed but quick.
-> 
-> Pistons: Few if any riders need to practice pushing down on the pedals, but
-> improvements in how well your knees move are both beneficial to economy and
-> joint health. As you pedal, pay close attention to how your knees track. They
-> should move directly up, directly down - like pistons - with little if any
-> lateral movement, especially at the top of each pedalstroke. Focus on one knee
-> for 30s before switching sides.
-> 
-> Kick and Pull: A balanced pedalstroke is dependent upon consistent tension on
-> your bike's drivetrain throughout the entire pedalstroke. Reinforce your
-> ability to maintain tension through the weakest portions of the pedalstroke,
-> the top and bottom quadrants. As your knee approaches top-dead-center, lightly
-> kick your toes into the fronts of your shoes, and as your feet approach
-> bottom-dead-center, lightly pull your heels into the backs of your shoes -
-> kick and pull. Focus on just the kick for 30s, just the pull for 30s, then
-> eventually both for 30s simultaneously.
+>   
 > 
 > Modifications: 2 late-ride sprints
 
@@ -305,13 +274,13 @@ Rest Day
 
 * **Name**: Juneau -1
 * **Duration**: 2 hours
-* **TSS**: 130.0
-* **NP**: 162
-* **IF**: 81%
+* **TSS**: 129.0
+* **NP**: 160
+* **IF**: 80%
 
 **Description**:
 
-> Juneau -1 is 4x18-minute intervals at 88-92% FTP with brief, 1-minute
+> Juneau -1 is 4x18-minute intervals at 88-92% FTP with brief, 2-minute
 > intermediate recoveries during each long interval.
 > 
 > 7-minute recoveries fall between intervals.
@@ -353,31 +322,31 @@ Rest Day
 
 * **Name**: Bashful +6
 * **Duration**: 1 hour and 30 minutes
-* **TSS**: 118.0
-* **NP**: 178
-* **IF**: 89%
+* **TSS**: 113.0
+* **NP**: 174
+* **IF**: 87%
 
 **Description**:
 
-> Bashful +6 is 3 sets of 5x90-second intervals at 125% FTP followed by 30
-> minutes at 65% FTP.
+> Bashful +6 is 3 sets of 5x90-second intervals at 122% FTP followed by 25
+> minutes of Endurance work at 65% FTP.
 > 
 > Recoveries between intervals are 1 minute long and recoveries between sets of
-> intervals are 5 minutes long.
+> intervals are 8 minutes long.
 
 
 ### Wednesday 
 
 * **Name**: Mokelumne
 * **Duration**: 1 hour
-* **TSS**: 45.0
-* **NP**: 134
-* **IF**: 67%
+* **TSS**: 44.0
+* **NP**: 132
+* **IF**: 66%
 
 **Description**:
 
-> Mokelumne is 60 minutes of aerobic Endurance riding mostly spent at 65% FTP
-> and includes 2x20-second sprints.
+> Mokelumne is 1 hour of aerobic Endurance riding mostly spent at 65% FTP and
+> includes 2x20-second sprints.
 
 
 ### Thursday 
@@ -404,11 +373,11 @@ Rest Day
 
 ### Saturday 
 
-* **Name**: Junction
+* **Name**: Junction -1
 * **Duration**: 1 hour and 30 minutes
-* **TSS**: 111.0
-* **NP**: 172
-* **IF**: 86%
+* **TSS**: 109.0
+* **NP**: 170
+* **IF**: 85%
 
 **Description**:
 
@@ -437,7 +406,7 @@ Rest Day
 **Description**:
 
 > Tallac +3 is 5x15-minute efforts spent in the Sweet Spot, 88-94% FTP, with
-> 6-minute recoveries between intervals.
+> 7-minute recoveries between intervals.
 
 ## Week 4
 
@@ -497,11 +466,9 @@ Rest Day
 
 **Description**:
 
-> Whorl consists of an hour & 15 minutes of aerobic Endurance work spent between
-> 60-75% FTP.
-> 
-> Optional form drills include Form Sprints, Endurance Spinning intervals, and
-> quadrant drills like Pistons and Kick & Pull drills.
+> Whorl consists of 75 minutes of aerobic Endurance work spent between 60-75%
+> FTP. Optional form drills include form sprints, endurance-spinning intervals,
+> and various pedalstroke drills.
 
 
 ### Friday 
@@ -513,14 +480,14 @@ Rest Day
 
 * **Name**: Mokelumne +1
 * **Duration**: 1 hour and 30 minutes
-* **TSS**: 64.0
+* **TSS**: 63.0
 * **NP**: 130
 * **IF**: 65%
 
 **Description**:
 
-> Mokelumne +1 is 60 minutes of aerobic Endurance riding mostly spent at 65% FTP
-> including 2x20-second sprints.
+> Mokelumne +1 is an hour and a half of aerobic Endurance riding mostly spent at
+> 65% FTP and includes 2x20-second sprints.
 
 
 ### Sunday 
@@ -603,7 +570,7 @@ Rest Day
 
 * **Name**: Bays +1
 * **Duration**: 1 hour and 30 minutes
-* **TSS**: 85.0
+* **TSS**: 84.0
 * **NP**: 150
 * **IF**: 75%
 
@@ -617,16 +584,16 @@ Rest Day
 
 * **Name**: Dade +4
 * **Duration**: 1 hour and 30 minutes
-* **TSS**: 115.0
-* **NP**: 176
-* **IF**: 88%
+* **TSS**: 110.0
+* **NP**: 172
+* **IF**: 86%
 
 **Description**:
 
-> Dade +4 is three sets of 3x2.5-minute VO2max repeats at 120% FTP followed by
-> 25 minutes at 65% FTP.
+> Dade +4 is three sets of 3x2.5-minute VO2max repeats starting at 120% FTP and
+> decreasing to 115%, all followed by 15 minutes of Endurance work at 65% FTP.
 > 
-> 2.5 minutes of recovery fall between Intervals and 5 minutes of easy spinning
+> 4 minutes of recovery fall between intervals and 5 minutes of easy spinning
 > separate each set.
 
 
@@ -720,9 +687,9 @@ Rest Day
 
 * **Name**: Bays
 * **Duration**: 1 hour
-* **TSS**: 59.0
-* **NP**: 154
-* **IF**: 77%
+* **TSS**: 58.0
+* **NP**: 152
+* **IF**: 76%
 
 **Description**:
 
@@ -734,16 +701,16 @@ Rest Day
 
 * **Name**: Matthes +4
 * **Duration**: 1 hour and 30 minutes
-* **TSS**: 115.0
-* **NP**: 176
-* **IF**: 88%
+* **TSS**: 114.0
+* **NP**: 174
+* **IF**: 87%
 
 **Description**:
 
-> Matthes +4 is 3 sets of 3x3-minute VO2max repeats at 115%FTP followed by 15
-> minutes at 65% FTP.
+> Matthes +4 is 3 sets of 3x3-minute VO2max repeats at 115%FTP followed by 12
+> minutes of Endurance work at 65% FTP.
 > 
-> 3 minutes of recovery falls between Intervals and 6 minutes of easy spinning
+> 4 minutes of recovery falls between Intervals and 6 minutes of easy spinning
 > separates the sets.
 
 
@@ -822,25 +789,25 @@ Rest Day
 * **Name**: Ansel Adams +4
 * **Duration**: 1 hour and 30 minutes
 * **TSS**: 123.0
-* **NP**: 180
-* **IF**: 90%
+* **NP**: 182
+* **IF**: 91%
 
 **Description**:
 
-> Ansel Adams +4 consists of 3x11-minute sets of 50 seconds at 135% FTP with 40
-> seconds of recovery between each interval.
+> Ansel Adams +4 consists of 3x11-minute sets of 50/40's where you'll spend 50
+> seconds at 135% FTP followed by 40 seconds at recovery watts.
 > 
-> 5 minutes of recovery fall between each set of intervals and the main set is
-> followed by 30 minutes at 65% FTP.
+> 8 minutes of recovery fall between each set of intervals and the main set is
+> followed by 25 minutes at 65% FTP.
 
 
 ### Wednesday 
 
 * **Name**: Bays
 * **Duration**: 1 hour
-* **TSS**: 59.0
-* **NP**: 154
-* **IF**: 77%
+* **TSS**: 58.0
+* **NP**: 152
+* **IF**: 76%
 
 **Description**:
 
@@ -852,16 +819,16 @@ Rest Day
 
 * **Name**: Kaiser +4
 * **Duration**: 1 hour and 30 minutes
-* **TSS**: 111.0
-* **NP**: 172
-* **IF**: 86%
+* **TSS**: 109.0
+* **NP**: 170
+* **IF**: 85%
 
 **Description**:
 
-> Kaiser +4 is 2 sets of 3x3-minute VO2max repeats at 122% FTP followed by 35
-> minutes at 65% FTP.
+> Kaiser +4 is 2 sets of 3x3-minute VO2max repeats at 122% FTP followed by 25
+> minutes of Endurance work at 65% FTP.
 > 
-> 3-minute recoveries fall between intervals and 6 minutes fall between sets
+> 5-minute recoveries fall between intervals and 8 minutes fall between sets
 
 
 ### Friday 
@@ -954,9 +921,9 @@ Rest Day
 
 * **Name**: Collins
 * **Duration**: 1 hour and 15 minutes
-* **TSS**: 59.0
-* **NP**: 138
-* **IF**: 69%
+* **TSS**: 58.0
+* **NP**: 136
+* **IF**: 68%
 
 **Description**:
 

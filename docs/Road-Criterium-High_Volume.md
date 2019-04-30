@@ -96,10 +96,9 @@ Rest Day
 **Description**:
 
 > Baxter is 90 minutes of non-stop aerobic conditioning at 55-80% FTP where the
-> effort changes based on cadence.
-> 
-> Effectively a fixed-gear trainer ride with low to moderate effort levels that
-> primarily utilize fat as the fuel source.
+> effort changes based on cadence making this effectively a fixed-gear trainer
+> ride with low to moderate effort levels aimed at primarily utilizing fat as
+> the fuel source.
 
 
 ### Thursday 
@@ -120,9 +119,9 @@ Rest Day
 
 * **Name**: Collins
 * **Duration**: 1 hour and 15 minutes
-* **TSS**: 59.0
-* **NP**: 138
-* **IF**: 69%
+* **TSS**: 58.0
+* **NP**: 136
+* **IF**: 68%
 
 **Description**:
 
@@ -255,11 +254,9 @@ Rest Day
 
 **Description**:
 
-> Whorl consists of an hour & 15 minutes of aerobic Endurance work spent between
-> 60-75% FTP.
-> 
-> Optional form drills include Form Sprints, Endurance Spinning intervals, and
-> quadrant drills like Pistons and Kick & Pull drills.
+> Whorl consists of 75 minutes of aerobic Endurance work spent between 60-75%
+> FTP. Optional form drills include form sprints, endurance-spinning intervals,
+> and various pedalstroke drills.
 
 
 ### Saturday 
@@ -392,11 +389,9 @@ Rest Day
 
 **Description**:
 
-> Whorl consists of an hour & 15 minutes of aerobic Endurance work spent between
-> 60-75% FTP.
-> 
-> Optional form drills include Form Sprints, Endurance Spinning intervals, and
-> quadrant drills like Pistons and Kick & Pull drills.
+> Whorl consists of 75 minutes of aerobic Endurance work spent between 60-75%
+> FTP. Optional form drills include form sprints, endurance-spinning intervals,
+> and various pedalstroke drills.
 
 
 ### Saturday 
@@ -462,7 +457,7 @@ Rest Day
 
 **Description**:
 
-> Townsend consists simply of 90 minutes of aerobic Endurance spent between
+> Townsend consists of 90 minutes of aerobic Endurance riding spent between
 > 60-70% FTP.
 
 
@@ -490,9 +485,8 @@ Rest Day
 **Description**:
 
 > Andrews is 90 minutes of aerobic Endurance riding spent somewhere between
-> 65-75% FTP.
-> 
-> Modifications: 4 late-ride sprints.
+> 65-75% FTP. This version inlcudes 4 late-ride sprints at 180% FTP for 10
+> seconds each.
 
 
 ### Friday 
@@ -505,8 +499,8 @@ Rest Day
 
 **Description**:
 
-> Fletcher consists of nearly 90 minutes of aerobic Endurance spent between
-> 60-75% FTP.
+> Fletcher consists of nearly 90 minutes of aerobic Endurance riding spent
+> between 60-75% FTP.
 > 
 > This workout's form drills include Form Sprints, Endurance Spinning, and
 > Pistons/Kick & Pull pedaling drills.
@@ -522,8 +516,8 @@ Rest Day
 
 **Description**:
 
-> Fletcher consists of nearly 90 minutes of aerobic Endurance spent between
-> 60-75% FTP.
+> Fletcher consists of nearly 90 minutes of aerobic Endurance riding spent
+> between 60-75% FTP.
 > 
 > This workout's form drills include Form Sprints, Endurance Spinning, and
 > Pistons/Kick & Pull pedaling drills.
@@ -533,16 +527,17 @@ Rest Day
 
 * **Name**: Springer Mountain
 * **Duration**: 2 hours
-* **TSS**: 104.0
+* **TSS**: 103.0
 * **NP**: 144
 * **IF**: 72%
 
 **Description**:
 
-> 2 hours of Tempo intervals spent between 70-80% FTP with brief, intermittent,
-> 1 to 3-minute recoveries at 55% FTP. This workout also includes 3x10s Strength
-> Sprints, 5-minutes between each as well as some Endurance Spinning intervals
-> and some Single-Leg Focus drills.
+> Springer Mountain is 2 hours of Tempo intervals spent between 70-80% FTP with
+> brief, intermittent, 1 to 3-minute recoveries at 55% FTP. This workout also
+> includes 3x10-second Strength Sprints with 8-minute recoveries between each,
+> and some Endurance Spinning intervals and some Single-Leg Focus drills are
+> included as well.
 > 
 > Strength Sprints: Practice turning a big gear as forcefully as possible in
 > order to recruit as many muscle fibers as you can. From a near stop and in the
@@ -570,7 +565,7 @@ Rest Day
 > lightly pulling your foot across the bottom, lifting your knee lightly upward
 > and then softly kicking over the top of each pedalstroke. Add this drill
 > indoors or outdoors as often as you like, more frequently if you recognize a
-> substantial difference in one leg's strength or coordination.
+> significant difference in one leg's strength or coordination.
 
 ## Week 5
 
@@ -781,9 +776,9 @@ Rest Day
 
 * **Name**: Merced +2
 * **Duration**: 1 hour and 30 minutes
-* **TSS**: 124.0
-* **NP**: 182
-* **IF**: 91%
+* **TSS**: 123.0
+* **NP**: 180
+* **IF**: 90%
 
 **Description**:
 
@@ -838,7 +833,7 @@ Rest Day
 **Description**:
 
 > Tallac +3 is 5x15-minute efforts spent in the Sweet Spot, 88-94% FTP, with
-> 6-minute recoveries between intervals.
+> 7-minute recoveries between intervals.
 
 ## Week 7
 
@@ -890,7 +885,7 @@ Rest Day
 
 ### Thursday 
 
-* **Name**: San Joaquin +4
+* **Name**: San Joaquin +5
 * **Duration**: 1 hour and 15 minutes
 * **TSS**: 108.0
 * **NP**: 186
@@ -898,7 +893,7 @@ Rest Day
 
 **Description**:
 
-> San Joaquin +4 is 4x7 sets of 50/50's where you'll spend 50 seconds at 130%
+> San Joaquin +5 is 4x7 sets of 50/50's where you'll spend 50 seconds at 130%
 > FTP with 50 seconds of active recovery between each interval.
 > 
 > 5 minutes of recovery fall between each set of intervals.
@@ -921,17 +916,17 @@ Rest Day
 
 * **Name**: Huxley +1
 * **Duration**: 1 hour and 15 minutes
-* **TSS**: 106.0
-* **NP**: 184
-* **IF**: 92%
+* **TSS**: 102.0
+* **NP**: 180
+* **IF**: 90%
 
 **Description**:
 
 > Huxley +1 is 4 sets of 3x3-minute Attack and Recover intervals that build on
 > the brutality of Abott.
 > 
-> The valleys range from 90-115% FTP for as long as 2.5 minutes while the surges
-> force you to hold your watts between 135-150% FTP for 15-60 seconds.
+> The valleys range from 90-110% FTP for as long as 2.5 minutes while the surges
+> force you to hold your watts between 135-140% FTP for 15-60 seconds.
 > 
 > Very short, 1-minute recoveries separate intervals while 4-minute recoveries
 > separate the sets of intervals.

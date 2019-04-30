@@ -89,16 +89,15 @@ Rest Day
 
 * **Name**: Pierce
 * **Duration**: 1 hour and 15 minutes
-* **TSS**: 92.0
-* **NP**: 172
-* **IF**: 86%
+* **TSS**: 91.0
+* **NP**: 170
+* **IF**: 85%
 
 **Description**:
 
-> Pierce is six 4.5-minute sets of VO2max repeats where you'll ride for 15-25
-> seconds at 125% FTP and then "float" for 15-30 seconds at 88% FTP.
-> 
-> 4 minutes of recovery separate each set.
+> Pierce is 6x4.5-minute sets of VO2max repeats where you'll ride for 15-25
+> seconds at 125% FTP and then "float" for 15-30 seconds at 88% FTP. 6 minutes
+> of active recovery separate each set.
 
 
 ### Friday 
@@ -159,9 +158,9 @@ Rest Day
 
 * **Name**: Joe Devel +1
 * **Duration**: 1 hour and 15 minutes
-* **TSS**: 90.0
-* **NP**: 170
-* **IF**: 85%
+* **TSS**: 86.0
+* **NP**: 166
+* **IF**: 83%
 
 **Description**:
 
@@ -173,7 +172,7 @@ Rest Day
 > 30-second On-segments at 130% FTP, set 3 consists of 45-second On-segments at
 > 120% FTP and set 4 consists of 18-second On-segments at 140% FTP.
 > 
-> All recoveries between sets are a little over 7 minutes long.
+> All recoveries between sets are 10 minutes long.
 
 
 ### Wednesday 
@@ -193,7 +192,7 @@ Rest Day
 
 > Baird +2 is 3 sets of 5x90-second intervals at 120% FTP where recoveries
 > between intervals are 1 minute long and recoveries between sets of intervals
-> are 5 minutes long.
+> are 6 minutes long.
 
 
 ### Friday 
@@ -250,16 +249,15 @@ Rest Day
 
 * **Name**: Whiteface
 * **Duration**: 1 hour and 15 minutes
-* **TSS**: 96.0
-* **NP**: 176
-* **IF**: 88%
+* **TSS**: 95.0
+* **NP**: 174
+* **IF**: 87%
 
 **Description**:
 
 > Whiteface consists of 6x5-minute sets of VO2max repeats where you'll ride for
-> 15-25 seconds at 125% FTP and then 'float' for 15-30 seconds at 88% FTP.
-> 
-> 4 minutes of recovery separate each set.
+> 15-25 seconds at 125% FTP and then 'float' for 15-30 seconds at 88% FTP. 6
+> minutes of recovery separate each set.
 
 
 ### Wednesday 
@@ -271,15 +269,17 @@ Rest Day
 
 * **Name**: Bashful +2
 * **Duration**: 1 hour
-* **TSS**: 91.0
-* **NP**: 192
-* **IF**: 96%
+* **TSS**: 89.0
+* **NP**: 188
+* **IF**: 94%
 
 **Description**:
 
-> Bashful +2 is 3 sets of 5x90-second intervals at 125% FTP where recoveries
-> between intervals are 1 minute long and recoveries between sets of intervals
-> are 5 minutes long.
+> Bashful +2 is 3 sets of 5x90-second intervals that rise from 121% FTP to 125%
+> FTP.
+> 
+> Recoveries between intervals are 1 minute long and recoveries between sets of
+> intervals are 5 minutes long.
 
 
 ### Friday 
@@ -289,11 +289,11 @@ Rest Day
 
 ### Saturday 
 
-* **Name**: Junction
+* **Name**: Junction -1
 * **Duration**: 1 hour and 30 minutes
-* **TSS**: 111.0
-* **NP**: 172
-* **IF**: 86%
+* **TSS**: 109.0
+* **NP**: 170
+* **IF**: 85%
 
 **Description**:
 
@@ -362,11 +362,9 @@ Rest Day
 
 **Description**:
 
-> Whorl consists of an hour & 15 minutes of aerobic Endurance work spent between
-> 60-75% FTP.
-> 
-> Optional form drills include Form Sprints, Endurance Spinning intervals, and
-> quadrant drills like Pistons and Kick & Pull drills.
+> Whorl consists of 75 minutes of aerobic Endurance work spent between 60-75%
+> FTP. Optional form drills include form sprints, endurance-spinning intervals,
+> and various pedalstroke drills.
 
 
 ### Friday 
@@ -384,7 +382,7 @@ Rest Day
 
 **Description**:
 
-> Townsend consists simply of 90 minutes of aerobic Endurance spent between
+> Townsend consists of 90 minutes of aerobic Endurance riding spent between
 > 60-70% FTP.
 
 
@@ -460,7 +458,7 @@ Rest Day
 
 * **Name**: Dade +1
 * **Duration**: 1 hour and 15 minutes
-* **TSS**: 101.0
+* **TSS**: 100.0
 * **NP**: 180
 * **IF**: 90%
 
@@ -468,7 +466,7 @@ Rest Day
 
 > Dade +1 is three sets of 3x2.5-minute VO2max repeats at 120% FTP.
 > 
->  2.5 minutes of recovery fall between Intervals and 8 minutes of easy spinning
+> 4 minutes of recovery fall between Intervals and 6 minutes of easy spinning
 > separate each set.
 
 
@@ -479,16 +477,16 @@ Rest Day
 
 ### Saturday 
 
-* **Name**: Thor
+* **Name**: Thor -1
 * **Duration**: 1 hour and 30 minutes
-* **TSS**: 114.0
-* **NP**: 174
-* **IF**: 87%
+* **TSS**: 108.0
+* **NP**: 170
+* **IF**: 85%
 
 **Description**:
 
-> Thor consists of a massive 8 sets of 3x12-second sprints between 180-220% FTP
-> followed closely by a slightly suprathreshold 4-minute effort at 105% FTP,
+> Thor -1 consists of a massive 8 sets of 3x12-second sprints between 180-200%
+> FTP followed closely by a slightly suprathreshold 4-minute effort at 102% FTP,
 > a.k.a. sprint-ervals.
 > 
 > The rest following the sprints is minimal and won't allow complete recovery
@@ -532,9 +530,9 @@ Rest Day
 
 * **Name**: Williamson
 * **Duration**: 1 hour
-* **TSS**: 88.0
-* **NP**: 188
-* **IF**: 94%
+* **TSS**: 87.0
+* **NP**: 186
+* **IF**: 93%
 
 **Description**:
 
@@ -544,7 +542,7 @@ Rest Day
 > Recovery between intervals matches the duration of the preceding interval -
 > work for 2 minutes, rest for 2 minutes.
 > 
-> Recoveries between sets of intervals are 3 minutes long.
+> Recoveries between sets of intervals are 4 minutes long.
 
 
 ### Wednesday 
@@ -554,7 +552,7 @@ Rest Day
 
 ### Thursday 
 
-* **Name**: Matthes +1 
+* **Name**: Matthes +1
 * **Duration**: 1 hour and 15 minutes
 * **TSS**: 102.0
 * **NP**: 180
@@ -622,18 +620,18 @@ Rest Day
 
 ### Tuesday 
 
-* **Name**: Ansel Adams -1
+* **Name**: Ansel Adams -2
 * **Duration**: 1 hour
-* **TSS**: 94.0
-* **NP**: 194
-* **IF**: 97%
+* **TSS**: 90.0
+* **NP**: 190
+* **IF**: 95%
 
 **Description**:
 
-> Ansel Adams -1 consists of 3x13-minute sets of 50 seconds at 130% FTP with 40
-> seconds of recovery between each interval.
+> Ansel Adams -2 consists of 6x6-minute sets of 50/50's where you'll spend 50
+> seconds at 130% FTP followed by 50 seconds at recovery watts.
 > 
-> 4 minutes of recovery fall between each set of intervals.
+> 2 minutes of recovery fall between each set of intervals.
 
 
 ### Wednesday 
@@ -645,14 +643,14 @@ Rest Day
 
 * **Name**: Kaiser +2
 * **Duration**: 1 hour and 15 minutes
-* **TSS**: 110.0
-* **NP**: 188
-* **IF**: 94%
+* **TSS**: 106.0
+* **NP**: 184
+* **IF**: 92%
 
 **Description**:
 
-> Kaiser +2 is 3 sets of 3x3-minute VO2max repeats at 120% FTP with 3-minute
-> recoveries between intervals and 6 minutes between sets.
+> Kaiser +2 is 3 sets of 3x3-minute VO2max repeats at 118% FTP with 4-minute
+> recoveries between intervals and 5 minutes between sets.
 
 
 ### Friday 
@@ -724,9 +722,9 @@ Rest Day
 
 * **Name**: Collins
 * **Duration**: 1 hour and 15 minutes
-* **TSS**: 59.0
-* **NP**: 138
-* **IF**: 69%
+* **TSS**: 58.0
+* **NP**: 136
+* **IF**: 68%
 
 **Description**:
 

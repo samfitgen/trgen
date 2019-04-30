@@ -126,12 +126,9 @@ Rest Day
 
 **Description**:
 
-> Warren consists of nearly 2.25 hours of aerobic Endurance riding spent between
-> 60-70% FTP.
-> 
-> Optional form drills include Form Sprints,
-> 
-> Endurance Spinning & Individual Leg Training (ILT).
+> Warren consists of about 2 hours 15 minutes of aerobic Endurance riding spent
+> between 60-70% FTP and includes optional form drills like form sprints,
+> endurance-spinning, and Individual Leg Training (ILT).
 
 ## Week 2
 
@@ -151,15 +148,16 @@ Rest Day
 
 * **Name**: Gros Morne
 * **Duration**: 1 hour
-* **TSS**: 71.0
-* **NP**: 168
-* **IF**: 84%
+* **TSS**: 66.0
+* **NP**: 162
+* **IF**: 81%
 
 **Description**:
 
-> 60 minutes of mostly Tempo and Sweet Spot work spent between 80-90% FTP with
-> the addition of 4x1-minute Force Intervals with 1 minute's rest between them
-> and 3x10s Strength Sprints followed by 6 minutes of Tempo work.
+> Gros Morne is 60 minutes of mostly Tempo and Sweet Spot work spent between
+> 80-90% FTP. Additionally, there are 4x1-minute Force Intervals each with 1
+> minute's rest between them followed by 3x10-second Strength Sprints. The
+> workout then concludes with 6 minutes of Tempo work.
 
 
 ### Wednesday 
@@ -207,17 +205,15 @@ Rest Day
 
 * **Name**: Koip
 * **Duration**: 2 hours and 30 minutes
-* **TSS**: 106.0
+* **TSS**: 105.0
 * **NP**: 130
 * **IF**: 65%
 
 **Description**:
 
 > Koip consists of nearly 2.5 hours of aerobic Endurance riding spent between
-> 60-70% FTP.
-> 
-> Optional form drills include Form Sprints, Endurance Spinning and Single-Leg
-> Focus (SLF).
+> 60-70% FTP and includes form drills like form sprints, endurance spinning, and
+> single-leg focus (SLF) drills.
 
 ## Week 3
 
@@ -236,15 +232,16 @@ Rest Day
 
 * **Name**: Moosilaukee
 * **Duration**: 1 hour
-* **TSS**: 73.0
-* **NP**: 170
-* **IF**: 85%
+* **TSS**: 67.0
+* **NP**: 164
+* **IF**: 82%
 
 **Description**:
 
-> 60 minutes of mostly Tempo and Sweet Spot work spent between 80-90% FTP with
-> the addition of 3x2-minute Force Intervals with 2 minute's rest between them
-> and 3x10-second Strength Sprints followed by 6 minutes of Tempo work.
+> Moosilaukee is 60 minutes of mostly Tempo and Sweet Spot work spent between
+> 80-90% FTP with the addition of 3x2-minute Force Intervals with 2 minute's
+> rest between them and 3x10-second Strength Sprints followed by 6 minutes of
+> Tempo work.
 
 
 ### Wednesday 
@@ -256,16 +253,17 @@ Rest Day
 
 * **Name**: Springer Mountain
 * **Duration**: 2 hours
-* **TSS**: 104.0
+* **TSS**: 103.0
 * **NP**: 144
 * **IF**: 72%
 
 **Description**:
 
-> 2 hours of Tempo intervals spent between 70-80% FTP with brief, intermittent,
-> 1 to 3-minute recoveries at 55% FTP. This workout also includes 3x10s Strength
-> Sprints, 5-minutes between each as well as some Endurance Spinning intervals
-> and some Single-Leg Focus drills.
+> Springer Mountain is 2 hours of Tempo intervals spent between 70-80% FTP with
+> brief, intermittent, 1 to 3-minute recoveries at 55% FTP. This workout also
+> includes 3x10-second Strength Sprints with 8-minute recoveries between each,
+> and some Endurance Spinning intervals and some Single-Leg Focus drills are
+> included as well.
 > 
 > Strength Sprints: Practice turning a big gear as forcefully as possible in
 > order to recruit as many muscle fibers as you can. From a near stop and in the
@@ -293,7 +291,7 @@ Rest Day
 > lightly pulling your foot across the bottom, lifting your knee lightly upward
 > and then softly kicking over the top of each pedalstroke. Add this drill
 > indoors or outdoors as often as you like, more frequently if you recognize a
-> substantial difference in one leg's strength or coordination.
+> significant difference in one leg's strength or coordination.
 
 
 ### Friday 
@@ -348,9 +346,9 @@ Rest Day
 
 * **Name**: Cardigan
 * **Duration**: 1 hour
-* **TSS**: 64.0
-* **NP**: 160
-* **IF**: 80%
+* **TSS**: 57.0
+* **NP**: 152
+* **IF**: 76%
 
 **Description**:
 
@@ -374,11 +372,9 @@ Rest Day
 
 **Description**:
 
-> Whorl consists of an hour & 15 minutes of aerobic Endurance work spent between
-> 60-75% FTP.
-> 
-> Optional form drills include Form Sprints, Endurance Spinning intervals, and
-> quadrant drills like Pistons and Kick & Pull drills.
+> Whorl consists of 75 minutes of aerobic Endurance work spent between 60-75%
+> FTP. Optional form drills include form sprints, endurance-spinning intervals,
+> and various pedalstroke drills.
 
 
 ### Friday 
@@ -396,11 +392,9 @@ Rest Day
 
 **Description**:
 
-> Whorl consists of an hour & 15 minutes of aerobic Endurance work spent between
-> 60-75% FTP.
-> 
-> Optional form drills include Form Sprints, Endurance Spinning intervals, and
-> quadrant drills like Pistons and Kick & Pull drills.
+> Whorl consists of 75 minutes of aerobic Endurance work spent between 60-75%
+> FTP. Optional form drills include form sprints, endurance-spinning intervals,
+> and various pedalstroke drills.
 
 
 ### Sunday 
@@ -413,9 +407,7 @@ Rest Day
 
 **Description**:
 
-> Whorl consists of an hour & 15 minutes of aerobic Endurance work spent between
-> 60-75% FTP.
-> 
-> Optional form drills include Form Sprints, Endurance Spinning intervals, and
-> quadrant drills like Pistons and Kick & Pull drills.
+> Whorl consists of 75 minutes of aerobic Endurance work spent between 60-75%
+> FTP. Optional form drills include form sprints, endurance-spinning intervals,
+> and various pedalstroke drills.
 

@@ -36,7 +36,7 @@
 > 
 > Up next is few rounds of 40/20's that will simultaneously target your
 > anaerobic capabilities while gradually increasing the stress on your aerobic
-> system as each round progresses, all in an on-off format common to mass start
+> system as each round progresses, all in an on/off format common to mass start
 > racing.
 > 
 > Then, your first week closes with the first of many combination workouts aimed
@@ -94,17 +94,18 @@ Rest Day
 
 ### Thursday 
 
-* **Name**: Merced
+* **Name**: Merced -1
 * **Duration**: 1 hour
-* **TSS**: 85.0
-* **NP**: 184
-* **IF**: 92%
+* **TSS**: 79.0
+* **NP**: 178
+* **IF**: 89%
 
 **Description**:
 
-> Merced is 5 sets of 5x40-seconds efforts at 135% FTP with very short,
-> 20-second recoveries between them. The active recoveries between each set of
-> 40/20's are a little over 4 minutes long.
+> Merced -1 is 5 sets of 5x40-seconds efforts starting at 135% FTP and finishing
+> at 123% FTP, all with very short, 20-second recoveries between them.
+> 
+> The active recoveries between each set of 40/20's are a 5 minutes long.
 
 
 ### Friday 
@@ -114,7 +115,7 @@ Rest Day
 
 ### Saturday 
 
-* **Name**: Diamond Valley Road Race +1
+* **Name**: Diamond Valley Road Race +2
 * **Duration**: 1 hour and 30 minutes
 * **TSS**: 116.0
 * **NP**: 176
@@ -129,7 +130,7 @@ Rest Day
 > 30-second active recovery, 2 minutes of Tempo work, and then a second 2-minute
 > effort at 115% FTP that concludes with a 30-second kick at 120% FTP.
 > 
-> Recovery between each interval is 5 minutes long.
+> Recovery between each interval is 6 minutes long.
 
 
 ### Sunday 
@@ -186,17 +187,18 @@ Rest Day
 
 ### Thursday 
 
-* **Name**: Clouds Rest +1
+* **Name**: Clouds Rest -1
 * **Duration**: 1 hour
-* **TSS**: 81.0
-* **NP**: 180
-* **IF**: 90%
+* **TSS**: 74.0
+* **NP**: 172
+* **IF**: 86%
 
 **Description**:
 
-> Clouds Rest +1 is 3x12-minute sets of 30-second VO2max repeats at 130% FTP
-> with 20 seconds of active recovery between repeat and 5 minutes of recovery
-> between each set of repeats.
+> Clouds Rest -1 is 6x6-minute sets of 30-second VO2max repeats at 130% FTP with
+> 30 seconds of active recovery between repeats.
+> 
+> 3 minutes of recovery fall between each set of 30/30's.
 
 
 ### Friday 
@@ -208,22 +210,21 @@ Rest Day
 
 * **Name**: Winchell
 * **Duration**: 1 hour and 30 minutes
-* **TSS**: 121.0
-* **NP**: 180
-* **IF**: 90%
+* **TSS**: 118.0
+* **NP**: 178
+* **IF**: 89%
 
 **Description**:
 
 > Winchell is a combination workout that starts with 3 sets of 4-minute
 > Threshold efforts at 95-105% FTP with active recoveries that increase in
-> duration but also in intensity.
+> durationover the course of each interval set.
 > 
 > The second half of the workout is made up of 3 sets of 40/20's where you'll
 > ride for 40 seconds at 120-130% FTP, rinse for 20 seconds, then repeat for 5
 > short efforts per set of high-intensity repeats.
 > 
-> Recoveries between sets of 40/20's diminish from a little over 3 minutes to a
-> little over 2 minutes.
+> Recoveries between sets of 40/20's last for 5 minutes each.
 
 
 ### Sunday 
@@ -301,20 +302,20 @@ Rest Day
 
 ### Saturday 
 
-* **Name**: Mallory
+* **Name**: Mallory -1
 * **Duration**: 1 hour and 30 minutes
-* **TSS**: 124.0
-* **NP**: 182
-* **IF**: 91%
+* **TSS**: 116.0
+* **NP**: 176
+* **IF**: 88%
 
 **Description**:
 
-> Mallory is another combination workout kicking off with 3x12-minute over-under
-> intervals of increasing intensity to simulate a 4-man paceline or Team Time
-> Trial format.
+> Mallory -1 is a slightly toned down combination workout kicking off with
+> 3x12-minute over-under intervals of increasing intensity to simulate a 4-man
+> paceline or Team Time Trial format.
 > 
-> The 45-second valleys start at 90% FTP and ascend to 105% FTP while the
-> 15-second peaks start at 105% FTP and increase to 125% FTP.
+> The 45-second valleys start at 85% FTP and ascend to 100% FTP while the
+> 15-second peaks start at 100% FTP and increase to 120% FTP.
 > 
 > Active recoveries between each interval are 5 minutes long and the recovery
 > following these 3 intervals is 7 minutes in duration.
@@ -372,14 +373,14 @@ Rest Day
 
 * **Name**: Mokelumne
 * **Duration**: 1 hour
-* **TSS**: 45.0
-* **NP**: 134
-* **IF**: 67%
+* **TSS**: 44.0
+* **NP**: 132
+* **IF**: 66%
 
 **Description**:
 
-> Mokelumne is 60 minutes of aerobic Endurance riding mostly spent at 65% FTP
-> and includes 2x20-second sprints.
+> Mokelumne is 1 hour of aerobic Endurance riding mostly spent at 65% FTP and
+> includes 2x20-second sprints.
 
 
 ### Friday 
@@ -502,11 +503,11 @@ Rest Day
 > out the same way you stepped in.
 > 
 > Brief, 30-second active recoveries fall between each push, and recoveries
-> between the 14-minute sets last 3 minutes.
+> between the 14-minute sets last 5minutes.
 > 
-> Part II of Broken Finger consists of breakaway simulations where you drill it
-> for 1-2 minutes at 110-125% FTP and then settle in for 2-3 minutes at 95-105%
-> FTP.
+> After another 5-minute recovery, part II of Broken Finger consists of
+> breakaway simulations where you drill it for 1-2 minutes at 110-125% FTP and
+> then settle in for 2-3 minutes at 95-105% FTP.
 > 
 > Active recoveries between these intervals are a quick 2 minutes each.
 
@@ -547,19 +548,19 @@ Rest Day
 
 * **Name**: Huxley
 * **Duration**: 1 hour
-* **TSS**: 87.0
-* **NP**: 186
-* **IF**: 93%
+* **TSS**: 84.0
+* **NP**: 184
+* **IF**: 92%
 
 **Description**:
 
 > Huxley is 3 sets of 3x3-minute Attack and Recover intervals that build on the
 > brutality of Abott.
 > 
-> The valleys range from 95-115% FTP for as long as 2.5 minutes while the surges
+> The valleys range from 95-108% FTP for as long as 2.5 minutes while the surges
 > force you to hold your watts between 135-180% FTP for 15-60 seconds.
 > 
-> Very short, 1-minute recoveries separate intervals while 4-minute recoveries
+> Very short, 1-minute recoveries separate intervals while 5-minute recoveries
 > separate the sets of intervals.
 
 
@@ -572,9 +573,9 @@ Rest Day
 
 * **Name**: Joe Devel
 * **Duration**: 1 hour
-* **TSS**: 70.0
-* **NP**: 168
-* **IF**: 84%
+* **TSS**: 68.0
+* **NP**: 164
+* **IF**: 82%
 
 **Description**:
 
@@ -586,7 +587,7 @@ Rest Day
 > 30-second On-segments at 130% FTP, set 3 consists of 45-second On-segments at
 > 120% FTP and set 4 consists of 18-second On-segments at 140% FTP.
 > 
-> All recoveries between sets are a little over 5 minutes long.
+> All recoveries between sets are a 7 minutes long.
 
 
 ### Friday 
@@ -648,19 +649,19 @@ Rest Day
 
 * **Name**: Huxley -4
 * **Duration**: 45 minutes
-* **TSS**: 64.0
-* **NP**: 186
-* **IF**: 93%
+* **TSS**: 62.0
+* **NP**: 182
+* **IF**: 91%
 
 **Description**:
 
 > Huxley -4 is 3 sets of 3x2-minute Attack & Recover intervals that build on the
 > brutality of Abott.
 > 
-> The valleys range from 95-115% FTP for as long as 2.5 minutes while the surges
+> The valleys range from 95-108% FTP for as long as 2.5 minutes while the surges
 > force you to hold your watts between 135-180% FTP for 15-60 seconds.
 > 
-> Very short, 1-minute recoveries separate intervals while 4-minute recoveries
+> Very short, 1-minute recoveries separate intervals while 5-minute recoveries
 > separate the sets of A&R's.
 
 
@@ -673,14 +674,14 @@ Rest Day
 
 * **Name**: Joe Devel -4
 * **Duration**: 45 minutes
-* **TSS**: 57.0
-* **NP**: 174
-* **IF**: 87%
+* **TSS**: 54.0
+* **NP**: 170
+* **IF**: 85%
 
 **Description**:
 
 > Joe Devel -4 scales things down a bit but still consists of 4 sets of
-> Anaerobic power repeats in various shapes & sizes, all consisting of
+> Anaerobic power repeats in various shapes and sizes, all consisting of
 > microbursts of different work durations but the same 15-second recovery
 > valleys.
 > 
@@ -688,7 +689,7 @@ Rest Day
 > 30-second On-segments at 130% FTP, set 3 consists of 45-second On-segments at
 > 120% FTP and set 4 consists of 18-second On-segments at 140% FTP.
 > 
-> All recoveries between sets are 3.5 minutes long.
+> All recoveries between sets are 5 minutes long.
 
 
 ### Friday 
@@ -755,17 +756,17 @@ Rest Day
 
 * **Name**: Huxley -5
 * **Duration**: 30 minutes
-* **TSS**: 47.0
-* **NP**: 194
-* **IF**: 97%
+* **TSS**: 45.0
+* **NP**: 190
+* **IF**: 95%
 
 **Description**:
 
 > The time-crunched version of Huxley is 2 sets of three varied-duration Attack
 > and Recover intervals.
 > 
-> Very short, 45-second recoveries separate intervals while a 3-minute recovery
-> separates the sets of A;R's.
+> Very short, 45-second recoveries separate intervals while a 5-minute recovery
+> separates the sets of A&R's.
 
 
 ### Wednesday 
@@ -777,9 +778,9 @@ Rest Day
 
 * **Name**: Joe Devel -5
 * **Duration**: 30 minutes
-* **TSS**: 40.0
-* **NP**: 178
-* **IF**: 89%
+* **TSS**: 38.0
+* **NP**: 174
+* **IF**: 87%
 
 **Description**:
 
@@ -795,7 +796,7 @@ Rest Day
 > 
 > Set 4 consists of 18-second On-segments at 140% FTP.
 > 
-> All recoveries between sets are a little over 2 minutes long.
+> All recoveries between sets are 3 minutes long.
 
 
 ### Friday 

@@ -90,8 +90,8 @@ Rest Day
 
 **Description**:
 
-> Fletcher consists of nearly 90 minutes of aerobic Endurance spent between
-> 60-75% FTP.
+> Fletcher consists of nearly 90 minutes of aerobic Endurance riding spent
+> between 60-75% FTP.
 > 
 > This workout's form drills include Form Sprints, Endurance Spinning, and
 > Pistons/Kick & Pull pedaling drills.
@@ -112,8 +112,8 @@ Rest Day
 
 **Description**:
 
-> Fletcher consists of nearly 90 minutes of aerobic Endurance spent between
-> 60-75% FTP.
+> Fletcher consists of nearly 90 minutes of aerobic Endurance riding spent
+> between 60-75% FTP.
 > 
 > This workout's form drills include Form Sprints, Endurance Spinning, and
 > Pistons/Kick & Pull pedaling drills.
@@ -129,8 +129,8 @@ Rest Day
 
 **Description**:
 
-> Fletcher consists of nearly 90 minutes of aerobic Endurance spent between
-> 60-75% FTP.
+> Fletcher consists of nearly 90 minutes of aerobic Endurance riding spent
+> between 60-75% FTP.
 > 
 > This workout's form drills include Form Sprints, Endurance Spinning, and
 > Pistons/Kick & Pull pedaling drills.
@@ -151,16 +151,16 @@ Rest Day
 
 * **Name**: Virginia
 * **Duration**: 1 hour and 45 minutes
-* **TSS**: 78.0
-* **NP**: 134
-* **IF**: 67%
+* **TSS**: 77.0
+* **NP**: 132
+* **IF**: 66%
 
 **Description**:
 
-> Virgina consists of an hour & 45 minutes of aerobic Endurance work spent
+> Virgina consists of 1 hour and 45 minutes of aerobic Endurance work spent
 > between 60-75% FTP.
 > 
-> The optional form drills include Form Sprints, Endurance Spinning intervals,
+> The optional form drills include form sprints, endurance-spinning intervals,
 > and Pistons/Kick & Pull pedaling drills.
 
 
@@ -173,16 +173,16 @@ Rest Day
 
 * **Name**: Virginia
 * **Duration**: 1 hour and 45 minutes
-* **TSS**: 78.0
-* **NP**: 134
-* **IF**: 67%
+* **TSS**: 77.0
+* **NP**: 132
+* **IF**: 66%
 
 **Description**:
 
-> Virgina consists of an hour & 45 minutes of aerobic Endurance work spent
+> Virgina consists of 1 hour and 45 minutes of aerobic Endurance work spent
 > between 60-75% FTP.
 > 
-> The optional form drills include Form Sprints, Endurance Spinning intervals,
+> The optional form drills include form sprints, endurance-spinning intervals,
 > and Pistons/Kick & Pull pedaling drills.
 
 
@@ -195,16 +195,16 @@ Rest Day
 
 * **Name**: Virginia
 * **Duration**: 1 hour and 45 minutes
-* **TSS**: 78.0
-* **NP**: 134
-* **IF**: 67%
+* **TSS**: 77.0
+* **NP**: 132
+* **IF**: 66%
 
 **Description**:
 
-> Virgina consists of an hour & 45 minutes of aerobic Endurance work spent
+> Virgina consists of 1 hour and 45 minutes of aerobic Endurance work spent
 > between 60-75% FTP.
 > 
-> The optional form drills include Form Sprints, Endurance Spinning intervals,
+> The optional form drills include form sprints, endurance-spinning intervals,
 > and Pistons/Kick & Pull pedaling drills.
 
 
@@ -212,16 +212,16 @@ Rest Day
 
 * **Name**: Virginia
 * **Duration**: 1 hour and 45 minutes
-* **TSS**: 78.0
-* **NP**: 134
-* **IF**: 67%
+* **TSS**: 77.0
+* **NP**: 132
+* **IF**: 66%
 
 **Description**:
 
-> Virgina consists of an hour & 45 minutes of aerobic Endurance work spent
+> Virgina consists of 1 hour and 45 minutes of aerobic Endurance work spent
 > between 60-75% FTP.
 > 
-> The optional form drills include Form Sprints, Endurance Spinning intervals,
+> The optional form drills include form sprints, endurance-spinning intervals,
 > and Pistons/Kick & Pull pedaling drills.
 
 ## Week 3
@@ -246,7 +246,8 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of 2 hours of aerobic Endurance spent between 60-70% FTP.
+> Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70%
+> FTP.
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
@@ -267,7 +268,8 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of 2 hours of aerobic Endurance spent between 60-70% FTP.
+> Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70%
+> FTP.
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
@@ -288,7 +290,8 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of 2 hours of aerobic Endurance spent between 60-70% FTP.
+> Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70%
+> FTP.
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
@@ -304,7 +307,8 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of 2 hours of aerobic Endurance spent between 60-70% FTP.
+> Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70%
+> FTP.
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
@@ -332,11 +336,9 @@ Rest Day
 
 **Description**:
 
-> Whorl consists of an hour & 15 minutes of aerobic Endurance work spent between
-> 60-75% FTP.
-> 
-> Optional form drills include Form Sprints, Endurance Spinning intervals, and
-> quadrant drills like Pistons and Kick & Pull drills.
+> Whorl consists of 75 minutes of aerobic Endurance work spent between 60-75%
+> FTP. Optional form drills include form sprints, endurance-spinning intervals,
+> and various pedalstroke drills.
 
 
 ### Wednesday 
@@ -354,11 +356,9 @@ Rest Day
 
 **Description**:
 
-> Whorl consists of an hour & 15 minutes of aerobic Endurance work spent between
-> 60-75% FTP.
-> 
-> Optional form drills include Form Sprints, Endurance Spinning intervals, and
-> quadrant drills like Pistons and Kick & Pull drills.
+> Whorl consists of 75 minutes of aerobic Endurance work spent between 60-75%
+> FTP. Optional form drills include form sprints, endurance-spinning intervals,
+> and various pedalstroke drills.
 
 
 ### Friday 
@@ -376,11 +376,9 @@ Rest Day
 
 **Description**:
 
-> Whorl consists of an hour & 15 minutes of aerobic Endurance work spent between
-> 60-75% FTP.
-> 
-> Optional form drills include Form Sprints, Endurance Spinning intervals, and
-> quadrant drills like Pistons and Kick & Pull drills.
+> Whorl consists of 75 minutes of aerobic Endurance work spent between 60-75%
+> FTP. Optional form drills include form sprints, endurance-spinning intervals,
+> and various pedalstroke drills.
 
 
 ### Sunday 
@@ -393,9 +391,7 @@ Rest Day
 
 **Description**:
 
-> Whorl consists of an hour & 15 minutes of aerobic Endurance work spent between
-> 60-75% FTP.
-> 
-> Optional form drills include Form Sprints, Endurance Spinning intervals, and
-> quadrant drills like Pistons and Kick & Pull drills.
+> Whorl consists of 75 minutes of aerobic Endurance work spent between 60-75%
+> FTP. Optional form drills include form sprints, endurance-spinning intervals,
+> and various pedalstroke drills.
 

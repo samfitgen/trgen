@@ -91,7 +91,7 @@ Rest Day
 
 * **Name**: Bays +1
 * **Duration**: 1 hour and 30 minutes
-* **TSS**: 85.0
+* **TSS**: 84.0
 * **NP**: 150
 * **IF**: 75%
 
@@ -125,9 +125,9 @@ Rest Day
 
 * **Name**: Collins
 * **Duration**: 1 hour and 15 minutes
-* **TSS**: 59.0
-* **NP**: 138
-* **IF**: 69%
+* **TSS**: 58.0
+* **NP**: 136
+* **IF**: 68%
 
 **Description**:
 
@@ -163,7 +163,7 @@ Rest Day
 **Description**:
 
 > Tallac +3 is 5x15-minute efforts spent in the Sweet Spot, 88-94% FTP, with
-> 6-minute recoveries between intervals.
+> 7-minute recoveries between intervals.
 
 ## Week 2
 
@@ -216,41 +216,11 @@ Rest Day
 
 **Description**:
 
-> Pettit is an hour of Aerobic Endurance spent mostly between 60-70% FTP and
-> includes Form Sprints, Endurance Spinning intervals, and Pistons/Kick and Pull
-> pedaling drills.
+> Pettit +1 is an hour of aerobic Endurance work spent mostly between 60-70% FTP
+> and includes a couple late-ride sprints. It also includes some optional form
+> sprints, endurance spinning intervals, and various pedaling drills.
 > 
-> Form Sprints: Practice high-rpm sprint simulations at low power outputs to
-> reinforce proper sprinting technique by jumping out-of-the-saddle and winding
-> up a light gear. As your cadence reaches its controllable peak, gracefully
-> transition into the saddle where you can shift gears if necessary. These
-> sprints are only 10s long and are all about leg speed, form, and technique.
-> Experiment with which foot to lead with, and learn how to generate a lot of
-> leg speed in very little time.
-> 
-> Endurance Spinning: Practice spinning slightly quicker than your natural,
-> self-selected cadence. Ride at a cadence that's at the very top of your
-> comfortable rpm range and remain there for a solid 5 minutes. The goal is to
-> learn to turn the pedals more quickly with less force (muscle stress) thereby
-> improving your ability to remain predominantly aerobic over a wide range of
-> rpm's. If your HR rises more than a few BPM, you're pedaling too quickly -
-> take it easy and stay relaxed but quick.
-> 
-> Pistons: Few if any riders need to practice pushing down on the pedals, but
-> improvements in how well your knees move are both beneficial to economy and
-> joint health. As you pedal, pay close attention to how your knees track. They
-> should move directly up, directly down - like pistons - with little if any
-> lateral movement, especially at the top of each pedalstroke. Focus on one knee
-> for 30s before switching sides.
-> 
-> Kick and Pull: A balanced pedalstroke is dependent upon consistent tension on
-> your bike's drivetrain throughout the entire pedalstroke. Reinforce your
-> ability to maintain tension through the weakest portions of the pedalstroke,
-> the top and bottom quadrants. As your knee approaches top-dead-center, lightly
-> kick your toes into the fronts of your shoes, and as your feet approach
-> bottom-dead-center, lightly pull your heels into the backs of your shoes -
-> kick and pull. Focus on just the kick for 30s, just the pull for 30s, then
-> eventually both for 30s simultaneously.
+>   
 > 
 > Modifications: 2 late-ride sprints
 
@@ -357,16 +327,17 @@ Rest Day
 
 ### Tuesday 
 
-* **Name**: Thimble +4
+* **Name**: Thimble +5
 * **Duration**: 2 hours
-* **TSS**: 145.0
+* **TSS**: 143.0
 * **NP**: 170
 * **IF**: 85%
 
 **Description**:
 
-> Thimble +4 is 3 sets of 7x60-second repeats at 127% FTP with 40-second
-> recoveries between each. The main set is followed by 45 minutes at 65% FTP.
+> Thimble +5 is 3 sets of 7x60-second repeats at 127% FTP with 40-second
+> recoveries between each. The main set is followed by 45 minutes of Endurance
+> work at 65% FTP.
 > 
 > Each set is separated by 8 minutes of recovery.
 
@@ -375,21 +346,21 @@ Rest Day
 
 * **Name**: Mokelumne
 * **Duration**: 1 hour
-* **TSS**: 45.0
-* **NP**: 134
-* **IF**: 67%
+* **TSS**: 44.0
+* **NP**: 132
+* **IF**: 66%
 
 **Description**:
 
-> Mokelumne is 60 minutes of aerobic Endurance riding mostly spent at 65% FTP
-> and includes 2x20-second sprints.
+> Mokelumne is 1 hour of aerobic Endurance riding mostly spent at 65% FTP and
+> includes 2x20-second sprints.
 
 
 ### Thursday 
 
 * **Name**: Hawk's Bill +5
 * **Duration**: 2 hours
-* **TSS**: 139.0
+* **TSS**: 137.0
 * **NP**: 166
 * **IF**: 83%
 
@@ -399,8 +370,8 @@ Rest Day
 > and consisting of 7x20 seconds at 125% FTP with intermediate "floats" for 15
 > seconds at 88% FTP.
 > 
-> 4.5 minutes of recovery separate each set and the VO2max intervals are
-> followed with 30 minutes at 65% FTP.
+> 6 minutes of recovery separate each set and the VO2max intervals are followed
+> with 20 minutes at 65% FTP.
 
 
 ### Friday 
@@ -478,8 +449,8 @@ Rest Day
 
 > Brasstown is 90 minutes of aerobic Endurance riding spent between 65-75% FTP.
 > 
-> Optional form drills include Form Sprints, Endurance Spinning, Quadrant Drills
-> & Single-Leg Focus drills.
+> Optional form drills include Form Sprints, Endurance Spinning, Quadrant
+> Drills, and Single-Leg Focus drills.
 
 
 ### Wednesday 
@@ -492,41 +463,11 @@ Rest Day
 
 **Description**:
 
-> Pettit is an hour of Aerobic Endurance spent mostly between 60-70% FTP and
-> includes Form Sprints, Endurance Spinning intervals, and Pistons/Kick and Pull
-> pedaling drills.
+> Pettit +1 is an hour of aerobic Endurance work spent mostly between 60-70% FTP
+> and includes a couple late-ride sprints. It also includes some optional form
+> sprints, endurance spinning intervals, and various pedaling drills.
 > 
-> Form Sprints: Practice high-rpm sprint simulations at low power outputs to
-> reinforce proper sprinting technique by jumping out-of-the-saddle and winding
-> up a light gear. As your cadence reaches its controllable peak, gracefully
-> transition into the saddle where you can shift gears if necessary. These
-> sprints are only 10s long and are all about leg speed, form, and technique.
-> Experiment with which foot to lead with, and learn how to generate a lot of
-> leg speed in very little time.
-> 
-> Endurance Spinning: Practice spinning slightly quicker than your natural,
-> self-selected cadence. Ride at a cadence that's at the very top of your
-> comfortable rpm range and remain there for a solid 5 minutes. The goal is to
-> learn to turn the pedals more quickly with less force (muscle stress) thereby
-> improving your ability to remain predominantly aerobic over a wide range of
-> rpm's. If your HR rises more than a few BPM, you're pedaling too quickly -
-> take it easy and stay relaxed but quick.
-> 
-> Pistons: Few if any riders need to practice pushing down on the pedals, but
-> improvements in how well your knees move are both beneficial to economy and
-> joint health. As you pedal, pay close attention to how your knees track. They
-> should move directly up, directly down - like pistons - with little if any
-> lateral movement, especially at the top of each pedalstroke. Focus on one knee
-> for 30s before switching sides.
-> 
-> Kick and Pull: A balanced pedalstroke is dependent upon consistent tension on
-> your bike's drivetrain throughout the entire pedalstroke. Reinforce your
-> ability to maintain tension through the weakest portions of the pedalstroke,
-> the top and bottom quadrants. As your knee approaches top-dead-center, lightly
-> kick your toes into the fronts of your shoes, and as your feet approach
-> bottom-dead-center, lightly pull your heels into the backs of your shoes -
-> kick and pull. Focus on just the kick for 30s, just the pull for 30s, then
-> eventually both for 30s simultaneously.
+>   
 > 
 > Modifications: 2 late-ride sprints
 
@@ -573,55 +514,11 @@ Rest Day
 
 **Description**:
 
-> Hatch is nearly 2 hours of Aerobic Endurance spent between 60-70% FTP.
+> Hatch is nearly 2 hours of aerobic Endurance riding spent between 60-70% FTP
+> and includes an early trio of Power Sprints.
 > 
-> Hatch also includes an early set of 3 Power Sprints.
-> 
-> Hatch's form drills include Endurance Spinning intervals and some Single-Leg
-> Focus drills.
-> 
-> Power Sprints: These are the culmination of Form Sprints and Strength Sprints
-> and teach you to overcome heavy resistance quickly.
-> 
-> At a reasonable cadence, 85-95rpm, jump out-of-the-saddle and wind up a
-> reasonably big gear (not as big as the gear used during Strength Sprints).
-> 
-> These sprints are only 10s long and should allow you to get in a maximum of 24
-> pedal revolutions and reach a high rpm, 130rpm or higher.
-> 
-> Practice winding up a lot of watts in the briefest time possible while
-> maintaining the form and technique you picked up during previous Form Sprints.
-> 
-> Experiment with which foot to lead with, and don't hesitate to practice
-> leading with either.
-> 
-> Endurance Spinning: Practice spinning slightly quicker than your natural,
-> self-selected cadence.
-> 
-> Ride at a cadence that's at the very top of your comfortable rpm range and
-> remain there for a solid 5 minutes.
-> 
-> The goal is to learn to turn the pedals more quickly with less force (muscle
-> stress) thereby improving your ability to remain predominantly aerobic over a
-> wide range of rpm's.
-> 
-> If your HR rises more than a few bpm, you're pedaling too quickly - take it
-> easy and stay relaxed but quick.
-> 
-> Single-Leg Focus: The objective here is to learn to more effectively apply
-> power through the entire pedalstroke by focusing strictly on one leg's
-> activity through the bottom, upstroke, and over the top of the pedalstroke.
-> 
-> For 90 seconds at a time, devote your attention to one leg before switching to
-> the other. Your cadence may fall slightly, but these drills typically come
-> more naturally to less experienced "one-leggers".
-> 
-> Pay particular attention to lightly pulling your foot across the bottom,
-> lifting your knee lightly upward and then softly kicking over the top of each
-> pedalstroke.
-> 
-> Add this drill indoors or outdoors as often as you like, more frequently if
-> you recognize a substantial difference in one leg's strength or coordination.
+> Hatch's ooptional form drills include Endurance Spinning intervals and some
+> Single-Leg Focus drills.
 
 ## Week 5
 
@@ -700,7 +597,8 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of 2 hours of aerobic Endurance spent between 60-70% FTP.
+> Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70%
+> FTP.
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
@@ -737,8 +635,8 @@ Rest Day
 
 > Brasstown is 90 minutes of aerobic Endurance riding spent between 65-75% FTP.
 > 
-> Optional form drills include Form Sprints, Endurance Spinning, Quadrant Drills
-> & Single-Leg Focus drills.
+> Optional form drills include Form Sprints, Endurance Spinning, Quadrant
+> Drills, and Single-Leg Focus drills.
 
 
 ### Saturday 
@@ -759,29 +657,29 @@ Rest Day
 > out the same way you stepped in.
 > 
 > Brief, 30-second active recoveries fall between each push, and recoveries
-> between each set of intervals last 3 minutes.
+> between each set of intervals last 5 minutes.
 > 
 > Part 2 of Broken Finger consists of breakaway simulations where you drill it
 > for 1-2 minutes at 110-125% FTP and then settle in for 2-3 minutes at 95-105%
 > FTP.
 > 
-> Active recoveries between these intervals are a quick 2 minutes each.
+> Active recoveries between these intervals are 4 minutes each.
 > 
-> Finally, 25 minutes of Endurance riding is tacked on following the rough
-> stuff.
+> Finally, 15 minutes of Endurance riding at 65% FTP is tacked on following the
+> rough stuff.
 
 
 ### Sunday 
 
 * **Name**: Juneau -1
 * **Duration**: 2 hours
-* **TSS**: 130.0
-* **NP**: 162
-* **IF**: 81%
+* **TSS**: 129.0
+* **NP**: 160
+* **IF**: 80%
 
 **Description**:
 
-> Juneau -1 is 4x18-minute intervals at 88-92% FTP with brief, 1-minute
+> Juneau -1 is 4x18-minute intervals at 88-92% FTP with brief, 2-minute
 > intermediate recoveries during each long interval.
 > 
 > 7-minute recoveries fall between intervals.
@@ -816,16 +714,18 @@ Rest Day
 
 * **Name**: English +4
 * **Duration**: 2 hours
-* **TSS**: 146.0
-* **NP**: 170
-* **IF**: 85%
+* **TSS**: 132.0
+* **NP**: 162
+* **IF**: 81%
 
 **Description**:
 
-> English +4 is 3 sets of 7x70-second repeats at 124% FTP with short, 40-second
-> recoveries between each. The main set is followed by 40 minutes at 60% FTP.
+> English +4 is 3 sets of 7x70-second repeats at 120% FTP with short, 40-second
+> recoveries between most efforts and a single 2-minute recovery valley near the
+> middle of each set.
 > 
-> Each set is separated by 8 minutes of recovery.
+> The main set is followed by 35 minutes at 60% FTP and each set is separated by
+> 10 minutes of recovery.
 
 
 ### Wednesday 
@@ -883,7 +783,7 @@ Rest Day
 
 * **Name**: Mallory +1
 * **Duration**: 2 hours
-* **TSS**: 143.0
+* **TSS**: 140.0
 * **NP**: 168
 * **IF**: 84%
 
@@ -896,12 +796,13 @@ Rest Day
 > The 45-second valleys start at 85% FTP and ascend to 105% FTP while the
 > 15-second peaks start at 100% FTP and increase to 120% FTP.
 > 
-> Active recoveries between each interval are 7 minutes long, then there's 11
+> Active recoveries between each interval are 10 minutes long, then there's 10
 > minutes of recovery between the two types of sets.
 > 
 > Part 2 of this workout consists of 2 sets of 3x2-minute VO2max intervals at
-> 110-120% FTP with 2-minute active recoveries between each. 7 minutes of active
-> recovery fall between the VO2max sets.
+> 110-120% FTP with 3-minute active recoveries between each.
+> 
+> 7 minutes of active recovery fall between the VO2max sets.
 
 
 ### Sunday 
@@ -949,16 +850,18 @@ Rest Day
 
 * **Name**: English +5
 * **Duration**: 2 hours
-* **TSS**: 146.0
-* **NP**: 170
-* **IF**: 85%
+* **TSS**: 141.0
+* **NP**: 168
+* **IF**: 84%
 
 **Description**:
 
 > English +5 is 3 sets of 7x80-second repeats at 120% FTP with short, 40-second
-> recoveries between each. The main set is followed by 40 minutes at 60% FTP.
+> recoveries between most efforts and a single 2-minute recovery valley near the
+> middle of each set.
 > 
-> Each set is separated by 8 minutes of recovery.
+> The main set is followed by 30 minutes at 60% FTP, and each set is separated
+> by 10 minutes of recovery.
 
 
 ### Wednesday 
@@ -1016,9 +919,9 @@ Rest Day
 
 * **Name**: Corcoran +1
 * **Duration**: 2 hours
-* **TSS**: 155.0
-* **NP**: 176
-* **IF**: 88%
+* **TSS**: 153.0
+* **NP**: 174
+* **IF**: 87%
 
 **Description**:
 
@@ -1033,10 +936,11 @@ Rest Day
 > Part deux consists of 3 sets of 3x3-minute attack-and-recover format intervals
 > with efforts ranging from 2 minutes at 90% FTP to 15 seconds at 180% FTP.
 > 
-> Recoveries within the sets are 1 minute long and between sets you'll recover
-> for 8 minutes.
+> Recoveries within the sets are 1-2 minutes long and between sets you'll
+> recover between 6-8 minutes.
 > 
-> Finally, the workout closes with 20 minutes of steady Endurance riding.
+> Finally, the workout closes with 10 minutes of steady Endurance riding at 65%
+> FTP.
 
 
 ### Sunday 
@@ -1090,14 +994,14 @@ Rest Day
 
 * **Name**: Mokelumne
 * **Duration**: 1 hour
-* **TSS**: 45.0
-* **NP**: 134
-* **IF**: 67%
+* **TSS**: 44.0
+* **NP**: 132
+* **IF**: 66%
 
 **Description**:
 
-> Mokelumne is 60 minutes of aerobic Endurance riding mostly spent at 65% FTP
-> and includes 2x20-second sprints.
+> Mokelumne is 1 hour of aerobic Endurance riding mostly spent at 65% FTP and
+> includes 2x20-second sprints.
 
 
 ### Thursday 
@@ -1112,8 +1016,8 @@ Rest Day
 
 > Brasstown is 90 minutes of aerobic Endurance riding spent between 65-75% FTP.
 > 
-> Optional form drills include Form Sprints, Endurance Spinning, Quadrant Drills
-> & Single-Leg Focus drills.
+> Optional form drills include Form Sprints, Endurance Spinning, Quadrant
+> Drills, and Single-Leg Focus drills.
 
 
 ### Friday 
@@ -1131,38 +1035,10 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of nearly 2hrs of Aerobic Endurance spent between 60-70% FTP
-> and includes Form Sprints, Endurance Spinning intervals, and some Single-Leg
-> Focus drills.
-> 
-> Form Sprints: Practice high-rpm sprint simulations at low power outputs to
-> reinforce proper sprinting technique by jumping out-of-the-saddle and winding
-> up a light gear. As your cadence reaches its controllable peak, gracefully
-> transition into the saddle where you can shift gears if necessary. These
-> sprints are only 10s long and are all about leg speed, form, and technique.
-> Experiment with which foot to lead with, and learn how to generate a lot of
-> leg speed in very little time.
-> 
-> Endurance Spinning: Practice spinning slightly quicker than your natural,
-> self-selected cadence. Ride at a cadence that's at the very top of your
-> comfortable rpm range and remain there for a solid 5 minutes. The goal is to
-> learn to turn the pedals more quickly with less force (muscle stress) thereby
-> improving your ability to remain predominantly aerobic over a wide range of
-> rpm's. If your HR rises more than a few BPM, you're pedaling too quickly -
-> take it easy and stay relaxed but quick.
-> 
-> Single-Leg Focus: The objective here is to learn to more effectively apply
-> power through the entire pedalstroke by focusing strictly on one leg's
-> activity through the bottom, upstroke, and over the top of the pedalstroke.
-> For 90 seconds at a time, devote your attention to one leg before switching to
-> the other. Your cadence may fall slightly, but these drills typically come
-> more naturally to less experienced "one-leggers". Pay particular attention to
-> lightly pulling your foot across the bottom, lifting your knee lightly upward
-> and then softly kicking over the top of each pedalstroke. Add this drill
-> indoors or outdoors as often as you like, more frequently if you recognize a
-> substantial difference in one leg's strength or coordination.
-> 
-> Modifications: 4 late-ride sprints
+> Gibbs consists of nearly 2 hours of aerobic Endurance riding spent between
+> 60-70% FTP and includes 4 late-ride sprints. Additionally, optional drills are
+> offered and include Form Sprints, Endurance Spinning intervals, and some
+> Single-Leg Focus drills.
 
 
 ### Sunday 

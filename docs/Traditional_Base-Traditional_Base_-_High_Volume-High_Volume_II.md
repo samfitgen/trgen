@@ -84,7 +84,8 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of 2 hours of aerobic Endurance spent between 60-70% FTP.
+> Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70%
+> FTP.
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
@@ -140,7 +141,7 @@ Rest Day
 > 60-70% FTP.
 > 
 > Some of the optional form drills are Form Sprints, Endurance Spinning
-> intervals & some Isolated Leg Training drills.
+> intervals, and some Isolated Leg Training drills.
 
 ## Week 2
 
@@ -161,15 +162,16 @@ Rest Day
 
 * **Name**: Moosilaukee
 * **Duration**: 1 hour
-* **TSS**: 73.0
-* **NP**: 170
-* **IF**: 85%
+* **TSS**: 67.0
+* **NP**: 164
+* **IF**: 82%
 
 **Description**:
 
-> 60 minutes of mostly Tempo and Sweet Spot work spent between 80-90% FTP with
-> the addition of 3x2-minute Force Intervals with 2 minute's rest between them
-> and 3x10-second Strength Sprints followed by 6 minutes of Tempo work.
+> Moosilaukee is 60 minutes of mostly Tempo and Sweet Spot work spent between
+> 80-90% FTP with the addition of 3x2-minute Force Intervals with 2 minute's
+> rest between them and 3x10-second Strength Sprints followed by 6 minutes of
+> Tempo work.
 
 
 ### Wednesday 
@@ -182,12 +184,9 @@ Rest Day
 
 **Description**:
 
-> Warren consists of nearly 2.25 hours of aerobic Endurance riding spent between
-> 60-70% FTP.
-> 
-> Optional form drills include Form Sprints,
-> 
-> Endurance Spinning & Individual Leg Training (ILT).
+> Warren consists of about 2 hours 15 minutes of aerobic Endurance riding spent
+> between 60-70% FTP and includes optional form drills like form sprints,
+> endurance-spinning, and Individual Leg Training (ILT).
 
 
 ### Thursday 
@@ -236,11 +235,11 @@ Rest Day
 
 **Description**:
 
-> Tenaya consists of nearly 3.25 hours of aerobic Endurance riding spent between
-> 60-75% FTP.
+> Tenaya consists of about 3 hours 15 minutes of aerobic Endurance riding spent
+> between 60-75% FTP.
 > 
-> Some of the optional form drills are Form Sprints, Endurance Spinning
-> intervals & some Isolated Leg Training drills.
+> Some of the optional form drills are form sprints, endurance-spinning
+> intervals, and some Isolated Leg Training (ILT) drills.
 
 ## Week 3
 
@@ -259,9 +258,9 @@ Rest Day
 
 * **Name**: Chocura
 * **Duration**: 1 hour
-* **TSS**: 73.0
-* **NP**: 170
-* **IF**: 85%
+* **TSS**: 68.0
+* **NP**: 164
+* **IF**: 82%
 
 **Description**:
 
@@ -274,61 +273,31 @@ Rest Day
 
 * **Name**: Koip
 * **Duration**: 2 hours and 30 minutes
-* **TSS**: 106.0
+* **TSS**: 105.0
 * **NP**: 130
 * **IF**: 65%
 
 **Description**:
 
 > Koip consists of nearly 2.5 hours of aerobic Endurance riding spent between
-> 60-70% FTP.
-> 
-> Optional form drills include Form Sprints, Endurance Spinning and Single-Leg
-> Focus (SLF).
+> 60-70% FTP and includes form drills like form sprints, endurance spinning, and
+> single-leg focus (SLF) drills.
 
 
 ### Thursday 
 
 * **Name**: Grandfather
 * **Duration**: 2 hours and 30 minutes
-* **TSS**: 134.0
+* **TSS**: 133.0
 * **NP**: 146
 * **IF**: 73%
 
 **Description**:
 
-> 2.5 hours of Tempo intervals spent between 70-80% FTP with brief,
-> intermittent, 1 to 3-minute recoveries at 55% FTP. This workout also includes
-> 3x10s Strength Sprints, 5-minutes between each as well as some Endurance
-> Spinning intervals and some Single-Leg Focus drills.
-> 
-> Strength Sprints: Practice turning a big gear as forcefully as possible in
-> order to recruit as many muscle fibers as you can. From a near stop and in the
-> biggest gear you can gracefully turn over without exceeding 90rpm in 12
-> pedalstrokes, stand and hold onto your handlebar drops while driving each foot
-> down as hard as you can. Maintain excellent form and if you reach 90rpm inside
-> of 12 pedalstrokes, choose a larger gear next time. **Note: When using a load-
-> restricted trainer like a CompuTrainer or KICKR, consider switching to Slope
-> Mode for your Strength Sprints.
-> 
-> Endurance Spinning: Practice spinning slightly quicker than your natural,
-> self-selected cadence. Ride at a cadence that's at the very top of your
-> comfortable rpm range and remain there for a solid 5 minutes. The goal is to
-> learn to turn the pedals more quickly with less force (muscle stress) thereby
-> improving your ability to remain predominantly aerobic over a wide range of
-> rpm's. If your HR rises more than a few BPM, you're pedaling too quickly -
-> take it easy and stay relaxed but quick.
-> 
-> Single-Leg Focus: The objective here is to learn to more effectively apply
-> power through the entire pedalstroke by focusing strictly on one leg's
-> activity through the bottom, upstroke, and over the top of the pedalstroke.
-> For 90 seconds at a time, devote your attention to one leg before switching to
-> the other. Your cadence may fall slightly, but these drills typically come
-> more naturally to less experienced "one-leggers". Pay particular attention to
-> lightly pulling your foot across the bottom, lifting your knee lightly upward
-> and then softly kicking over the top of each pedalstroke. Add this drill
-> indoors or outdoors as often as you like, more frequently if you recognize a
-> substantial difference in one leg's strength or coordination.
+> Grandfather is 2.5 hours of Tempo intervals spent between 70-80% FTP with
+> brief, intermittent, 1 to 3-minute recoveries at 55% FTP. This workout also
+> includes 3x10-second Strength Sprints, some Endurance Spinning intervals, and
+> some Single-Leg Focus drills.
 
 
 ### Friday 
@@ -364,7 +333,7 @@ Rest Day
 > 60-75% FTP.
 > 
 > Some of the optional form drills are Form Sprints, Endurance Spinning
-> intervals & some Isolated Leg Training drills.
+> intervals, and some Isolated Leg Training drills.
 
 ## Week 4
 
@@ -384,9 +353,9 @@ Rest Day
 
 * **Name**: Carrigain
 * **Duration**: 1 hour
-* **TSS**: 67.0
-* **NP**: 164
-* **IF**: 82%
+* **TSS**: 61.0
+* **NP**: 156
+* **IF**: 78%
 
 **Description**:
 
@@ -405,7 +374,8 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of 2 hours of aerobic Endurance spent between 60-70% FTP.
+> Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70%
+> FTP.
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
@@ -421,7 +391,8 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of 2 hours of aerobic Endurance spent between 60-70% FTP.
+> Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70%
+> FTP.
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
@@ -442,7 +413,8 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of 2 hours of aerobic Endurance spent between 60-70% FTP.
+> Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70%
+> FTP.
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.

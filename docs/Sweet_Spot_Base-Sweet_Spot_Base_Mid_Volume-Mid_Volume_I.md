@@ -17,7 +17,11 @@
 
 > This first week is dedicated to assessing your current fitness, familiarizing
 > you with the Sweet Spot intensity level, and opening your eyes to the magical
-> world of over-unders.
+> world of over-unders.  
+> 
+> When Sunday rolls around and you find yourself feeling like riding long & easy
+> in place of more Sweet Spot work, give Gibbs a shot or try Hatch if you'd like
+> to include a small handful of short sprints.
 
 ### Monday 
 
@@ -142,7 +146,9 @@ Rest Day
 > your ability to work at near-FTP power outputs for extended durations.
 > 
 > Your weekend cements the over-under/Sweet Spot interval combination, one
-> you'll face every weekend for the entirety of this month of training.
+> you'll face every weekend for the entirety of this month of training. And if
+> you'd rather keep things lower in intensity but longer in duration come
+> Sunday, swap Boarstone for your end-of-weekend scheduled workout.
 
 ### Monday 
 
@@ -239,6 +245,10 @@ Rest Day
 > Then, the weekend's over-unders workout strives to lift your FTP before
 > shifting emphasis the next day toward spending greater total time in the Sweet
 > Spot with the option of doing it in a more aerodynamic position.
+> 
+> Once again, if you'd rather go easier but longer on Sunday, Boarstone is a
+> good choice or take a look at Warren +1 if you'd like to include a trio of
+> sprints early in your workout.
 
 ### Monday 
 
@@ -335,6 +345,9 @@ Rest Day
 > way, you'll see more Sweet Spot intervals meaning a greater emphasis on muscle
 > endurance. Outside of that, you'll find your usual midweek aerobic-endurance
 > spin as well as your brutal but effective Saturday standby, over-unders.
+> 
+> A couple of possible options for a longer, slower Sunday ride are Koip or
+> Conness.
 
 ### Monday 
 
@@ -382,7 +395,7 @@ Rest Day
 **Description**:
 
 > Antelope -4 is 4x10-minute Sweet Spot intervals ranging between 88-94% FTP
-> with 5-minute recoveries between intervals.
+> with 6-minute recoveries between intervals.
 
 
 ### Friday 
@@ -402,7 +415,7 @@ Rest Day
 
 > Palisade is 5x9-minute intervals alternating slightly above or slightly below
 > FTP. Each interval is a combination of 1-minute efforts at 95% FTP followed
-> immediatly by 2-minute efforts at 105% FTP.
+> immediately by 2-minute efforts at 105% FTP.
 > 
 > 6 minutes of recovery fall between intervals.
 
@@ -411,13 +424,13 @@ Rest Day
 
 * **Name**: Eclipse
 * **Duration**: 1 hour and 30 minutes
-* **TSS**: 105.0
-* **NP**: 168
-* **IF**: 84%
+* **TSS**: 104.0
+* **NP**: 166
+* **IF**: 83%
 
 **Description**:
 
-> Eclipse is comprised of 3x20-minute Sweet Spot efforts (88-94% FTP) with 5
+> Eclipse is comprised of 3x20 minute Sweet Spot efforts (88-94% FTP) with 7
 > minutes of recovery between intervals.
 
 ## Week 5
@@ -430,7 +443,9 @@ Rest Day
 > Spot intervals yet come Sunday.
 > 
 > Sounds rough right? It will be. But hang in there because you're verging on an
-> entire week bent on shedding all the fatigue this week promises.
+> entire week bent on shedding all the fatigue this week promises. And if you
+> feel like dialing down the intensity in lieu of more time in the saddle on
+> Sunday, give Koip or Conness another look.
 
 ### Monday 
 
@@ -480,7 +495,7 @@ Rest Day
 **Description**:
 
 > Geiger +1 is 4x12-minute efforts spent in the Sweet Spot, 88-94% FTP, with
-> brief, 3-minute recoveries between efforts.
+> 4-minute recoveries between efforts.
 
 
 ### Friday 
@@ -606,8 +621,8 @@ Rest Day
 
 **Description**:
 
-> Fletcher consists of nearly 90 minutes of aerobic Endurance spent between
-> 60-75% FTP.
+> Fletcher consists of nearly 90 minutes of aerobic Endurance riding spent
+> between 60-75% FTP.
 > 
 > This workout's form drills include Form Sprints, Endurance Spinning, and
 > Pistons/Kick & Pull pedaling drills.

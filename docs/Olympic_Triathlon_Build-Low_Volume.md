@@ -50,8 +50,8 @@ Rest Day
 
 **Description**:
 
-> 250m Easy Warm-Up (RPE4) 6x25m CU Drills w/ 10s rest 5x100m Easy-Moderate
-> (RPE6) w/ 5s rest 6x75m Hard (RPE9) w/ 45s rest 6x25m K Drills w/ 15s rest
+> 250m Easy Warm-Up (RPE4) 6x25m CU drills w/ 10s rest 5x100m Easy-Moderate
+> (RPE6) w/ 5s rest 6x75m Hard (RPE9) w/ 45s rest 6x25m K drills w/ 15s rest
 > 250m Easy Cool-Down (RPE4)
 
 
@@ -111,7 +111,7 @@ Rest Day
 
 **Description**:
 
-> 250m Easy Warm-Up (RPE4) 6x25m F&Tdrills; w/ 10s rest 4x200m Moderate-Hard
+> 250m Easy Warm-Up (RPE4) 6x25m F&T; drills w/ 10s rest 4x200m Moderate-Hard
 > (RPE8) w/ 45s rest 6x25m SK drills w/ 15s rest 250m Easy Cool-Down (RPE4)
 
 
@@ -187,7 +187,7 @@ Rest Day
 
 **Description**:
 
-> 250m Easy Warm-Up (RPE4) 6x25m FS Drills w/ 10s rest 4x100m Easy-Moderate
+> 250m Easy Warm-Up (RPE4) 6x25m FS drills w/ 10s rest 4x100m Easy-Moderate
 > (RPE6) w/ 5s rest 5x75m Hard (RPE9) w/ 45s rest 250m Easy Cool-Down (RPE4)
 
 
@@ -215,7 +215,7 @@ Rest Day
 
 **Description**:
 
-> 10-15min Easy-Moderate Warm-Up (RPE6) 14x30second efforts Hard (RPE9)
+> 10-15min Easy-Moderate Warm-Up (RPE6) 14x30-second efforts Hard (RPE9)
 > recovering for only 30 seconds after each 10min Easy Cool-Down (RPE4)
 
 
@@ -235,9 +235,9 @@ Rest Day
 #### Workout 1
 * **Name**: Pioneer +2
 * **Duration**: 1 hour
-* **TSS**: 78.0
-* **NP**: 178
-* **IF**: 89%
+* **TSS**: 76.0
+* **NP**: 174
+* **IF**: 87%
 
 **Description**:
 
@@ -318,7 +318,7 @@ Rest Day
 
 **Description**:
 
-> 250m Easy Warm-Up (RPE4) 6x25m SA Drills w/ 10s rest 5x100m Easy-Moderate
+> 250m Easy Warm-Up (RPE4) 6x25m SA drills w/ 10s rest 5x100m Easy-Moderate
 > (RPE6) w/ 5s rest 7x75m Hard (RPE9) w/ 45s rest 6x25m K drills w/ 15s rest
 > 250m Easy Cool-Down (RPE4)
 
@@ -327,9 +327,9 @@ Rest Day
 
 * **Name**: Shortoff +1
 * **Duration**: 1 hour
-* **TSS**: 81.0
-* **NP**: 180
-* **IF**: 90%
+* **TSS**: 83.0
+* **NP**: 182
+* **IF**: 91%
 
 **Description**:
 
@@ -434,7 +434,7 @@ Rest Day
 
 **Description**:
 
-> 250m Easy Warm-Up (RPE4) 6x25m HCU Drills w/ 10s rest 5x100m Easy-Moderate
+> 250m Easy Warm-Up (RPE4) 6x25m HCU drills w/ 10s rest 5x100m Easy-Moderate
 > (RPE6) w/ 5s rest 7x75m Hard (RPE9) w/ 30s rest 6x25m K&R; drills w/ 15s rest
 > 250m Easy Cool-Down (RPE4)
 
@@ -464,8 +464,8 @@ Rest Day
 
 **Description**:
 
-> 10-15min up to Easy-Moderate Warm-Up (RPE6) 10x1min Hard (RPE9) recovering for
-> only a minute after each 10min Easy Cool-Down (RPE4)
+> 10-15min up to Easy-Moderate Warm-Up (RPE6) 10x1-minute Hard (RPE9) recovering
+> for only a minute after each 10min Easy Cool-Down (RPE4)
 
 
 ### Friday 
@@ -484,9 +484,9 @@ Rest Day
 #### Workout 1
 * **Name**: Phoenix +2
 * **Duration**: 1 hour and 30 minutes
-* **TSS**: 122.0
-* **NP**: 180
-* **IF**: 90%
+* **TSS**: 119.0
+* **NP**: 178
+* **IF**: 89%
 
 **Description**:
 
@@ -566,7 +566,7 @@ Rest Day
 
 **Description**:
 
-> 250m Easy Warm-Up (RPE4) 6x25m BB Drills w/ 10s rest 5x100m Easy-Moderate
+> 250m Easy Warm-Up (RPE4) 6x25m BB drills w/ 10s rest 5x100m Easy-Moderate
 > (RPE6) w/ 5s rest 7x75m Hard (RPE9) w/ 20s rest 6x25m K&R; drills w/ 15s rest
 > 250m Easy Cool-Down (RPE4)
 
@@ -595,7 +595,7 @@ Rest Day
 
 **Description**:
 
-> 10-15min Easy-Moderate Warm-Up(RPE6) 12x1min Hard (RPE9) recovering for a
+> 10-15min Easy-Moderate Warm-Up (RPE6) 12x1-minute Hard (RPE9) recovering for a
 > minute after each 10min Easy Cool-Down (RPE4)
 
 
@@ -683,7 +683,7 @@ Rest Day
 
 **Description**:
 
-> 250m Easy Warm-Up (RPE4) 6x25m SC Drills w/ 10s rest 4x100m Easy-Moderate
+> 250m Easy Warm-Up (RPE4) 6x25m SC drills w/ 10s rest 4x100m Easy-Moderate
 > (RPE6) w/ 5s rest 5x75m Hard (RPE9) w/ 45s rest 6x25m SK drills w/ 15s rest
 > 250m Easy Cool-Down (RPE4)
 
@@ -746,9 +746,9 @@ Rest Day
 #### Workout 1
 * **Name**: Phoenix +2
 * **Duration**: 1 hour and 30 minutes
-* **TSS**: 122.0
-* **NP**: 180
-* **IF**: 90%
+* **TSS**: 119.0
+* **NP**: 178
+* **IF**: 89%
 
 **Description**:
 

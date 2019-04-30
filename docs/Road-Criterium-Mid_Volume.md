@@ -88,9 +88,9 @@ Rest Day
 
 * **Name**: Collins
 * **Duration**: 1 hour and 15 minutes
-* **TSS**: 59.0
-* **NP**: 138
-* **IF**: 69%
+* **TSS**: 58.0
+* **NP**: 136
+* **IF**: 68%
 
 **Description**:
 
@@ -186,7 +186,7 @@ Rest Day
 
 * **Name**: Wynne +1
 * **Duration**: 1 hour and 15 minutes
-* **TSS**: 104.0
+* **TSS**: 103.0
 * **NP**: 182
 * **IF**: 91%
 
@@ -422,11 +422,9 @@ Rest Day
 
 **Description**:
 
-> Whorl consists of an hour & 15 minutes of aerobic Endurance work spent between
-> 60-75% FTP.
-> 
-> Optional form drills include Form Sprints, Endurance Spinning intervals, and
-> quadrant drills like Pistons and Kick & Pull drills.
+> Whorl consists of 75 minutes of aerobic Endurance work spent between 60-75%
+> FTP. Optional form drills include form sprints, endurance-spinning intervals,
+> and various pedalstroke drills.
 
 
 ### Wednesday 
@@ -447,8 +445,8 @@ Rest Day
 * **Name**: Collins +1
 * **Duration**: 1 hour and 15 minutes
 * **TSS**: 64.0
-* **NP**: 144
-* **IF**: 72%
+* **NP**: 142
+* **IF**: 71%
 
 **Description**:
 
@@ -471,8 +469,8 @@ Rest Day
 
 **Description**:
 
-> Fletcher consists of nearly 90 minutes of aerobic Endurance spent between
-> 60-75% FTP.
+> Fletcher consists of nearly 90 minutes of aerobic Endurance riding spent
+> between 60-75% FTP.
 > 
 > This workout's form drills include Form Sprints, Endurance Spinning, and
 > Pistons/Kick & Pull pedaling drills.
@@ -557,7 +555,7 @@ Rest Day
 
 ### Thursday 
 
-* **Name**: San Joaquin +4
+* **Name**: San Joaquin +5
 * **Duration**: 1 hour and 15 minutes
 * **TSS**: 108.0
 * **NP**: 186
@@ -565,7 +563,7 @@ Rest Day
 
 **Description**:
 
-> San Joaquin +4 is 4x7 sets of 50/50's where you'll spend 50 seconds at 130%
+> San Joaquin +5 is 4x7 sets of 50/50's where you'll spend 50 seconds at 130%
 > FTP with 50 seconds of active recovery between each interval.
 > 
 > 5 minutes of recovery fall between each set of intervals.
@@ -608,7 +606,7 @@ Rest Day
 **Description**:
 
 > Geiger +2 is 5x12-minute efforts spent in the Sweet Spot, 88-94% FTP, with
-> brief, 3-minute recoveries between efforts.
+> short, 4-minute recoveries between efforts.
 
 ## Week 6
 
@@ -681,7 +679,7 @@ Rest Day
 
 ### Thursday 
 
-* **Name**: San Joaquin +5
+* **Name**: San Joaquin +6
 * **Duration**: 1 hour and 15 minutes
 * **TSS**: 109.0
 * **NP**: 186
@@ -689,7 +687,7 @@ Rest Day
 
 **Description**:
 
-> San Joaquin +5 is 4x7 sets of 50/40's where you'll spend 50 seconds at 130%
+> San Joaquin +6 is 4x7 sets of 50/40's where you'll spend 50 seconds at 130%
 > FTP with 40 seconds of active recovery between each interval.
 > 
 > 5 minutes of recovery fall between each set of intervals.
@@ -733,7 +731,7 @@ Rest Day
 **Description**:
 
 > Tallac +2 is 4x15-minute efforts spent in the Sweet Spot, 88-94% FTP, with
-> 5-minute recoveries between intervals.
+> 6-minute recoveries between intervals.
 
 ## Week 7
 
@@ -756,19 +754,19 @@ Rest Day
 
 * **Name**: Huxley
 * **Duration**: 1 hour
-* **TSS**: 87.0
-* **NP**: 186
-* **IF**: 93%
+* **TSS**: 84.0
+* **NP**: 184
+* **IF**: 92%
 
 **Description**:
 
 > Huxley is 3 sets of 3x3-minute Attack and Recover intervals that build on the
 > brutality of Abott.
 > 
-> The valleys range from 95-115% FTP for as long as 2.5 minutes while the surges
+> The valleys range from 95-108% FTP for as long as 2.5 minutes while the surges
 > force you to hold your watts between 135-180% FTP for 15-60 seconds.
 > 
-> Very short, 1-minute recoveries separate intervals while 4-minute recoveries
+> Very short, 1-minute recoveries separate intervals while 5-minute recoveries
 > separate the sets of intervals.
 
 
@@ -784,12 +782,6 @@ Rest Day
 
 > West Vidette is 45 minutes of aerobic Endurance riding ranging from 50-80%
 > FTP.
-> 
-> Keep your watts more toward the middle of this wide wattage range as riding
-> toward the top of the range will turn this into a more intense, and probably
-> shorter, Tempo effort.
-> 
-> Remain seated as often as possible.
 
 
 ### Thursday 
@@ -877,19 +869,19 @@ Rest Day
 
 * **Name**: Huxley -4
 * **Duration**: 45 minutes
-* **TSS**: 64.0
-* **NP**: 186
-* **IF**: 93%
+* **TSS**: 62.0
+* **NP**: 182
+* **IF**: 91%
 
 **Description**:
 
 > Huxley -4 is 3 sets of 3x2-minute Attack & Recover intervals that build on the
 > brutality of Abott.
 > 
-> The valleys range from 95-115% FTP for as long as 2.5 minutes while the surges
+> The valleys range from 95-108% FTP for as long as 2.5 minutes while the surges
 > force you to hold your watts between 135-180% FTP for 15-60 seconds.
 > 
-> Very short, 1-minute recoveries separate intervals while 4-minute recoveries
+> Very short, 1-minute recoveries separate intervals while 5-minute recoveries
 > separate the sets of A&R's.
 
 

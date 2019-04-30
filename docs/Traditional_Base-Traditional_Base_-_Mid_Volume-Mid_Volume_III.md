@@ -86,55 +86,11 @@ Rest Day
 
 **Description**:
 
-> Hatch is nearly 2 hours of Aerobic Endurance spent between 60-70% FTP.
+> Hatch is nearly 2 hours of aerobic Endurance riding spent between 60-70% FTP
+> and includes an early trio of Power Sprints.
 > 
-> Hatch also includes an early set of 3 Power Sprints.
-> 
-> Hatch's form drills include Endurance Spinning intervals and some Single-Leg
-> Focus drills.
-> 
-> Power Sprints: These are the culmination of Form Sprints and Strength Sprints
-> and teach you to overcome heavy resistance quickly.
-> 
-> At a reasonable cadence, 85-95rpm, jump out-of-the-saddle and wind up a
-> reasonably big gear (not as big as the gear used during Strength Sprints).
-> 
-> These sprints are only 10s long and should allow you to get in a maximum of 24
-> pedal revolutions and reach a high rpm, 130rpm or higher.
-> 
-> Practice winding up a lot of watts in the briefest time possible while
-> maintaining the form and technique you picked up during previous Form Sprints.
-> 
-> Experiment with which foot to lead with, and don't hesitate to practice
-> leading with either.
-> 
-> Endurance Spinning: Practice spinning slightly quicker than your natural,
-> self-selected cadence.
-> 
-> Ride at a cadence that's at the very top of your comfortable rpm range and
-> remain there for a solid 5 minutes.
-> 
-> The goal is to learn to turn the pedals more quickly with less force (muscle
-> stress) thereby improving your ability to remain predominantly aerobic over a
-> wide range of rpm's.
-> 
-> If your HR rises more than a few bpm, you're pedaling too quickly - take it
-> easy and stay relaxed but quick.
-> 
-> Single-Leg Focus: The objective here is to learn to more effectively apply
-> power through the entire pedalstroke by focusing strictly on one leg's
-> activity through the bottom, upstroke, and over the top of the pedalstroke.
-> 
-> For 90 seconds at a time, devote your attention to one leg before switching to
-> the other. Your cadence may fall slightly, but these drills typically come
-> more naturally to less experienced "one-leggers".
-> 
-> Pay particular attention to lightly pulling your foot across the bottom,
-> lifting your knee lightly upward and then softly kicking over the top of each
-> pedalstroke.
-> 
-> Add this drill indoors or outdoors as often as you like, more frequently if
-> you recognize a substantial difference in one leg's strength or coordination.
+> Hatch's ooptional form drills include Endurance Spinning intervals and some
+> Single-Leg Focus drills.
 
 
 ### Thursday 
@@ -262,55 +218,11 @@ Rest Day
 
 **Description**:
 
-> Hatch is nearly 2 hours of Aerobic Endurance spent between 60-70% FTP.
+> Hatch is nearly 2 hours of aerobic Endurance riding spent between 60-70% FTP
+> and includes an early trio of Power Sprints.
 > 
-> Hatch also includes an early set of 3 Power Sprints.
-> 
-> Hatch's form drills include Endurance Spinning intervals and some Single-Leg
-> Focus drills.
-> 
-> Power Sprints: These are the culmination of Form Sprints and Strength Sprints
-> and teach you to overcome heavy resistance quickly.
-> 
-> At a reasonable cadence, 85-95rpm, jump out-of-the-saddle and wind up a
-> reasonably big gear (not as big as the gear used during Strength Sprints).
-> 
-> These sprints are only 10s long and should allow you to get in a maximum of 24
-> pedal revolutions and reach a high rpm, 130rpm or higher.
-> 
-> Practice winding up a lot of watts in the briefest time possible while
-> maintaining the form and technique you picked up during previous Form Sprints.
-> 
-> Experiment with which foot to lead with, and don't hesitate to practice
-> leading with either.
-> 
-> Endurance Spinning: Practice spinning slightly quicker than your natural,
-> self-selected cadence.
-> 
-> Ride at a cadence that's at the very top of your comfortable rpm range and
-> remain there for a solid 5 minutes.
-> 
-> The goal is to learn to turn the pedals more quickly with less force (muscle
-> stress) thereby improving your ability to remain predominantly aerobic over a
-> wide range of rpm's.
-> 
-> If your HR rises more than a few bpm, you're pedaling too quickly - take it
-> easy and stay relaxed but quick.
-> 
-> Single-Leg Focus: The objective here is to learn to more effectively apply
-> power through the entire pedalstroke by focusing strictly on one leg's
-> activity through the bottom, upstroke, and over the top of the pedalstroke.
-> 
-> For 90 seconds at a time, devote your attention to one leg before switching to
-> the other. Your cadence may fall slightly, but these drills typically come
-> more naturally to less experienced "one-leggers".
-> 
-> Pay particular attention to lightly pulling your foot across the bottom,
-> lifting your knee lightly upward and then softly kicking over the top of each
-> pedalstroke.
-> 
-> Add this drill indoors or outdoors as often as you like, more frequently if
-> you recognize a substantial difference in one leg's strength or coordination.
+> Hatch's ooptional form drills include Endurance Spinning intervals and some
+> Single-Leg Focus drills.
 
 
 ### Thursday 
@@ -435,55 +347,11 @@ Rest Day
 
 **Description**:
 
-> Hatch is nearly 2 hours of Aerobic Endurance spent between 60-70% FTP.
+> Hatch is nearly 2 hours of aerobic Endurance riding spent between 60-70% FTP
+> and includes an early trio of Power Sprints.
 > 
-> Hatch also includes an early set of 3 Power Sprints.
-> 
-> Hatch's form drills include Endurance Spinning intervals and some Single-Leg
-> Focus drills.
-> 
-> Power Sprints: These are the culmination of Form Sprints and Strength Sprints
-> and teach you to overcome heavy resistance quickly.
-> 
-> At a reasonable cadence, 85-95rpm, jump out-of-the-saddle and wind up a
-> reasonably big gear (not as big as the gear used during Strength Sprints).
-> 
-> These sprints are only 10s long and should allow you to get in a maximum of 24
-> pedal revolutions and reach a high rpm, 130rpm or higher.
-> 
-> Practice winding up a lot of watts in the briefest time possible while
-> maintaining the form and technique you picked up during previous Form Sprints.
-> 
-> Experiment with which foot to lead with, and don't hesitate to practice
-> leading with either.
-> 
-> Endurance Spinning: Practice spinning slightly quicker than your natural,
-> self-selected cadence.
-> 
-> Ride at a cadence that's at the very top of your comfortable rpm range and
-> remain there for a solid 5 minutes.
-> 
-> The goal is to learn to turn the pedals more quickly with less force (muscle
-> stress) thereby improving your ability to remain predominantly aerobic over a
-> wide range of rpm's.
-> 
-> If your HR rises more than a few bpm, you're pedaling too quickly - take it
-> easy and stay relaxed but quick.
-> 
-> Single-Leg Focus: The objective here is to learn to more effectively apply
-> power through the entire pedalstroke by focusing strictly on one leg's
-> activity through the bottom, upstroke, and over the top of the pedalstroke.
-> 
-> For 90 seconds at a time, devote your attention to one leg before switching to
-> the other. Your cadence may fall slightly, but these drills typically come
-> more naturally to less experienced "one-leggers".
-> 
-> Pay particular attention to lightly pulling your foot across the bottom,
-> lifting your knee lightly upward and then softly kicking over the top of each
-> pedalstroke.
-> 
-> Add this drill indoors or outdoors as often as you like, more frequently if
-> you recognize a substantial difference in one leg's strength or coordination.
+> Hatch's ooptional form drills include Endurance Spinning intervals and some
+> Single-Leg Focus drills.
 
 
 ### Thursday 
@@ -527,7 +395,7 @@ Rest Day
 
 * **Name**: Mount Alice
 * **Duration**: 3 hours and 30 minutes
-* **TSS**: 164.0
+* **TSS**: 163.0
 * **NP**: 136
 * **IF**: 68%
 
@@ -591,13 +459,13 @@ Rest Day
 
 * **Name**: Washington +2
 * **Duration**: 1 hour and 15 minutes
-* **TSS**: 99.0
-* **NP**: 178
-* **IF**: 89%
+* **TSS**: 98.0
+* **NP**: 176
+* **IF**: 88%
 
 **Description**:
 
-> Washington +2 is 5x7-minute intervals at 105% FTP with 5-minute recoveries
+> Washington +2 is 5x7-minute intervals at 105% FTP with 6-minute recoveries
 > between intervals.
 
 
@@ -664,15 +532,15 @@ Rest Day
 
 * **Name**: Virginia
 * **Duration**: 1 hour and 45 minutes
-* **TSS**: 78.0
-* **NP**: 134
-* **IF**: 67%
+* **TSS**: 77.0
+* **NP**: 132
+* **IF**: 66%
 
 **Description**:
 
-> Virgina consists of an hour & 45 minutes of aerobic Endurance work spent
+> Virgina consists of 1 hour and 45 minutes of aerobic Endurance work spent
 > between 60-75% FTP.
 > 
-> The optional form drills include Form Sprints, Endurance Spinning intervals,
+> The optional form drills include form sprints, endurance-spinning intervals,
 > and Pistons/Kick & Pull pedaling drills.
 

@@ -90,8 +90,8 @@ Rest Day
 
 **Description**:
 
-> Fletcher consists of nearly 90 minutes of aerobic Endurance spent between
-> 60-75% FTP.
+> Fletcher consists of nearly 90 minutes of aerobic Endurance riding spent
+> between 60-75% FTP.
 > 
 > This workout's form drills include Form Sprints, Endurance Spinning, and
 > Pistons/Kick & Pull pedaling drills.
@@ -243,7 +243,7 @@ Rest Day
 
 **Description**:
 
-> Spruce Knob is 2x30-minute intervals at 85% FTP with a 6-minute recovey
+> Spruce Knob is 2x30-minute intervals at 85% FTP with a 6-minute recovery
 > between each.
 
 ## Week 3
@@ -275,17 +275,17 @@ Rest Day
 
 * **Name**: Bashful +6
 * **Duration**: 1 hour and 30 minutes
-* **TSS**: 118.0
-* **NP**: 178
-* **IF**: 89%
+* **TSS**: 113.0
+* **NP**: 174
+* **IF**: 87%
 
 **Description**:
 
-> Bashful +6 is 3 sets of 5x90-second intervals at 125% FTP followed by 30
-> minutes at 65% FTP.
+> Bashful +6 is 3 sets of 5x90-second intervals at 122% FTP followed by 25
+> minutes of Endurance work at 65% FTP.
 > 
 > Recoveries between intervals are 1 minute long and recoveries between sets of
-> intervals are 5 minutes long.
+> intervals are 8 minutes long.
 
 
 ### Wednesday 
@@ -378,7 +378,7 @@ Rest Day
 
 **Description**:
 
-> Townsend consists simply of 90 minutes of aerobic Endurance spent between
+> Townsend consists of 90 minutes of aerobic Endurance riding spent between
 > 60-70% FTP.
 
 
@@ -397,11 +397,9 @@ Rest Day
 
 **Description**:
 
-> Whorl consists of an hour & 15 minutes of aerobic Endurance work spent between
-> 60-75% FTP.
-> 
-> Optional form drills include Form Sprints, Endurance Spinning intervals, and
-> quadrant drills like Pistons and Kick & Pull drills.
+> Whorl consists of 75 minutes of aerobic Endurance work spent between 60-75%
+> FTP. Optional form drills include form sprints, endurance-spinning intervals,
+> and various pedalstroke drills.
 
 
 ### Friday 
@@ -434,8 +432,8 @@ Rest Day
 
 > Brasstown is 90 minutes of aerobic Endurance riding spent between 65-75% FTP.
 > 
-> Optional form drills include Form Sprints, Endurance Spinning, Quadrant Drills
-> & Single-Leg Focus drills.
+> Optional form drills include Form Sprints, Endurance Spinning, Quadrant
+> Drills, and Single-Leg Focus drills.
 
 ## Week 5
 
@@ -516,8 +514,8 @@ Rest Day
 
 **Description**:
 
-> Fletcher consists of nearly 90 minutes of aerobic Endurance spent between
-> 60-75% FTP.
+> Fletcher consists of nearly 90 minutes of aerobic Endurance riding spent
+> between 60-75% FTP.
 > 
 > This workout's form drills include Form Sprints, Endurance Spinning, and
 > Pistons/Kick & Pull pedaling drills.
@@ -554,7 +552,7 @@ Rest Day
 
 > Palisade is 5x9-minute intervals alternating slightly above or slightly below
 > FTP. Each interval is a combination of 1-minute efforts at 95% FTP followed
-> immediatly by 2-minute efforts at 105% FTP.
+> immediately by 2-minute efforts at 105% FTP.
 > 
 > 6 minutes of recovery fall between intervals.
 
@@ -563,13 +561,13 @@ Rest Day
 
 * **Name**: Juneau -1
 * **Duration**: 2 hours
-* **TSS**: 130.0
-* **NP**: 162
-* **IF**: 81%
+* **TSS**: 129.0
+* **NP**: 160
+* **IF**: 80%
 
 **Description**:
 
-> Juneau -1 is 4x18-minute intervals at 88-92% FTP with brief, 1-minute
+> Juneau -1 is 4x18-minute intervals at 88-92% FTP with brief, 2-minute
 > intermediate recoveries during each long interval.
 > 
 > 7-minute recoveries fall between intervals.
@@ -602,16 +600,16 @@ Rest Day
 
 * **Name**: Monadnock +4
 * **Duration**: 1 hour and 30 minutes
-* **TSS**: 110.0
-* **NP**: 170
-* **IF**: 85%
+* **TSS**: 111.0
+* **NP**: 172
+* **IF**: 86%
 
 **Description**:
 
 > Monadnock +4 consists of 2 sets of 3x3-minute VO2max intervals at 122% FTP
-> followed by 30 minutes at 65% FTP.
+> followed by 30 minutes of Endurance riding at 65% FTP.
 > 
-> Recoveries between intervals are 3 minutes long and they're 6 minutes long
+> Recoveries between intervals are 5 minutes long and they're 8 minutes long
 > between sets.
 
 
@@ -709,16 +707,16 @@ Rest Day
 
 * **Name**: Shortoff +4
 * **Duration**: 1 hour and 30 minutes
-* **TSS**: 120.0
-* **NP**: 178
-* **IF**: 89%
+* **TSS**: 121.0
+* **NP**: 180
+* **IF**: 90%
 
 **Description**:
 
 > Shortoff +4 consists of 3 sets of 3x3-minute VO2max intervals at 120% FTP.
 > 
-> Recoveries between intervals are 3 minutes long and the recoveries between
-> sets are 10 minutes each.
+> Recoveries between intervals are 4 minutes long and the recoveries between
+> sets are 8 minutes each.
 
 
 ### Wednesday 
@@ -813,7 +811,7 @@ Rest Day
 
 **Description**:
 
-> Townsend consists simply of 90 minutes of aerobic Endurance spent between
+> Townsend consists of 90 minutes of aerobic Endurance riding spent between
 > 60-70% FTP.
 
 
@@ -834,8 +832,8 @@ Rest Day
 
 > Brasstown is 90 minutes of aerobic Endurance riding spent between 65-75% FTP.
 > 
-> Optional form drills include Form Sprints, Endurance Spinning, Quadrant Drills
-> & Single-Leg Focus drills.
+> Optional form drills include Form Sprints, Endurance Spinning, Quadrant
+> Drills, and Single-Leg Focus drills.
 
 
 ### Friday 
@@ -853,8 +851,8 @@ Rest Day
 
 **Description**:
 
-> Fletcher consists of nearly 90 minutes of aerobic Endurance spent between
-> 60-75% FTP.
+> Fletcher consists of nearly 90 minutes of aerobic Endurance riding spent
+> between 60-75% FTP.
 > 
 > This workout's form drills include Form Sprints, Endurance Spinning, and
 > Pistons/Kick & Pull pedaling drills.

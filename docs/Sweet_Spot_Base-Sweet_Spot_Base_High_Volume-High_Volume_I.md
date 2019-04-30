@@ -119,13 +119,13 @@ Rest Day
 
 * **Name**: Hunter
 * **Duration**: 2 hours
-* **TSS**: 123.0
-* **NP**: 158
-* **IF**: 79%
+* **TSS**: 121.0
+* **NP**: 156
+* **IF**: 78%
 
 **Description**:
 
-> Hunter consists of 3x20-minute intervals at 88-92% FTP with 10-minute
+> Hunter consists of 3x20-minute intervals at 88-92% FTP with 15-minute
 > recoveries between intervals.
 
 
@@ -172,7 +172,7 @@ Rest Day
 
 **Description**:
 
-> Antelope +2 is 5x10-minute Sweet Spot intervals at 94% FTP with 5-minute
+> Antelope +2 is 5x10-minute Sweet Spot intervals at 94% FTP with 6-minute
 > recoveries between intervals.
 > 
 > Riders have the option to spend incrementally longer periods of time in an
@@ -207,7 +207,7 @@ Rest Day
 **Description**:
 
 > Geiger +2 is 5x12-minute efforts spent in the Sweet Spot, 88-94% FTP, with
-> brief, 3-minute recoveries between efforts.
+> short, 4-minute recoveries between efforts.
 
 
 ### Friday 
@@ -246,16 +246,16 @@ Rest Day
 
 * **Name**: Hunter -2
 * **Duration**: 2 hours
-* **TSS**: 117.0
-* **NP**: 154
-* **IF**: 77%
+* **TSS**: 116.0
+* **NP**: 152
+* **IF**: 76%
 
 **Description**:
 
 > Hunter -2 is made up of 3x20-minute intervals at 88% FTP sprinkled with brief,
 > 30-second recovery valleys throughlout each interval.
 > 
-> 8-minute recoveries fall between intervals.
+> 12-minute recoveries fall between intervals.
 
 ## Week 3
 
@@ -286,7 +286,7 @@ Rest Day
 **Description**:
 
 > Geiger +2 is 5x12-minute efforts spent in the Sweet Spot, 88-94% FTP, with
-> brief, 3-minute recoveries between efforts.
+> short, 4-minute recoveries between efforts.
 
 
 ### Wednesday 
@@ -305,7 +305,7 @@ Rest Day
 
 ### Thursday 
 
-* **Name**: Carillon +1
+* **Name**: Carillon +2
 * **Duration**: 1 hour and 30 minutes
 * **TSS**: 102.0
 * **NP**: 164
@@ -313,13 +313,13 @@ Rest Day
 
 **Description**:
 
-> Carillon +1 consists of 3 sets of 2x10-minute Criss-Cross intervals ranging
+> Carillon +2 consists of 3 sets of 2x10-minute Criss-Cross intervals ranging
 > between 88-90% FTP during the 2-minute valleys & 92-95% FTP during the
 > 30-second surges as each interval weaves back & forth across the Sweet Spot
 > power range.
 > 
 > 1 minute of recovery separates the intervals & 5 minutes of recovery separate
-> the 2 sets.
+> each set.
 
 
 ### Friday 
@@ -342,13 +342,13 @@ Rest Day
 
 * **Name**: Juneau -1
 * **Duration**: 2 hours
-* **TSS**: 130.0
-* **NP**: 162
-* **IF**: 81%
+* **TSS**: 129.0
+* **NP**: 160
+* **IF**: 80%
 
 **Description**:
 
-> Juneau -1 is 4x18-minute intervals at 88-92% FTP with brief, 1-minute
+> Juneau -1 is 4x18-minute intervals at 88-92% FTP with brief, 2-minute
 > intermediate recoveries during each long interval.
 > 
 > 7-minute recoveries fall between intervals.
@@ -365,7 +365,7 @@ Rest Day
 **Description**:
 
 > Tallac +3 is 5x15-minute efforts spent in the Sweet Spot, 88-94% FTP, with
-> 6-minute recoveries between intervals.
+> 7-minute recoveries between intervals.
 
 ## Week 4
 
@@ -388,13 +388,13 @@ Rest Day
 
 * **Name**: Eclipse
 * **Duration**: 1 hour and 30 minutes
-* **TSS**: 105.0
-* **NP**: 168
-* **IF**: 84%
+* **TSS**: 104.0
+* **NP**: 166
+* **IF**: 83%
 
 **Description**:
 
-> Eclipse is comprised of 3x20-minute Sweet Spot efforts (88-94% FTP) with 5
+> Eclipse is comprised of 3x20 minute Sweet Spot efforts (88-94% FTP) with 7
 > minutes of recovery between intervals.
 
 
@@ -419,13 +419,13 @@ Rest Day
 
 * **Name**: Eclipse
 * **Duration**: 1 hour and 30 minutes
-* **TSS**: 105.0
-* **NP**: 168
-* **IF**: 84%
+* **TSS**: 104.0
+* **NP**: 166
+* **IF**: 83%
 
 **Description**:
 
-> Eclipse is comprised of 3x20-minute Sweet Spot efforts (88-94% FTP) with 5
+> Eclipse is comprised of 3x20 minute Sweet Spot efforts (88-94% FTP) with 7
 > minutes of recovery between intervals.
 
 
@@ -456,20 +456,20 @@ Rest Day
 **Description**:
 
 > Tallac +3 is 5x15-minute efforts spent in the Sweet Spot, 88-94% FTP, with
-> 6-minute recoveries between intervals.
+> 7-minute recoveries between intervals.
 
 
 ### Sunday 
 
 * **Name**: Juneau -1
 * **Duration**: 2 hours
-* **TSS**: 130.0
-* **NP**: 162
-* **IF**: 81%
+* **TSS**: 129.0
+* **NP**: 160
+* **IF**: 80%
 
 **Description**:
 
-> Juneau -1 is 4x18-minute intervals at 88-92% FTP with brief, 1-minute
+> Juneau -1 is 4x18-minute intervals at 88-92% FTP with brief, 2-minute
 > intermediate recoveries during each long interval.
 > 
 > 7-minute recoveries fall between intervals.
@@ -601,8 +601,8 @@ Rest Day
 
 **Description**:
 
-> Fletcher consists of nearly 90 minutes of aerobic Endurance spent between
-> 60-75% FTP.
+> Fletcher consists of nearly 90 minutes of aerobic Endurance riding spent
+> between 60-75% FTP.
 > 
 > This workout's form drills include Form Sprints, Endurance Spinning, and
 > Pistons/Kick & Pull pedaling drills.
@@ -636,8 +636,8 @@ Rest Day
 
 > Brasstown is 90 minutes of aerobic Endurance riding spent between 65-75% FTP.
 > 
-> Optional form drills include Form Sprints, Endurance Spinning, Quadrant Drills
-> & Single-Leg Focus drills.
+> Optional form drills include Form Sprints, Endurance Spinning, Quadrant
+> Drills, and Single-Leg Focus drills.
 
 
 ### Friday 

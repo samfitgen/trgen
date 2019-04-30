@@ -342,14 +342,14 @@ Rest Day
 
 * **Name**: Mokelumne
 * **Duration**: 1 hour
-* **TSS**: 45.0
-* **NP**: 134
-* **IF**: 67%
+* **TSS**: 44.0
+* **NP**: 132
+* **IF**: 66%
 
 **Description**:
 
-> Mokelumne is 60 minutes of aerobic Endurance riding mostly spent at 65% FTP
-> and includes 2x20-second sprints.
+> Mokelumne is 1 hour of aerobic Endurance riding mostly spent at 65% FTP and
+> includes 2x20-second sprints.
 
 
 ### Friday 
@@ -587,19 +587,19 @@ Rest Day
 
 * **Name**: Huxley -4
 * **Duration**: 45 minutes
-* **TSS**: 64.0
-* **NP**: 186
-* **IF**: 93%
+* **TSS**: 62.0
+* **NP**: 182
+* **IF**: 91%
 
 **Description**:
 
 > Huxley -4 is 3 sets of 3x2-minute Attack & Recover intervals that build on the
 > brutality of Abott.
 > 
-> The valleys range from 95-115% FTP for as long as 2.5 minutes while the surges
+> The valleys range from 95-108% FTP for as long as 2.5 minutes while the surges
 > force you to hold your watts between 135-180% FTP for 15-60 seconds.
 > 
-> Very short, 1-minute recoveries separate intervals while 4-minute recoveries
+> Very short, 1-minute recoveries separate intervals while 5-minute recoveries
 > separate the sets of A&R's.
 
 
@@ -612,23 +612,19 @@ Rest Day
 
 * **Name**: Basin -4
 * **Duration**: 45 minutes
-* **TSS**: 65.0
-* **NP**: 186
-* **IF**: 93%
+* **TSS**: 62.0
+* **NP**: 182
+* **IF**: 91%
 
 **Description**:
 
-> Basin -4 is 4x6-minute sets of out-of-the-saddle ramps into briefly sustained
-> segments, all ending in an anaerobic surge out of the saddle.
+> Basin -4 is 4x5-minute sets of optional out-of-the-saddle ramps into briefly
+> sustained segments, all ending in an all-out surge out of the saddle.
 > 
-> The format is 1 minute at 85% FTP plus a 1-minute ramp to 95% FTP. Then, 1
-> minute at 95% FTP is followed by a 30-second ramp to 105% FTP where you'll
-> stay for 1 minute before surging to 130% FTP over the next 30 seconds.
+> The format consists of a set of short plateaus and steady rises in power
+> beginning at 85% FTP and ascending all the way to 150% FTP.
 > 
-> The final kick includes 30 seconds at 130% FTP and a 30-second ramp to 150%
-> FTP.
-> 
-> Each recovery valley between intervals is 3 minutes long.
+> Each recovery valley between intervals is 4 minutes long.
 
 
 ### Friday 
@@ -694,24 +690,20 @@ Rest Day
 
 * **Name**: Basin -5
 * **Duration**: 30 minutes
-* **TSS**: 45.0
-* **NP**: 190
-* **IF**: 95%
+* **TSS**: 42.0
+* **NP**: 184
+* **IF**: 92%
 
 **Description**:
 
-> Basin -5 is the time-crunched version of Basin consisting of just 3x5-minute
-> (ish) sets of out-of-the-saddle ramps into briefly sustained segments, all
-> ending in an anaerobic surge out of the saddle.
+> Basin -5 is the time-crunched version of Basin consisting of just 3x4-minute
+> sets of out-of-the-saddle ramps into briefly sustained segments, all ending in
+> an all-out surge out of the saddle.
 > 
-> The format is 45 seconds at 85% FTP plus a 45-second ramp to 95% FTP. Then, 1
-> minute at 95% FTP is followed by a 30-second ramp to 105% FTP where you'll
-> stay for 45 seconds before surging to 130% FTP over the next 30 seconds.
+> The format consists of a set of short plateaus and steady rises in power
+> beginning at 85% FTP and ascending all the way to 150% FTP.
 > 
-> The final kick includes 30 seconds at 130% FTP and a 30-second ramp to 150%
-> FTP.
-> 
-> The recovery valleys between intervals are 2.5 minutes long.
+> Each recovery valley between intervals is 4 minutes long.
 
 
 ### Wednesday 
@@ -723,17 +715,17 @@ Rest Day
 
 * **Name**: Huxley -5
 * **Duration**: 30 minutes
-* **TSS**: 47.0
-* **NP**: 194
-* **IF**: 97%
+* **TSS**: 45.0
+* **NP**: 190
+* **IF**: 95%
 
 **Description**:
 
 > The time-crunched version of Huxley is 2 sets of three varied-duration Attack
 > and Recover intervals.
 > 
-> Very short, 45-second recoveries separate intervals while a 3-minute recovery
-> separates the sets of A;R's.
+> Very short, 45-second recoveries separate intervals while a 5-minute recovery
+> separates the sets of A&R's.
 
 
 ### Friday 

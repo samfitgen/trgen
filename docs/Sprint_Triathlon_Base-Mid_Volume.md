@@ -107,17 +107,6 @@ Rest Day
 ### Wednesday 
 
 #### Workout 1
-* **Name**: Base Intervals
-
-
-**Description**:
-
-> Warm-Up 300m Easy (RPE4) 8x25m CU Drills w/ 10s rest between drills 4x100m
-> Easy-Moderate w/ 5s rest between intervals (RPE6) 8x25m All-Out-Sprints w/ 20s
-> rest between sprints (RPE10) 6x25m K Drills w/ 15s rest between drills Cool-
-> Down 300m easy (RPE4)
-
-#### Workout 2
 * **Name**: Base Run 
 * **Duration**: 1 day and 11 hours
 
@@ -126,6 +115,17 @@ Rest Day
 
 > 35min Easy-Moderate (RPE6) Randomly insert 6x30s high-speed bursts over the
 > course of the run with at least 1-minute of recovery between bursts (RPE9)
+
+#### Workout 2
+* **Name**: Base Intervals
+
+
+**Description**:
+
+> Warm-Up 300m Easy (RPE4) 8x25m CU drills w/ 10s rest between drills 4x100m
+> Easy-Moderate w/ 5s rest between intervals (RPE6) 8x25m All-Out-Sprints w/ 20s
+> rest between sprints (RPE10) 6x25m K drills w/ 15s rest between drills Cool-
+> Down 300m Easy (RPE4)
 
 
 ### Thursday 
@@ -156,10 +156,10 @@ Rest Day
 
 **Description**:
 
-> 300m Easy Warm-Up (RPE 4) 8x25m FS Drills w/ 10s rest between drills 5x150m of
-> 50m Easy (RPE 4) 25m Hard w/ 15s rest between intervals (RPE 8) 4x25m All-Out-
-> Sprints w/ 20s rest between sprints (RPE 10) 6x25m SK Drills w/ 15s rest
-> between drills 300m Easy Cool-Down (RPE 4)
+> 300m Easy Warm-Up (RPE4) 8x25m FS drills w/ 10s rest between drills 5x150m of
+> 50m Easy (RPE4) 25m Hard w/ 15s rest between intervals (RPE8) 4x25m All-Out-
+> Sprints w/ 20s rest between sprints (RPE10) 6x25m SK drills w/ 15s rest
+> between drills 300m Easy Cool-Down (RPE4)
 
 #### Workout 2
 * **Name**: Base Run
@@ -169,7 +169,7 @@ Rest Day
 **Description**:
 
 > 35min Easy-Moderate (RPE6) 2x20s controlled sprints, preferably uphill, w/ 40s
-> of recovery between each sprint (RPE 10)
+> of recovery between each sprint (RPE10)
 
 
 ### Saturday 
@@ -199,7 +199,7 @@ Rest Day
 
 **Description**:
 
-> 35min at Easy-Moderate pace (RPE 6) If necessary, walk briefly, no more than a
+> 35min at Easy-Moderate pace (RPE6) If necessary, walk briefly, no more than a
 > minute at a time, if it means the difference between running well and
 > sacrificing form, while running efficiency suffers. Quick walking breaks of a
 > single minute can often keep the form high while costing very little in terms
@@ -211,8 +211,7 @@ Rest Day
 
 **Description**:
 
-> 250m Easy Warm-Up (RPE 4) 800m Easy-Moderate (RPE 6) 250m Easy Cool-down (RPE
-> 4)
+> 250m Easy Warm-Up (RPE4) 800m Easy-Moderate (RPE6) 250m Easy Cool-down (RPE4)
 
 ## Week 2
 
@@ -292,9 +291,9 @@ Rest Day
 
 **Description**:
 
-> 300m Easy Warm-Up (RPE 4) 8x25m F&T; Drills w/ 10s rest 7x100m Easy-Moderate
-> w/ 5s rest (RPE 6) 10x25m All-Out Sprints w/ 20s rest (RPE 10) 6x25m K Drills
-> w 15s rest 300m Easy Cool-Down (RPE 4)
+> 300m Easy Warm-Up (RPE4) 8x25m F&T; drills w/ 10s rest 7x100m Easy-Moderate w/
+> 5s rest (RPE6) 10x25m All-Out Sprints w/ 20s rest (RPE10) 6x25m K drills w 15s
+> rest 300m Easy Cool-Down (RPE4)
 
 #### Workout 2
 * **Name**: Base Run
@@ -303,9 +302,9 @@ Rest Day
 
 **Description**:
 
-> 35 min. Easy-Moderate (RPE 6), while randomly inserting 8x30s high-speed
-> bursts (RPE 9) During the bursts, run fast but prioritize fluid form over top-
-> end speed Over the course of the run, recover for 1-minute between bursts
+> 35 min. Easy-Moderate (RPE6), while randomly inserting 8x30s high-speed bursts
+> (RPE9) During the bursts, run fast but prioritize fluid form over top-end
+> speed Over the course of the run, recover for 1-minute between bursts
 
 
 ### Thursday 
@@ -331,9 +330,9 @@ Rest Day
 
 **Description**:
 
-> 300m Easy Warm-Up (RPE 4) 8x25m CS Drills w/ 10s rest 4x200m of 50m Easy (RPE
-> 4), 50m Hard (RPE 8) - 20s rest 6x25m All-Out Sprints w/ 20s rest (RPE 10)
-> 6x25m SK Drills w 15s rest 300m Easy Cool-Down (RPE 4)
+> 300m Easy Warm-Up (RPE4) 8x25m CS drills w/ 10s rest 4x200m of 50m Easy
+> (RPE4), 50m Hard (RPE8) - 20s rest 6x25m All-Out Sprints w/ 20s rest (RPE10)
+> 6x25m SK drills w 15s rest 300m Easy Cool-Down (RPE4)
 
 #### Workout 2
 * **Name**: Base Run
@@ -342,8 +341,8 @@ Rest Day
 
 **Description**:
 
-> 40-minute Easy-Moderate (RPE 6) 4x20s controlled sprints to conclude run,
-> preferably uphill w/ 40s of recovery (RPE 10) Try to keep the hill's grade
+> 40-minute Easy-Moderate (RPE6) 4x20s controlled sprints to conclude run,
+> preferably uphill w/ 40s of recovery (RPE10) Try to keep the hill's grade
 > reasonable so you can work a bit of speed into the uphill sprints
 
 
@@ -382,23 +381,22 @@ Rest Day
 ### Sunday 
 
 #### Workout 1
-* **Name**: Continuous Base
-
-
-**Description**:
-
-> 200m Easy Warm-Up (RPE 4) 1000m Easy-Moderate (RPE 6) 200m Easy Cool-Down (RPE
-> 4)
-
-#### Workout 2
 * **Name**: Base Run
 * **Duration**: 1 day and 16 hours
 
 
 **Description**:
 
-> 40-minute Easy-Moderate (RPE 6) Encouraged to insert brief, 1-minute walking
+> 40-minute Easy-Moderate (RPE6) Encouraged to insert brief, 1-minute walking
 > breaks if results in benefitting run form and technique
+
+#### Workout 2
+* **Name**: Continuous Base
+
+
+**Description**:
+
+> 200m Easy Warm-Up (RPE4) 1000m Easy-Moderate (RPE6) 200m Easy Cool-Down (RPE4)
 
 ## Week 3
 
@@ -480,9 +478,9 @@ Rest Day
 
 **Description**:
 
-> 300m Easy Warm-Up (RPE 4) 8x25m BB Drills w/ 10s rest 7x100m Easy-Moderate w/
-> 5s rest (RPE 6) 12x25m All-Out Sprints w/ 20s rest (RPE 10) 6x25m K&R; Drills
-> w 15s rest 300m Easy Cool-Down (RPE 4)
+> 300m Easy Warm-Up (RPE4) 8x25m BB drills w/ 10s rest 7x100m Easy-Moderate w/
+> 5s rest (RPE6) 12x25m All-Out Sprints w/ 20s rest (RPE10) 6x25m K&R; drills w
+> 15s rest 300m Easy Cool-Down (RPE4)
 
 #### Workout 2
 * **Name**: Base Run
@@ -491,8 +489,8 @@ Rest Day
 
 **Description**:
 
-> 40-minutes Easy-Moderate (RPE 6) Randomly insert 8x30s high-speed bursts (RPE
-> 9) Over the course of the run, recover between bursts for at least 1-minute
+> 40-minutes Easy-Moderate (RPE6) Randomly insert 8x30s high-speed bursts (RPE9)
+> Over the course of the run, recover between bursts for at least 1-minute
 
 
 ### Thursday 
@@ -521,9 +519,9 @@ Rest Day
 
 **Description**:
 
-> 300m Easy Warm-Up (RPE 4) 8x25m F Drills w/ 10s rest 4x200m of 50m Easy (RPE
-> 4), 50m Hard (RPE8) w/ 15s rest 6x25m All-Out Sprints w/ 20s rest (RPE 10)
-> 6x25m K Drills w/ 15s rest 300m Easy Cool-Down (RPE 4)
+> 300m Easy Warm-Up (RPE4) 8x25m F drills w/ 10s rest 4x200m of 50m Easy (RPE4),
+> 50m Hard (RPE8) w/ 15s rest 6x25m All-Out Sprints w/ 20s rest (RPE10) 6x25m K
+> drills w/ 15s rest 300m Easy Cool-Down (RPE4)
 
 #### Workout 2
 * **Name**: Base run
@@ -532,8 +530,8 @@ Rest Day
 
 **Description**:
 
-> 45 min. Easy-Moderate (RPE 6) Conclude run w/ 6x20s controlled sprints,
-> preferably uphill (RPE 10) 40s of recovery between intervals Again, not too
+> 45 min. Easy-Moderate (RPE6) Conclude run w/ 6x20s controlled sprints,
+> preferably uphill (RPE10) 40s of recovery between intervals Again, not too
 > steep of a hill as some level of speed is necessary
 
 
@@ -554,25 +552,24 @@ Rest Day
 ### Sunday 
 
 #### Workout 1
-* **Name**: Continuous Base
-
-
-**Description**:
-
-> 200m Easy Warm-Up (RPE 4) 1200m Easy-Moderate (RPE 6) 200m Easy Cool-Down (RPE
-> 4)
-
-#### Workout 2
 * **Name**: Base Run
 * **Duration**: 1 day and 21 hours
 
 
 **Description**:
 
-> 45 min. Easy-Moderate (RPE 6) Insert brief 1-minute walking breaks if
+> 45 min. Easy-Moderate (RPE6) Insert brief 1-minute walking breaks if
 > necessary. If you use walking breaks, increase run durations weekly, e.g.
 > 8-minutes of running + 1-minute walking last week, 10-minutes running this
 > week
+
+#### Workout 2
+* **Name**: Continuous Base
+
+
+**Description**:
+
+> 200m Easy Warm-Up (RPE4) 1200m Easy-Moderate (RPE6) 200m Easy Cool-Down (RPE4)
 
 ## Week 4 (Recovery)
 
@@ -631,9 +628,9 @@ Rest Day
 
 * **Name**: Shortoff -1
 * **Duration**: 45 minutes
-* **TSS**: 56.0
-* **NP**: 174
-* **IF**: 87%
+* **TSS**: 59.0
+* **NP**: 178
+* **IF**: 89%
 
 **Description**:
 
@@ -652,8 +649,8 @@ Rest Day
 
 **Description**:
 
-> Easy 10-min Warm-Up (RPE 4) 12x30s High-Speed efforts (RPE 9) w/ only 30s of
-> walking or jogging between efforts (RPE 2) Easy 10-min Cool-Down (RPE 4)
+> Easy 10-min Warm-Up (RPE4) 12x30s High-Speed efforts (RPE9) w/ only 30s of
+> walking or jogging between efforts (RPE2) Easy 10-min Cool-Down (RPE4)
 
 #### Workout 2
 * **Name**: VO2max Intervals + Sprints
@@ -661,9 +658,9 @@ Rest Day
 
 **Description**:
 
-> 300m Easy Warm-Up (RPE 4) 8x25m SC Drills w/ 10s rest 7x75m Hard w/ 45s rest
-> (RPE 9) 5x50m All-Out Sprints w/ 20s rest (RPE 10) 6x25m SK Drills w/ 15s rest
-> 300m Easy Cool-Down (RPE 4)
+> 300m Easy Warm-Up (RPE4) 8x25m SC drills w/ 10s rest 7x75m Hard w/ 45s rest
+> (RPE9) 5x50m All-Out Sprints w/ 20s rest (RPE10) 6x25m SK drills w/ 15s rest
+> 300m Easy Cool-Down (RPE4)
 
 
 ### Thursday 
@@ -688,9 +685,9 @@ Rest Day
 
 **Description**:
 
-> 300m Easy Warm-Up (RPE 4) 8x25m F&T; Drills w/ 10s rest 3x200m Moderate-Hard
-> w/ 45s rest (RPE 8) 8x25m All-Out Sprints w/ 20s rest (RPE 10) 300m Easy Cool-
-> Down (RPE 4)
+> 300m Easy Warm-Up (RPE4) 8x25m F&T; drills w/ 10s rest 3x200m Moderate-Hard w/
+> 45s rest (RPE8) 8x25m All-Out Sprints w/ 20s rest (RPE10) 300m Easy Cool-Down
+> (RPE4)
 
 #### Workout 2
 * **Name**: Base Run + Strides
@@ -699,8 +696,8 @@ Rest Day
 
 **Description**:
 
-> 40min. Easy-Moderate (RPE 6) Conclude run w/ 4x20s controlled sprints,
-> preferably uphill w/ 40s of recovery between sprints (RPE 10) Keep the hill's
+> 40min. Easy-Moderate (RPE6) Conclude run w/ 4x20s controlled sprints,
+> preferably uphill w/ 40s of recovery between sprints (RPE10) Keep the hill's
 > grade reasonable and continue to work a bit of speed into uphill sprints
 
 
@@ -741,8 +738,7 @@ Rest Day
 
 **Description**:
 
-> 200m Easy Warm-Up (RPE 4) 1000m Easy-Moderate (RPE 6) 200m Easy Cool-Down (RPE
-> 4)
+> 200m Easy Warm-Up (RPE4) 1000m Easy-Moderate (RPE6) 200m Easy Cool-Down (RPE4)
 
 #### Workout 2
 * **Name**: Base Run
@@ -753,5 +749,5 @@ Rest Day
 
 > 40 min. Easy-moderate Add frequent walking minutes if necessary since this is
 > a recovery week aimed at refreshing you prior to the next training onslaught
-> (RPE 6)
+> (RPE6)
 

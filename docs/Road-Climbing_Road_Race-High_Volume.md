@@ -114,7 +114,8 @@ Rest Day
 **Description**:
 
 > Mount Deborah +1 is 10x3-minute intervals at 105-109% FTP with 3-minute
-> recoveries between intervals.
+> recoveries between intervals along with an additional minute's worth of
+> recovery between every pair of repeats.
 
 
 ### Friday 
@@ -137,9 +138,9 @@ Rest Day
 
 * **Name**: North Twin +4
 * **Duration**: 2 hours
-* **TSS**: 129.0
-* **NP**: 160
-* **IF**: 80%
+* **TSS**: 125.0
+* **NP**: 158
+* **IF**: 79%
 
 **Description**:
 
@@ -147,9 +148,10 @@ Rest Day
 > each conclude with a 10-second sprint between 180-200% FTP.
 > 
 > The remaining bulk of the workout consists of 62 minutes of Sweet Spot-ish
-> work between 85-95% FTP with short bouts of aerobic Endurance riding at 55-75%
-> FTP separating each interval, and then the final couple of Sweet Spot efforts
-> each end with their own 10-second sprint.
+> work between 85-95% FTP with short bouts of recovery separating each interval.
+> 
+> Finally, the last couple of Sweet Spot efforts each end with their own
+> 10-second sprint.
 
 
 ### Sunday 
@@ -163,7 +165,7 @@ Rest Day
 **Description**:
 
 > Tallac +3 is 5x15-minute efforts spent in the Sweet Spot, 88-94% FTP, with
-> 6-minute recoveries between intervals.
+> 7-minute recoveries between intervals.
 
 ## Week 2
 
@@ -199,17 +201,17 @@ Rest Day
 
 * **Name**: Huxley +1
 * **Duration**: 1 hour and 15 minutes
-* **TSS**: 106.0
-* **NP**: 184
-* **IF**: 92%
+* **TSS**: 102.0
+* **NP**: 180
+* **IF**: 90%
 
 **Description**:
 
 > Huxley +1 is 4 sets of 3x3-minute Attack and Recover intervals that build on
 > the brutality of Abott.
 > 
-> The valleys range from 90-115% FTP for as long as 2.5 minutes while the surges
-> force you to hold your watts between 135-150% FTP for 15-60 seconds.
+> The valleys range from 90-110% FTP for as long as 2.5 minutes while the surges
+> force you to hold your watts between 135-140% FTP for 15-60 seconds.
 > 
 > Very short, 1-minute recoveries separate intervals while 4-minute recoveries
 > separate the sets of intervals.
@@ -327,7 +329,7 @@ Rest Day
 
 * **Name**: Gould +1
 * **Duration**: 1 hour and 15 minutes
-* **TSS**: 102.0
+* **TSS**: 100.0
 * **NP**: 180
 * **IF**: 90%
 
@@ -389,9 +391,9 @@ Rest Day
 
 * **Name**: Roan High +4
 * **Duration**: 2 hours
-* **TSS**: 142.0
-* **NP**: 168
-* **IF**: 84%
+* **TSS**: 139.0
+* **NP**: 166
+* **IF**: 83%
 
 **Description**:
 
@@ -399,9 +401,10 @@ Rest Day
 > each conclude with a 10-second sprint between 180-200% FTP.
 > 
 > The second part of this workout consists of 86 minutes of Sweet Spot-ish work
-> between 85-95% FTP with short bouts of aerobic Endurance riding at 55-75% FTP
-> separating each interval, and the final couple of Sweet Spot intervals each
-> include their own 10-second sprint.
+> between 85-95% FTP with short bouts of recovery separating each interval.
+> 
+> Finally, the last couple of Sweet Spot intervals each include their own
+> 10-second sprint.
 
 
 ### Sunday 
@@ -466,26 +469,20 @@ Rest Day
 
 > West Vidette is 45 minutes of aerobic Endurance riding ranging from 50-80%
 > FTP.
-> 
-> Keep your watts more toward the middle of this wide wattage range as riding
-> toward the top of the range will turn this into a more intense, and probably
-> shorter, Tempo effort.
-> 
-> Remain seated as often as possible.
 
 
 ### Thursday 
 
 * **Name**: Mokelumne
 * **Duration**: 1 hour
-* **TSS**: 45.0
-* **NP**: 134
-* **IF**: 67%
+* **TSS**: 44.0
+* **NP**: 132
+* **IF**: 66%
 
 **Description**:
 
-> Mokelumne is 60 minutes of aerobic Endurance riding mostly spent at 65% FTP
-> and includes 2x20-second sprints.
+> Mokelumne is 1 hour of aerobic Endurance riding mostly spent at 65% FTP and
+> includes 2x20-second sprints.
 
 
 ### Friday 
@@ -518,16 +515,17 @@ Rest Day
 
 * **Name**: Springer Mountain
 * **Duration**: 2 hours
-* **TSS**: 104.0
+* **TSS**: 103.0
 * **NP**: 144
 * **IF**: 72%
 
 **Description**:
 
-> 2 hours of Tempo intervals spent between 70-80% FTP with brief, intermittent,
-> 1 to 3-minute recoveries at 55% FTP. This workout also includes 3x10s Strength
-> Sprints, 5-minutes between each as well as some Endurance Spinning intervals
-> and some Single-Leg Focus drills.
+> Springer Mountain is 2 hours of Tempo intervals spent between 70-80% FTP with
+> brief, intermittent, 1 to 3-minute recoveries at 55% FTP. This workout also
+> includes 3x10-second Strength Sprints with 8-minute recoveries between each,
+> and some Endurance Spinning intervals and some Single-Leg Focus drills are
+> included as well.
 > 
 > Strength Sprints: Practice turning a big gear as forcefully as possible in
 > order to recruit as many muscle fibers as you can. From a near stop and in the
@@ -555,7 +553,7 @@ Rest Day
 > lightly pulling your foot across the bottom, lifting your knee lightly upward
 > and then softly kicking over the top of each pedalstroke. Add this drill
 > indoors or outdoors as often as you like, more frequently if you recognize a
-> substantial difference in one leg's strength or coordination.
+> significant difference in one leg's strength or coordination.
 
 ## Week 5
 
@@ -605,13 +603,13 @@ Rest Day
 
 * **Name**: Bradley +1
 * **Duration**: 1 hour and 15 minutes
-* **TSS**: 107.0
-* **NP**: 184
-* **IF**: 92%
+* **TSS**: 101.0
+* **NP**: 180
+* **IF**: 90%
 
 **Description**:
 
-> Bradley +1 consists of 5x10-minute intervals between 95-99% FTP with the
+> Bradley +1 consists of 5x10-minute intervals between 92-96% FTP with the
 > addition of 4x8-second, explosive bursts between 150-180% FTP.
 > 
 > Recoveries between each block of efforts are 3 minutes long.
@@ -649,8 +647,7 @@ Rest Day
 > 
 > Varied intervals from 90-95% FTP fall in between.
 > 
-> Recoveries between sets of intervals become shorter but less severe as the
-> workout progresses.
+> Recoveries between sets of intervals become shorter as the workout progresses.
 
 
 ### Friday 
@@ -688,7 +685,7 @@ Rest Day
 
 * **Name**: Hunter -1
 * **Duration**: 2 hours
-* **TSS**: 124.0
+* **TSS**: 123.0
 * **NP**: 158
 * **IF**: 79%
 
@@ -697,7 +694,7 @@ Rest Day
 > Hunter -1 is made up of 3x20-minute intervals between 88-92% FTP interrupted
 > with brief, 1-minute recovery valleys at the midpoint of each interval.
 > 
-> 8-minute recoveries fall between intervals.
+> 12-minute recoveries fall between intervals.
 
 ## Week 6
 
@@ -741,7 +738,7 @@ Rest Day
 
 **Description**:
 
-> Basin is 4x6-minute sets of out-of-the-saddle ramps into briefly sustained
+> Basin +1 is 5x6-minute sets of out-of-the-saddle ramps into briefly sustained
 > segments, all ending in an anaerobic out-of-the-saddle surge.
 > 
 > The format is 1 minute at 85% FTP plus a 1-minute ramp to 95% FTP. Then, 1
@@ -751,7 +748,7 @@ Rest Day
 > The final kick includes 30 seconds at 130% FTP and a 30-second ramp to 150%
 > FTP.
 > 
-> Each recovery valley between intervals is 6 minutes long.
+> Each recovery valley between intervals is 7 minutes long.
 
 
 ### Wednesday 
@@ -772,7 +769,7 @@ Rest Day
 
 ### Thursday 
 
-* **Name**: Kern +1
+* **Name**: Kern +2
 * **Duration**: 1 hour and 15 minutes
 * **TSS**: 105.0
 * **NP**: 184
@@ -780,11 +777,11 @@ Rest Day
 
 **Description**:
 
-> Kern +1 is 3x16-minute sets of intervals where you'll start with 2 minutes at
+> Kern +2 is 3x17-minute sets of intervals where you'll start with 2 minutes at
 > 115% FTP followed closely by 3 minutes at 105% FTP and finally 4 minutes at
 > 95% FTP before stepping back out the same way you stepped in.
 > 
-> Recoveries between intervals are only 30 seconds and the recoveries between
+> Recoveries between intervals are only 45 seconds and the recoveries between
 > sets of intervals are 5 minutes long.
 
 
@@ -808,9 +805,9 @@ Rest Day
 
 * **Name**: Sonora +6
 * **Duration**: 2 hours
-* **TSS**: 145.0
-* **NP**: 170
-* **IF**: 85%
+* **TSS**: 141.0
+* **NP**: 168
+* **IF**: 84%
 
 **Description**:
 
@@ -818,8 +815,8 @@ Rest Day
 > minutes at 105% FTP, 2x5 minutes at 108% FTP, 2x3 minutes at 115% FTP and 2x2
 > minutes at 121% FTP.
 > 
-> Recoveries between intervals are just 2 minutes long, then the workout
-> concludes with 50 minutes of aerobic Endurance at 65% FTP.
+> Recoveries between intervals are just 3 minutes long, then the workout
+> concludes with 40 minutes of aerobic Endurance at 65% FTP.
 
 
 ### Sunday 
@@ -910,20 +907,20 @@ Rest Day
 
 ### Thursday 
 
-* **Name**: Kern
+* **Name**: Kern -1
 * **Duration**: 1 hour
-* **TSS**: 87.0
-* **NP**: 186
-* **IF**: 93%
+* **TSS**: 80.0
+* **NP**: 180
+* **IF**: 90%
 
 **Description**:
 
-> Kern is 3x14-minute sets of intervals where you'll start with 2 minutes at
-> 115% FTP followed closely by 2.5 minutes at 105% FTP and finally 3 minutes at
-> 95% FTP before stepping back out the same way you stepped in.
+> Kern -1 is 3x12-minute sets of intervals where you'll start with 1.75 minutes
+> at 115% FTP followed closely by 2 minutes at 105% FTP and finally 2.5 minutes
+> at 95% FTP before stepping back out the same way you stepped in.
 > 
 > Recoveries between intervals are only 30 seconds and the recoveries between
-> sets of intervals are 3 minutes long.
+> sets of intervals are 5 minutes long.
 
 
 ### Friday 
@@ -1008,23 +1005,19 @@ Rest Day
 
 * **Name**: Basin -4
 * **Duration**: 45 minutes
-* **TSS**: 65.0
-* **NP**: 186
-* **IF**: 93%
+* **TSS**: 62.0
+* **NP**: 182
+* **IF**: 91%
 
 **Description**:
 
-> Basin -4 is 4x6-minute sets of out-of-the-saddle ramps into briefly sustained
-> segments, all ending in an anaerobic surge out of the saddle.
+> Basin -4 is 4x5-minute sets of optional out-of-the-saddle ramps into briefly
+> sustained segments, all ending in an all-out surge out of the saddle.
 > 
-> The format is 1 minute at 85% FTP plus a 1-minute ramp to 95% FTP. Then, 1
-> minute at 95% FTP is followed by a 30-second ramp to 105% FTP where you'll
-> stay for 1 minute before surging to 130% FTP over the next 30 seconds.
+> The format consists of a set of short plateaus and steady rises in power
+> beginning at 85% FTP and ascending all the way to 150% FTP.
 > 
-> The final kick includes 30 seconds at 130% FTP and a 30-second ramp to 150%
-> FTP.
-> 
-> Each recovery valley between intervals is 3 minutes long.
+> Each recovery valley between intervals is 4 minutes long.
 
 
 ### Wednesday 

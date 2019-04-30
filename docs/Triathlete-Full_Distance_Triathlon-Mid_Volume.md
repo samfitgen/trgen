@@ -105,10 +105,10 @@ Rest Day
 
 **Description**:
 
-> Warm-Up 350m Easy, RPE4 10x25m SC Drills w/ 10s rest between drills 7x100m
+> Warm-Up 350m Easy, RPE4 10x25m SC drills w/ 10s rest between drills 7x100m
 > Easy-Moderate, RPE6 w/ 5s rest between intervals 7x200m Moderate-Hard, RPE8 w/
 > 45s rest between intervals 10x25m K&R; drills w/ 15s rest between drills Cool-
-> Down 350m easy, RPE4
+> Down 350m Easy, RPE4
 
 
 ### Wednesday 
@@ -121,14 +121,14 @@ Rest Day
 
 > Run 10min up to Easy-Moderate, RPE6 to warm up, then run steadily, Moderate-
 > Hard, RPE8 for just 35 minutes this week before cooling down for 10 minutes at
-> an Easy, RPE 4pace for a total of 55 minutes of running
+> an Easy, RPE4 pace for a total of 55 minutes of running
 
 
 ### Thursday 
 
 * **Name**: Polar Bear
 * **Duration**: 2 hours
-* **TSS**: 132.0
+* **TSS**: 131.0
 * **NP**: 162
 * **IF**: 81%
 
@@ -149,11 +149,9 @@ Rest Day
 
 **Description**:
 
-> Whorl consists of an hour & 15 minutes of aerobic Endurance work spent between
-> 60-75% FTP.
-> 
-> Optional form drills include Form Sprints, Endurance Spinning intervals, and
-> quadrant drills like Pistons and Kick & Pull drills.
+> Whorl consists of 75 minutes of aerobic Endurance work spent between 60-75%
+> FTP. Optional form drills include form sprints, endurance-spinning intervals,
+> and various pedalstroke drills.
 
 #### Workout 2
 * **Name**: Swim Base + VO2max + Speed Intervals
@@ -161,10 +159,10 @@ Rest Day
 
 **Description**:
 
-> Warm-Up 350m Easy, RPE4 10x25m F Drills w/ 10s rest between drills 5x100m
+> Warm-Up 350m Easy, RPE4 10x25m F drills w/ 10s rest between drills 5x100m
 > Easy-Moderate, RPE6 w/ 5s rest between intervals 7x150m Hard, RPE9 w/ 75s rest
-> between intervals 8x50m Sprints, All-Out, RPE 10 w/ 20s rest between sprints
-> 10x25m K drills w/ 15s rest between drills Cool-Down 350m easy, RPE4
+> between intervals 8x50m Sprints, All-Out, RPE10 w/ 20s rest between sprints
+> 10x25m K drills w/ 15s rest between drills Cool-Down 350m Easy, RPE4
 
 
 ### Saturday 
@@ -172,13 +170,13 @@ Rest Day
 #### Workout 1
 * **Name**: Kailash
 * **Duration**: 4 hours and 45 minutes
-* **TSS**: 212.0
+* **TSS**: 211.0
 * **NP**: 134
 * **IF**: 67%
 
 **Description**:
 
-> Kailash is 4.75 hours of Aerobic Endurance spent between 65-75% FTP.
+> Kailash is 4.75 hours of aerobic Endurance riding spent between 65-75% FTP.
 
 #### Workout 2
 * **Name**: Recovery Run 
@@ -187,20 +185,12 @@ Rest Day
 
 **Description**:
 
-> Later in the day, run 45 minutes at an Easy, RPE 4.
+> Later in the day, run 45 minutes at an Easy, RPE4.
 
 
 ### Sunday 
 
 #### Workout 1
-* **Name**: Continuous Base Swim
-
-
-**Description**:
-
-> Warm-Up 400m Easy, RPE 4 3200m Easy-Moderate, RPE 6 Cool-Down 400m easy, RPE 4
-
-#### Workout 2
 * **Name**: Long Base Run 
 * **Duration**: 1 week and 2 hours
 
@@ -209,6 +199,14 @@ Rest Day
 
 > Bump up your longest run yet again by running 2hr50min at an Easy-Moderate,
 > RPE6 pace.
+
+#### Workout 2
+* **Name**: Continuous Base Swim
+
+
+**Description**:
+
+> Warm-Up 400m Easy, RPE4 3200m Easy-Moderate, RPE6 Cool-Down 400m Easy, RPE4
 
 ## Week 2
 
@@ -286,10 +284,10 @@ Rest Day
 
 **Description**:
 
-> Warm-Up 350m Easy, RPE4 10x25m FS Drills w/ 10s rest between drills 7x100m
+> Warm-Up 350m Easy, RPE4 10x25m FS drills w/ 10s rest between drills 7x100m
 > Easy-Moderate, RPE6 w/ 5s rest between intervals 7x200m Moderate-Hard, RPE8 w/
 > 30s rest between intervals 10x25m SK drills w/ 15s rest between drills Cool-
-> Down 350m easy, RPE4
+> Down 350m Easy, RPE4
 
 
 ### Wednesday 
@@ -341,11 +339,9 @@ Rest Day
 
 **Description**:
 
-> Whorl consists of an hour & 15 minutes of aerobic Endurance work spent between
-> 60-75% FTP.
-> 
-> Optional form drills include Form Sprints, Endurance Spinning intervals, and
-> quadrant drills like Pistons and Kick & Pull drills.
+> Whorl consists of 75 minutes of aerobic Endurance work spent between 60-75%
+> FTP. Optional form drills include form sprints, endurance-spinning intervals,
+> and various pedalstroke drills.
 
 #### Workout 2
 * **Name**: Swim Base + VO2max + Speed Intervals
@@ -353,10 +349,10 @@ Rest Day
 
 **Description**:
 
-> Warm-Up 350m Easy, RPE4 10x25m SA Drills w/ 10s rest between drills 5x100m
+> Warm-Up 350m Easy, RPE4 10x25m SA drills w/ 10s rest between drills 5x100m
 > Easy-Moderate, RPE6 w/ 5s rest between intervals 7x150m Hard, RPE9 w/ 60s rest
-> between intervals 8x50m Sprints, All-Out, RPE 10 w/ 10s rest between sprints
-> 10x25m K drills w/ 15s rest between drills Cool-Down 350m easy, RPE4
+> between intervals 8x50m Sprints, All-Out, RPE10 w/ 10s rest between sprints
+> 10x25m K drills w/ 15s rest between drills Cool-Down 350m Easy, RPE4
 
 
 ### Saturday 
@@ -364,13 +360,13 @@ Rest Day
 #### Workout 1
 * **Name**: Longfellow
 * **Duration**: 4 hours
-* **TSS**: 181.0
+* **TSS**: 180.0
 * **NP**: 134
 * **IF**: 67%
 
 **Description**:
 
-> Longfellow is 4 hours of Aerobic Endurance spent between 65-75% FTP.
+> Longfellow is 4 hours of aerobic Endurance riding spent between 65-75% FTP.
 
 #### Workout 2
 * **Name**: Brick Workout: Longfellow + Base Run: 
@@ -387,14 +383,6 @@ Rest Day
 ### Sunday 
 
 #### Workout 1
-* **Name**: Swim Time Trial
-
-
-**Description**:
-
-> Warm-Up 200m Easy, RPE 4 4225m Hard, RPE 9 Cool-Down 200m easy, RPE 4
-
-#### Workout 2
 * **Name**: Base Run 
 * **Duration**: 2 days and 22 hours
 
@@ -402,6 +390,14 @@ Rest Day
 **Description**:
 
 > Just run 70min Easy-Moderate, RPE6 today.
+
+#### Workout 2
+* **Name**: Swim Time Trial
+
+
+**Description**:
+
+> Warm-Up 200m Easy, RPE4 4225m Hard, RPE9 Cool-Down 200m Easy, RPE4
 
 ## Week 3
 
@@ -480,10 +476,10 @@ Rest Day
 
 **Description**:
 
-> Warm-Up 350m Easy, RPE4 10x25m CS Drills w/ 10s rest between drills 7x100m
+> Warm-Up 350m Easy, RPE4 10x25m CS drills w/ 10s rest between drills 7x100m
 > Easy-Moderate, RPE6 w/ 5s rest between intervals 7x200m Moderate-Hard, RPE8 w/
 > 20s rest between intervals 10x25m K&R; drills w/ 15s rest between drills Cool-
-> Down 350m easy, RPE4
+> Down 350m Easy, RPE4
 
 
 ### Wednesday 
@@ -504,7 +500,7 @@ Rest Day
 #### Workout 1
 * **Name**: Polar Bear
 * **Duration**: 2 hours
-* **TSS**: 132.0
+* **TSS**: 131.0
 * **NP**: 162
 * **IF**: 81%
 
@@ -536,11 +532,9 @@ Rest Day
 
 **Description**:
 
-> Whorl consists of an hour & 15 minutes of aerobic Endurance work spent between
-> 60-75% FTP.
-> 
-> Optional form drills include Form Sprints, Endurance Spinning intervals, and
-> quadrant drills like Pistons and Kick & Pull drills.
+> Whorl consists of 75 minutes of aerobic Endurance work spent between 60-75%
+> FTP. Optional form drills include form sprints, endurance-spinning intervals,
+> and various pedalstroke drills.
 
 #### Workout 2
 * **Name**: Swim Base + VO2max + Speed Intervals
@@ -548,10 +542,10 @@ Rest Day
 
 **Description**:
 
-> Warm-Up 350m Easy, RPE4 10x25m F&T; Drills w/ 10s rest between drills 5x100m
+> Warm-Up 350m Easy, RPE4 10x25m F&T; drills w/ 10s rest between drills 5x100m
 > Easy-Moderate, RPE6 w/ 5s rest between intervals 7x150m Hard, RPE9 w/ 45s rest
-> between intervals 8x50m Sprints, All-Out, RPE 10 w/ 5s rest between sprints
-> 10x25m SK drills w/ 15s rest between drills Cool-Down 350m easy, RPE4
+> between intervals 8x50m Sprints, All-Out, RPE10 w/ 5s rest between sprints
+> 10x25m SK drills w/ 15s rest between drills Cool-Down 350m Easy, RPE4
 
 
 ### Saturday 
@@ -559,13 +553,13 @@ Rest Day
 #### Workout 1
 * **Name**: Mianzimu
 * **Duration**: 5 hours
-* **TSS**: 223.0
+* **TSS**: 222.0
 * **NP**: 134
 * **IF**: 67%
 
 **Description**:
 
-> Mianzimu is 5 hours of Aerobic Endurance spent between 65-75% FTP.
+> Mianzimu is 5 hours of aerobic Endurance riding spent between 65-75% FTP.
 
 #### Workout 2
 * **Name**: Recovery Run
@@ -574,20 +568,12 @@ Rest Day
 
 **Description**:
 
-> Later in the day, run 45 minutes at an Easy, RPE 4.
+> Later in the day, run 45 minutes at an Easy, RPE4.
 
 
 ### Sunday 
 
 #### Workout 1
-* **Name**: Continuous Base Swim
-
-
-**Description**:
-
-> Warm-Up 400m Easy, RPE 4 3400m Easy-Moderate, RPE 6 Cool-Down 400m easy, RPE 4
-
-#### Workout 2
 * **Name**: Long Base Run
 * **Duration**: 1 week and 12 hours
 
@@ -596,6 +582,14 @@ Rest Day
 
 > Just prior to your recovery week, bump up your longest run to a solid 3 hours
 > at an Easy-Moderate, RPE6 pace.
+
+#### Workout 2
+* **Name**: Continuous Base Swim
+
+
+**Description**:
+
+> Warm-Up 400m Easy, RPE4 3400m Easy-Moderate, RPE6 Cool-Down 400m Easy, RPE4
 
 ## Week 4
 
@@ -678,8 +672,8 @@ Rest Day
 
 **Description**:
 
-> Warm-Up 350m Easy, RPE4 8x25m BB Drills w/ 10s rest between drills 5x200m
-> Moderate-Hard, RPE8 w/ 45s rest between intervals Cool-Down 350m easy, RPE4
+> Warm-Up 350m Easy, RPE4 8x25m BB drills w/ 10s rest between drills 5x200m
+> Moderate-Hard, RPE8 w/ 45s rest between intervals Cool-Down 350m Easy, RPE4
 
 
 ### Wednesday 
@@ -692,7 +686,7 @@ Rest Day
 
 > Run 10min up to Easy-Moderate, RPE6 to warm up, then dial things back and run
 > steadily, Moderate-Hard, RPE8 for just 30 minutes before cooling down for 10
-> minutes at an Easy, RPE 4pace for a total of 50 minutes of running
+> minutes at an Easy, RPE4 pace for a total of 50 minutes of running
 
 
 ### Thursday 
@@ -742,10 +736,10 @@ Rest Day
 
 **Description**:
 
-> Warm-Up 350m Easy, RPE4 10x25m CU Drills w/ 10s rest between drills 3x100m
+> Warm-Up 350m Easy, RPE4 10x25m CU drills w/ 10s rest between drills 3x100m
 > Easy-Moderate, RPE6 w/ 5s rest between intervals 10x75m Hard, RPE9 w/ 45s rest
-> between intervals 4x50m Sprints, All-Out, RPE 10 w/ 20s rest between sprints
-> Cool-Down 350m easy, RPE4
+> between intervals 4x50m Sprints, All-Out, RPE10 w/ 20s rest between sprints
+> Cool-Down 350m Easy, RPE4
 
 
 ### Saturday 
@@ -784,24 +778,15 @@ Rest Day
 #### Workout 1
 * **Name**: Longfellow
 * **Duration**: 4 hours
-* **TSS**: 181.0
+* **TSS**: 180.0
 * **NP**: 134
 * **IF**: 67%
 
 **Description**:
 
-> Longfellow is 4 hours of Aerobic Endurance spent between 65-75% FTP.
+> Longfellow is 4 hours of aerobic Endurance riding spent between 65-75% FTP.
 
 #### Workout 2
-* **Name**: Continuous Base Swim
-
-
-**Description**:
-
-> Either warm-Up 300m Easy, RPE4 2200m Easy-Moderate, RPE6 Cool-Down 300m easy,
-> RPE4 OR compete in a B-priority practice race.
-
-#### Workout 3
 * **Name**: Longfellow + Base Run (Brick) -  OR Half-Distance Triathlon 
 * **Duration**: 3 days and 3 hours
 
@@ -812,6 +797,15 @@ Rest Day
 > your aero position and then transition quickly into your running gear and take
 > off on a longer duration, 75-minute run at an Easy-Moderate, RPE6 pace where
 > you'll get up to race pace quickly. OR Half-Distance Triathlon
+
+#### Workout 3
+* **Name**: Continuous Base Swim
+
+
+**Description**:
+
+> Either Warm-Up 300m Easy, RPE4 2200m Easy-Moderate, RPE6 Cool-Down 300m Easy,
+> RPE4 OR compete in a B-priority practice race.
 
 ## Week 5
 
@@ -888,9 +882,9 @@ Rest Day
 
 **Description**:
 
-> Warm-Up 350m Easy, RPE4 10x25m SC Drills w/ 10s rest between drills 7x100m
+> Warm-Up 350m Easy, RPE4 10x25m SC drills w/ 10s rest between drills 7x100m
 > Easy-Moderate, RPE6 w/ 5s rest between intervals 8x200m Moderate-Hard, RPE8 w/
-> 45s rest between intervals Cool-Down 350m easy, RPE4
+> 45s rest between intervals Cool-Down 350m Easy, RPE4
 
 
 ### Wednesday 
@@ -903,7 +897,7 @@ Rest Day
 
 > Run 10min up to Easy-Moderate, RPE6 to warm up, then run steadily, Moderate-
 > Hard, RPE8 for just 35 minutes this week before cooling down for 10 minutes at
-> an Easy, RPE 4pace for a total of 55 minutes of running
+> an Easy, RPE4 pace for a total of 55 minutes of running
 
 
 ### Thursday 
@@ -911,7 +905,7 @@ Rest Day
 #### Workout 1
 * **Name**: Polar Bear
 * **Duration**: 2 hours
-* **TSS**: 132.0
+* **TSS**: 131.0
 * **NP**: 162
 * **IF**: 81%
 
@@ -943,11 +937,9 @@ Rest Day
 
 **Description**:
 
-> Whorl consists of an hour & 15 minutes of aerobic Endurance work spent between
-> 60-75% FTP.
-> 
-> Optional form drills include Form Sprints, Endurance Spinning intervals, and
-> quadrant drills like Pistons and Kick & Pull drills.
+> Whorl consists of 75 minutes of aerobic Endurance work spent between 60-75%
+> FTP. Optional form drills include form sprints, endurance-spinning intervals,
+> and various pedalstroke drills.
 
 #### Workout 2
 * **Name**:  Swim Base + VO2max + Speed Intervals
@@ -955,10 +947,10 @@ Rest Day
 
 **Description**:
 
-> Warm-Up 350m Easy, RPE4 10x25m F Drills w/ 10s rest between drills 4x100m
+> Warm-Up 350m Easy, RPE4 10x25m F drills w/ 10s rest between drills 4x100m
 > Easy-Moderate, RPE6 w/ 5s rest between intervals 8x150m Hard, RPE9 w/ 75s rest
-> between intervals 9x50m Sprints, All-Out, RPE 10 w/ 20s rest between sprints
-> 10x25m K drills w/ 15s rest between drills Cool-Down 350m easy, RPE4
+> between intervals 9x50m Sprints, All-Out, RPE10 w/ 20s rest between sprints
+> 10x25m K drills w/ 15s rest between drills Cool-Down 350m Easy, RPE4
 
 
 ### Saturday 
@@ -966,13 +958,13 @@ Rest Day
 #### Workout 1
 * **Name**: Mianzimu
 * **Duration**: 5 hours
-* **TSS**: 223.0
+* **TSS**: 222.0
 * **NP**: 134
 * **IF**: 67%
 
 **Description**:
 
-> Mianzimu is 5 hours of Aerobic Endurance spent between 65-75% FTP.
+> Mianzimu is 5 hours of aerobic Endurance riding spent between 65-75% FTP.
 
 #### Workout 2
 * **Name**: Recovery Run
@@ -981,20 +973,12 @@ Rest Day
 
 **Description**:
 
-> Later in the day, run 50 minutes at an Easy, RPE 4.
+> Later in the day, run 50 minutes at an Easy, RPE4.
 
 
 ### Sunday 
 
 #### Workout 1
-* **Name**:  Continuous Base Swim
-
-
-**Description**:
-
-> Warm-Up 250m Easy, RPE 4 3800m Easy-Moderate, RPE 6 Cool-Down 250m easy, RPE 4
-
-#### Workout 2
 * **Name**: Long Base Run
 * **Duration**: 1 week and 12 hours
 
@@ -1003,6 +987,14 @@ Rest Day
 
 > Kick of your first weekend by repeating your longest run with a solid 3 hours
 > at an Easy-Moderate, RPE6 pace.
+
+#### Workout 2
+* **Name**:  Continuous Base Swim
+
+
+**Description**:
+
+> Warm-Up 250m Easy, RPE4 3800m Easy-Moderate, RPE6 Cool-Down 250m Easy, RPE4
 
 ## Week 6
 
@@ -1082,9 +1074,9 @@ Rest Day
 
 **Description**:
 
-> Warm-Up 350m Easy, RPE4 10x25m FS Drills w/ 10s rest between drills 7x100m
+> Warm-Up 350m Easy, RPE4 10x25m FS drills w/ 10s rest between drills 7x100m
 > Easy-Moderate, RPE6 w/ 5s rest between intervals 8x200m Moderate-Hard, RPE8 w/
-> 30s rest between intervals Cool-Down 350m easy, RPE4
+> 30s rest between intervals Cool-Down 350m Easy, RPE4
 
 
 ### Wednesday 
@@ -1138,11 +1130,9 @@ Rest Day
 
 **Description**:
 
-> Whorl consists of an hour & 15 minutes of aerobic Endurance work spent between
-> 60-75% FTP.
-> 
-> Optional form drills include Form Sprints, Endurance Spinning intervals, and
-> quadrant drills like Pistons and Kick & Pull drills.
+> Whorl consists of 75 minutes of aerobic Endurance work spent between 60-75%
+> FTP. Optional form drills include form sprints, endurance-spinning intervals,
+> and various pedalstroke drills.
 
 #### Workout 2
 * **Name**:  Swim Base + VO2max + Speed Intervals
@@ -1150,10 +1140,10 @@ Rest Day
 
 **Description**:
 
-> Warm-Up 350m Easy, RPE4 10x25m SA Drills w/ 10s rest between drills 4x100m
+> Warm-Up 350m Easy, RPE4 10x25m SA drills w/ 10s rest between drills 4x100m
 > Easy-Moderate, RPE6 w/ 5s rest between intervals 8x150m Hard, RPE9 w/ 60s rest
-> between intervals 9x50m Sprints, All-Out, RPE 10 w/ 20s rest between sprints
-> 10x25m K drills w/ 15s rest between drills Cool-Down 350m easy, RPE4
+> between intervals 9x50m Sprints, All-Out, RPE10 w/ 20s rest between sprints
+> 10x25m K drills w/ 15s rest between drills Cool-Down 350m Easy, RPE4
 
 
 ### Saturday 
@@ -1161,13 +1151,13 @@ Rest Day
 #### Workout 1
 * **Name**: Longfellow
 * **Duration**: 4 hours
-* **TSS**: 181.0
+* **TSS**: 180.0
 * **NP**: 134
 * **IF**: 67%
 
 **Description**:
 
-> Longfellow is 4 hours of Aerobic Endurance spent between 65-75% FTP.
+> Longfellow is 4 hours of aerobic Endurance riding spent between 65-75% FTP.
 
 #### Workout 2
 * **Name**: Brick Workout: Longfellow + Base Run
@@ -1185,15 +1175,6 @@ Rest Day
 ### Sunday 
 
 #### Workout 1
-* **Name**: Swim Time Trial
-
-
-**Description**:
-
-> Warm-Up 200m Easy, RPE 4 3860m/2.4 miles Hard, RPE 9 Cool-Down 200m easy, RPE
-> 4
-
-#### Workout 2
 * **Name**: Base Run
 * **Duration**: 3 days and 3 hours
 
@@ -1201,6 +1182,14 @@ Rest Day
 **Description**:
 
 > Just run 75min Easy-Moderate, RPE6 today.
+
+#### Workout 2
+* **Name**: Swim Time Trial
+
+
+**Description**:
+
+> Warm-Up 200m Easy, RPE4 3860m/2.4 miles Hard, RPE9 Cool-Down 200m Easy, RPE4
 
 ## Week 7
 
@@ -1281,9 +1270,9 @@ Rest Day
 
 **Description**:
 
-> Warm-Up 350m Easy, RPE4 10x25m CU Drills w/ 10s rest between drills 5x100m
+> Warm-Up 350m Easy, RPE4 10x25m CU drills w/ 10s rest between drills 5x100m
 > Easy-Moderate, RPE6 w/ 5s rest between intervals 5x200m Moderate-Hard, RPE8 w/
-> 20s rest between intervals Cool-Down 350m easy, RPE4
+> 20s rest between intervals Cool-Down 350m Easy, RPE4
 
 
 ### Wednesday 
@@ -1296,7 +1285,7 @@ Rest Day
 
 > Run 10min up to Easy-Moderate, RPE6 to warm up, then run steadily, Moderate-
 > Hard, RPE8 for just 35 minutes this week before cooling down for 10 minutes at
-> an Easy, RPE 4pace for a total of 55 minutes of running
+> an Easy, RPE4 pace for a total of 55 minutes of running
 
 
 ### Thursday 
@@ -1349,10 +1338,10 @@ Rest Day
 
 **Description**:
 
-> Warm-Up 350m Easy, RPE4 10x25m CS Drills w/ 10s rest between drills 4x100m
+> Warm-Up 350m Easy, RPE4 10x25m CS drills w/ 10s rest between drills 4x100m
 > Easy-Moderate, RPE6 w/ 5s rest between intervals 6x150m Hard, RPE9 w/ 75s rest
-> between intervals 5x50m Sprints, All-Out, RPE 10 w/ 20s rest between sprints
-> 10x25m SK drills w/ 15s rest between drills Cool-Down 350m easy, RPE4
+> between intervals 5x50m Sprints, All-Out, RPE10 w/ 20s rest between sprints
+> 10x25m SK drills w/ 15s rest between drills Cool-Down 350m Easy, RPE4
 
 
 ### Saturday 
@@ -1360,7 +1349,7 @@ Rest Day
 #### Workout 1
 * **Name**: Appalachian
 * **Duration**: 3 hours and 30 minutes
-* **TSS**: 162.0
+* **TSS**: 161.0
 * **NP**: 136
 * **IF**: 68%
 
@@ -1375,20 +1364,12 @@ Rest Day
 
 **Description**:
 
-> Later in the day, run 30 minutes at an Easy, RPE 4.
+> Later in the day, run 30 minutes at an Easy, RPE4.
 
 
 ### Sunday 
 
 #### Workout 1
-* **Name**:  Continuous Base Swim
-
-
-**Description**:
-
-> Warm-Up 350m Easy, RPE 4 2600m Easy-Moderate, RPE 6 Cool-Down 350m easy, RPE 4
-
-#### Workout 2
 * **Name**: Long Base Run
 * **Duration**: 1 day and 16 hours
 
@@ -1397,6 +1378,14 @@ Rest Day
 
 > Trim your weekly, longest run at an Easy-Moderate, RPE6 pace down to 1 hour 40
 > minutes this week.
+
+#### Workout 2
+* **Name**:  Continuous Base Swim
+
+
+**Description**:
+
+> Warm-Up 350m Easy, RPE4 2600m Easy-Moderate, RPE6 Cool-Down 350m Easy, RPE4
 
 ## Week 8
 
@@ -1465,8 +1454,8 @@ Rest Day
 
 **Description**:
 
-> Warm-Up 350m Easy, RPE4 8x25m BB Drills w/ 10s rest between drills 5x200m
-> Moderate-Hard, RPE8 w/ 45s rest between intervals Cool-Down 350m easy, RPE4
+> Warm-Up 350m Easy, RPE4 8x25m BB drills w/ 10s rest between drills 5x200m
+> Moderate-Hard, RPE8 w/ 45s rest between intervals Cool-Down 350m Easy, RPE4
 
 
 ### Wednesday 
@@ -1514,7 +1503,7 @@ Rest Day
 **Description**:
 
 > Warm-Up 350m Easy, RPE4 3x100m Hard, RPE9 w/ 60s rest between intervals 4x50m
-> Sprints, All-Out, RPE 10 w/ 20s rest between sprints Cool-Down 350m easy, RPE4
+> Sprints, All-Out, RPE10 w/ 20s rest between sprints Cool-Down 350m Easy, RPE4
 
 
 ### Saturday 

@@ -122,9 +122,8 @@ Rest Day
 **Description**:
 
 > Spanish Needle is comprised of 6x8-minute sets of microbursts consisting of 15
-> seconds at 150% FTP followed directly by 15 seconds at 40% FTP.
-> 
-> Recovery valleys between sets of bursts are just over 5 minutes long.
+> seconds at 150% FTP followed directly by 15 seconds at 40% FTP. Recovery
+> valleys between sets of bursts are just over 5 minutes long.
 > 
 > The first set of microbursts offers a ramping warmup which can help you
 > determine any Workout Intensity reductions that might be necessary.
@@ -140,7 +139,8 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of 2 hours of aerobic Endurance spent between 60-70% FTP.
+> Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70%
+> FTP.
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
@@ -236,7 +236,8 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of 2 hours of aerobic Endurance spent between 60-70% FTP.
+> Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70%
+> FTP.
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
@@ -328,7 +329,8 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of 2 hours of aerobic Endurance spent between 60-70% FTP.
+> Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70%
+> FTP.
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
@@ -519,7 +521,8 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of 2 hours of aerobic Endurance spent between 60-70% FTP.
+> Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70%
+> FTP.
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
@@ -574,19 +577,19 @@ Rest Day
 
 * **Name**: Huxley
 * **Duration**: 1 hour
-* **TSS**: 87.0
-* **NP**: 186
-* **IF**: 93%
+* **TSS**: 84.0
+* **NP**: 184
+* **IF**: 92%
 
 **Description**:
 
 > Huxley is 3 sets of 3x3-minute Attack and Recover intervals that build on the
 > brutality of Abott.
 > 
-> The valleys range from 95-115% FTP for as long as 2.5 minutes while the surges
+> The valleys range from 95-108% FTP for as long as 2.5 minutes while the surges
 > force you to hold your watts between 135-180% FTP for 15-60 seconds.
 > 
-> Very short, 1-minute recoveries separate intervals while 4-minute recoveries
+> Very short, 1-minute recoveries separate intervals while 5-minute recoveries
 > separate the sets of intervals.
 
 
@@ -629,7 +632,8 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of 2 hours of aerobic Endurance spent between 60-70% FTP.
+> Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70%
+> FTP.
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
@@ -711,10 +715,10 @@ Rest Day
 **Description**:
 
 > 3 sets of 3x3-minute VO2max repeats at 110-120% FTP with equal, 3-minute
-> recoveries between intervals and 10-minute recoveries between sets of repeats.
+> recoveries between intervals & 10-minute recoveries between sets of repeats.
 > 
 > Try to settle on a repeatable power output such that you finish each
-> interval... barely. This might require some trial and error and it's likely to
+> interval... barely. This might require some trial & error and it's likely to
 > change as your fitness improves - you may be able to hold it for longer, you
 > may be able to increase it, you may be able to repeat it with less rest.
 > 
@@ -734,7 +738,8 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of 2 hours of aerobic Endurance spent between 60-70% FTP.
+> Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70%
+> FTP.
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.

@@ -46,8 +46,8 @@ Rest Day
 
 **Description**:
 
-> 250m Easy Warm-Up (RPE4) 6x25m CU Drills w/ 10s rest 7x100m Easy-Moderate
-> (RPE6) w/ 5s rest 4x25m K Drills w/ 15s rest 200m Easy Cool-Down (RPE4)
+> 250m Easy Warm-Up (RPE4) 6x25m CU drills w/ 10s rest 7x100m Easy-Moderate
+> (RPE6) w/ 5s rest 4x25m K drills w/ 15s rest 200m Easy Cool-Down (RPE4)
 
 
 ### Wednesday 
@@ -95,7 +95,7 @@ Rest Day
 
 **Description**:
 
-> Easy-Moderate (RPE 6)
+> 30min Easy-Moderate (RPE6)
 
 
 ### Friday 
@@ -105,8 +105,8 @@ Rest Day
 
 **Description**:
 
-> 250m Easy Warm-Up (RPE4) 6x25m F&T; Drills w/ 10s rest 4x200m Moderate-Hard
-> (RPE8) w/ 45s rest 4x25m SK Drills w/ 15s rest 200m Easy Cool-Down (RPE4)
+> 250m Easy Warm-Up (RPE4) 6x25m F&T; drills w/ 10s rest 4x200m Moderate-Hard
+> (RPE8) w/ 45s rest 4x25m SK drills w/ 15s rest 200m Easy Cool-Down (RPE4)
 
 
 ### Saturday 
@@ -131,7 +131,7 @@ Rest Day
 
 **Description**:
 
-> Easy-Moderate (RPE 6)
+> 30min Easy-Moderate (RPE6)
 
 ## Week 2
 
@@ -176,8 +176,8 @@ Rest Day
 
 **Description**:
 
-> 250m Easy Warm-Up (RPE4) 6x25m FS Drills w/ 10s rest 8x100m Easy-Moderate
-> (RPE6) w/ 5s rest 4x25m K Drills w/ 15s rest 200m Easy Cool-Down (RPE4)
+> 250m Easy Warm-Up (RPE4) 6x25m FS drills w/ 10s rest 8x100m Easy-Moderate
+> (RPE6) w/ 5s rest 4x25m K drills w/ 15s rest 200m Easy Cool-Down (RPE4)
 
 
 ### Wednesday 
@@ -203,7 +203,7 @@ Rest Day
 
 **Description**:
 
-> Easy-Moderate (RPE 6)
+> 35min Easy-Moderate (RPE6)
 
 
 ### Friday 
@@ -213,22 +213,37 @@ Rest Day
 
 **Description**:
 
-> 250m Easy Warm-Up (RPE4) 6x25m S Drills w/ 10s rest 4x200m Moderate-Hard
-> (RPE8) w/ 30s rest 4x25m K&R; Drills w/ 15s rest 200m Easy Cool-Down (RPE4)
+> 250m Easy Warm-Up (RPE4) 6x25m S drills w/ 10s rest 4x200m Moderate-Hard
+> (RPE8) w/ 30s rest 4x25m K&R; drills w/ 15s rest 200m Easy Cool-Down (RPE4)
 
 
 ### Saturday 
 
+#### Workout 1
 * **Name**: Carter +2
 * **Duration**: 45 minutes
-* **TSS**: 54.0
-* **NP**: 170
-* **IF**: 85%
+* **TSS**: 53.0
+* **NP**: 168
+* **IF**: 84%
 
 **Description**:
 
 > Carter +2 ups the demand to the point where you'll ride for 30 continuous
 > minutes between 85-95% FTP.
+
+#### Workout 2
+* **Name**: Base Ride + Transition Run (Brick)
+* **Duration**: 10 hours
+
+
+**Description**:
+
+> In the midst of a 45-minute bike workout, you'll sustain 30 minutes of effort
+> between 85-95% FTP pushing you closer to the effort you'll try to hold during
+> your race-day bike leg. Then, you'll dismount and transition quickly into your
+> running gear right before you take off on a short 10-minute transition run at
+> an Easy-Moderate, RPE6 pace in order to get a feel for some heavier leg
+> fatigue coming off a more aggressive bike effort.
 
 
 ### Sunday 
@@ -239,7 +254,7 @@ Rest Day
 
 **Description**:
 
-> Easy-Moderate (RPE 6)
+> 35min Easy-Moderate (RPE6)
 
 ## Week 3
 
@@ -284,17 +299,17 @@ Rest Day
 
 **Description**:
 
-> 250m Easy Warm-Up (RPE4) 6x25m SA Drills w/ 10s rest 9x100m Easy-Moderate
-> (RPE6) w/ 5s rest 4x25m SK Drills w/ 15s rest 200m Easy Cool-Down (RPE4)
+> 250m Easy Warm-Up (RPE4) 6x25m SA drills w/ 10s rest 9x100m Easy-Moderate
+> (RPE6) w/ 5s rest 4x25m SK drills w/ 15s rest 200m Easy Cool-Down (RPE4)
 
 
 ### Wednesday 
 
 * **Name**: Shortoff -1
 * **Duration**: 45 minutes
-* **TSS**: 56.0
-* **NP**: 174
-* **IF**: 87%
+* **TSS**: 59.0
+* **NP**: 178
+* **IF**: 89%
 
 **Description**:
 
@@ -312,7 +327,7 @@ Rest Day
 
 **Description**:
 
-> Easy-Moderate (RPE 6)
+> 40min Easy-Moderate (RPE6)
 
 
 ### Friday 
@@ -322,8 +337,8 @@ Rest Day
 
 **Description**:
 
-> 250m Easy Warm-Up (RPE4) 6x25m CS Drills w/ 10s rest 4x200m Moderate-Hard
-> (RPE8) w/ 20s rest 4x25m SK Drills w/ 15s rest 200m Easy Cool-Down (RPE4)
+> 250m Easy Warm-Up (RPE4) 6x25m CS drills w/ 10s rest 4x200m Moderate-Hard
+> (RPE8) w/ 20s rest 4x25m SK drills w/ 15s rest 200m Easy Cool-Down (RPE4)
 
 
 ### Saturday 
@@ -348,7 +363,7 @@ Rest Day
 
 **Description**:
 
-> Easy-Moderate (RPE 6)
+> 40min Easy-Moderate (RPE6)
 
 ## Week 4
 
@@ -392,8 +407,8 @@ Rest Day
 
 **Description**:
 
-> Warm-Up 250m Easy (RPE4) 6x25m HCU Drills w/ 10s rest 7x100m Easy-Moderate
-> (RPE6) w/ 5s rest 4x25m K&R; Drills w/ 15s rest 200m Easy Cool-Down (RPE4)
+> Warm-Up 250m Easy (RPE4) 6x25m HCU drills w/ 10s rest 7x100m Easy-Moderate
+> (RPE6) w/ 5s rest 4x25m K&R; drills w/ 15s rest 200m Easy Cool-Down (RPE4)
 
 
 ### Wednesday 
@@ -421,7 +436,7 @@ Rest Day
 
 **Description**:
 
-> Easy-Moderate (RPE 6)
+> 35min Easy-Moderate (RPE6)
 
 
 ### Friday 
@@ -431,22 +446,37 @@ Rest Day
 
 **Description**:
 
-> 250m Easy Warm-Up (RPE4) 6x25m F&T; Drills w/ 10s rest 6x75m Hard, RPE9 w/ 45s
-> rest 4x25m SK Drills w/ 15s rest 200m Easy Cool-Down (RPE4)
+> 250m Easy Warm-Up (RPE4) 6x25m F&T; drills w/ 10s rest 6x75m Hard (RPE9) w/
+> 45s rest 4x25m SK drills w/ 15s rest 200m Easy Cool-Down (RPE4)
 
 
 ### Saturday 
 
+#### Workout 1
 * **Name**: Carter +1
 * **Duration**: 45 minutes
 * **TSS**: 43.0
-* **NP**: 152
-* **IF**: 76%
+* **NP**: 150
+* **IF**: 75%
 
 **Description**:
 
 > Carter +1 ups the demand to the point where you'll ride for 30 continuous
 > minutes between 75-85% FTP.
+
+#### Workout 2
+* **Name**:  Base Ride + Transition Run (Brick)
+* **Duration**: 10 hours
+
+
+**Description**:
+
+> During this less intense, 45-minute bike workout, you'll again sustain 30
+> minutes of steady effort but this time between 75-85% FTP backing things off a
+> bit during this recovery week. Then, you'll dismount and transition quickly
+> into your running gear and head out on another short 10-minute transition run
+> at an Easy-Moderate, RPE6 pace, once more practicing your ability to handle
+> the change in muscle stress of going from pedaling to striding.
 
 
 ### Sunday 
@@ -457,5 +487,5 @@ Rest Day
 
 **Description**:
 
-> Easy-Moderate (RPE 6)
+> 35min Easy-Moderate (RPE6)
 

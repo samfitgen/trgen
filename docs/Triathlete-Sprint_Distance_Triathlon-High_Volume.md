@@ -116,9 +116,9 @@ Rest Day
 
 **Description**:
 
-> 350m Easy Warm-Up (RPE 4) 6x50m CU Drills 6x150m Hard (RPE 9) w/ 75s rest
-> 7x50m All-Out Sprints (RPE 10) w/ 20s rest 10x25m K Drills w/ 15s rest 350m
-> Easy Cool-Down (RPE 4)
+> 350m Easy Warm-Up (RPE4) 6x50m CU Drills 6x150m Hard (RPE9) w/ 75s rest 7x50m
+> All-Out Sprints (RPE10) w/ 20s rest 10x25m K Drills w/ 15s rest 350m Easy
+> Cool-Down (RPE4)
 
 
 ### Wednesday 
@@ -129,9 +129,9 @@ Rest Day
 
 **Description**:
 
-> 350m Easy Warm-Up (RPE 4) 6x50m F&T; Drills w/ 10s rest 8x200m Easy-Moderate
-> (RPE 6) w/ 10s rest 5x100m Easy-Moderate (RPE 6) w/ 5s rest 350m Easy Cool-
-> Down (RPE 4)
+> 350m Easy Warm-Up (RPE4) 6x50m F&T; Drills w/ 10s rest 8x200m Easy-Moderate
+> (RPE6) w/ 10s rest 5x100m Easy-Moderate (RPE6) w/ 5s rest 350m Easy Cool-Down
+> (RPE4)
 
 #### Workout 2
 * **Name**: VO2max Intervals
@@ -140,8 +140,8 @@ Rest Day
 
 **Description**:
 
-> 20min Easy-Moderate Warm-Up (RPE 6) 5 Hard 2-minute near-sprints (RPE 9) w/
-> 2min recoveries at RPE 2 20min Easy Cool-Down (RPE 4)
+> 20min Easy-Moderate Warm-Up (RPE6) 5 Hard 2-minute near-sprints (RPE9) w/ 2min
+> recoveries at RPE2 20min Easy Cool-Down (RPE4)
 
 
 ### Thursday 
@@ -167,8 +167,8 @@ Rest Day
 
 **Description**:
 
-> 40min Easy (RPE 4) Work in 6x20-second relaxed sprints with 40 seconds of
-> regular, RPE 4 running in between each.
+> 40min Easy (RPE4) Work in 6x20-second relaxed sprints with 40 seconds of
+> regular, RPE4 running in between each.
 
 
 ### Friday 
@@ -193,9 +193,9 @@ Rest Day
 
 **Description**:
 
-> 350m Easy Warm-Up (RPE 4) 6x50m F Drills w/ 10s rest 6x200m Moderate-Hard (RPE
-> 8) w/ 45s rest 8x25m All-Out Sprints (RPE 10) w/ 20s rest 10x25m K&R; Drills
-> w/ 15s rest 350m Easy Cool-Down (RPE 4)
+> 350m Easy Warm-Up (RPE4) 6x50m F Drills w/ 10s rest 6x200m Moderate-Hard
+> (RPE8) w/ 45s rest 8x25m All-Out Sprints (RPE10) w/ 20s rest 10x25m K&R;
+> Drills w/ 15s rest 350m Easy Cool-Down (RPE4)
 
 
 ### Saturday 
@@ -219,8 +219,8 @@ Rest Day
 
 **Description**:
 
-> 10min Easy-Moderate Warm-Up (RPE 6) 32min Steady Run Moderate-Hard (RPE 8)
-> 10min Eas Cool-Down (RPE 4)
+> 10min Easy-Moderate Warm-Up (RPE6) 32min Steady Run Moderate-Hard (RPE8) 10min
+> Easy Cool-Down (RPE4)
 
 
 ### Sunday 
@@ -231,8 +231,7 @@ Rest Day
 
 **Description**:
 
-> 350m Easy Warm-Up (RPE 4) 2400m Easy-Moderate (RPE 6) 350m Easy Cool-Down (RPE
-> 4)
+> 350m Easy Warm-Up (RPE4) 2400m Easy-Moderate (RPE6) 350m Easy Cool-Down (RPE4)
 
 #### Workout 2
 * **Name**: Long Base Run
@@ -241,7 +240,7 @@ Rest Day
 
 **Description**:
 
-> 70min Easy-Moderate (RPE 6)
+> 70min Easy-Moderate (RPE6)
 
 ## Week 2
 
@@ -331,9 +330,9 @@ Rest Day
 
 **Description**:
 
-> 350m Easy Warm-Up (RPE 4) 6x50m FS Drill 6x150m Hard (RPE 9) w/ 60s rest 7x50m
-> All-Out Sprints (RPE 10) w/ 10s rest 10x25m K Drills w/ 15s rest 350m Easy
-> Cool-Down (RPE 4)
+> 350m Easy Warm-Up (RPE4) 6x50m FS Drill 6x150m Hard (RPE9) w/ 60s rest 7x50m
+> All-Out Sprints (RPE10) w/ 10s rest 10x25m K Drills w/ 15s rest 350m Easy
+> Cool-Down (RPE4)
 
 
 ### Wednesday 
@@ -344,9 +343,9 @@ Rest Day
 
 **Description**:
 
-> 350m Easy Warm-Up (RPE 4) 6x50m S Drills w/ 10s rest 8x200m Easy-Moderate (RPE
-> 6) w/ 10s rest 5x100m Easy-Moderate (RPE 6) w/ 5s rest 350m Easy Cool-Down
-> (RPE 4)
+> 350m Easy Warm-Up (RPE4) 6x50m S Drills w/ 10s rest 8x200m Easy-Moderate
+> (RPE6) w/ 10s rest 5x100m Easy-Moderate (RPE6) w/ 5s rest 350m Easy Cool-Down
+> (RPE4)
 
 #### Workout 2
 * **Name**: VO2max Intervals
@@ -355,8 +354,8 @@ Rest Day
 
 **Description**:
 
-> 20min Easy-Moderate Warm-Up (RPE 6) 6 Hard 2-minute Near-Sprints (RPE 9) w/
-> 2min recoveries at RPE 2 20min Easy Cool Down (RPE 4)
+> 20min Easy-Moderate Warm-Up (RPE6) 6 Hard 2-minute Near-Sprints (RPE9) w/ 2min
+> recoveries at RPE2 20min Easy Cool Down (RPE4)
 
 
 ### Thursday 
@@ -380,8 +379,8 @@ Rest Day
 
 **Description**:
 
-> 40min Easy (RPE 4) Work in 6x20-second relaxed sprints with 40 seconds of
-> regular, RPE 4 running in between each.
+> 40min Easy (RPE4) Work in 6x20-second relaxed sprints with 40 seconds of
+> regular, RPE4 running in between each.
 
 
 ### Friday 
@@ -389,9 +388,9 @@ Rest Day
 #### Workout 1
 * **Name**: Carter +3
 * **Duration**: 45 minutes
-* **TSS**: 67.0
-* **NP**: 188
-* **IF**: 94%
+* **TSS**: 65.0
+* **NP**: 186
+* **IF**: 93%
 
 **Description**:
 
@@ -404,9 +403,9 @@ Rest Day
 
 **Description**:
 
-> 350m Easy Warm-Up (RPE 4) 6x50m SA Drills w/ 10s rest 6x200m Moderate-Hard
-> (RPE 8) w/ 30s rest 8x25m All-Out Sprints (RPE 10) w/ 20s rest 10x25m K&R;
-> Drills w/ 15s rest 350m Easy Cool-Down (RPE 4)
+> 350m Easy Warm-Up (RPE4) 6x50m SA Drills w/ 10s rest 6x200m Moderate-Hard
+> (RPE8) w/ 30s rest 8x25m All-Out Sprints (RPE10) w/ 20s rest 10x25m K&R;
+> Drills w/ 15s rest 350m Easy Cool-Down (RPE4)
 
 #### Workout 3
 * **Name**: Threshold Ride + Transition Run (Brick)
@@ -428,13 +427,13 @@ Rest Day
 #### Workout 1
 * **Name**: Eclipse
 * **Duration**: 1 hour and 30 minutes
-* **TSS**: 105.0
-* **NP**: 168
-* **IF**: 84%
+* **TSS**: 104.0
+* **NP**: 166
+* **IF**: 83%
 
 **Description**:
 
-> Eclipse is comprised of 3x20-minute Sweet Spot efforts (88-94% FTP) with 5
+> Eclipse is comprised of 3x20 minute Sweet Spot efforts (88-94% FTP) with 7
 > minutes of recovery between intervals.
 
 #### Workout 2
@@ -444,8 +443,8 @@ Rest Day
 
 **Description**:
 
-> 10min Easy-Moderate Warm-Up (RPE 6) 34min Steady Run Moderate-Hard (RPE 8)
-> 10min Easy Cool-Down (RPE 4)
+> 10min Easy-Moderate Warm-Up (RPE6) 34min Steady Run Moderate-Hard (RPE8) 10min
+> Easy Cool-Down (RPE4)
 
 
 ### Sunday 
@@ -456,7 +455,7 @@ Rest Day
 
 **Description**:
 
-> 350m Easy Warm-Up (RPE 4) 900m Hard (RPE 9) 350m Easy Cool-Down (RPE 4)
+> 350m Easy Warm-Up (RPE4) 900m Hard (RPE9) 350m Easy Cool-Down (RPE4)
 
 #### Workout 2
 * **Name**: Long Base Run
@@ -465,7 +464,7 @@ Rest Day
 
 **Description**:
 
-> 75min Easy-Moderate (RPE 6)
+> 75min Easy-Moderate (RPE6)
 
 ## Week 3
 
@@ -556,9 +555,9 @@ Rest Day
 
 **Description**:
 
-> 350m Easy Warm-Up (RPE 4) 6x50m HCU Drill 6x150m Hard (RPE 9) w/ 45s rest
-> 7x50m All-Out Sprints (RPE 10) w/ 5s rest 10x25m SK Drills w/ 15s rest 350m
-> Easy Cool-Down (RPE 4)
+> 350m Easy Warm-Up (RPE4) 6x50m HCU Drill 6x150m Hard (RPE9) w/ 45s rest 7x50m
+> All-Out Sprints (RPE10) w/ 5s rest 10x25m SK Drills w/ 15s rest 350m Easy
+> Cool-Down (RPE4)
 
 
 ### Wednesday 
@@ -569,9 +568,9 @@ Rest Day
 
 **Description**:
 
-> 350m Easy Warm-Up (RPE 4) 6x50m F&T; Drills w/ 10s rest 8x200m Easy-Moderate
-> (RPE 6) w/ 10s rest 6x100m Easy-Moderate (RPE 6) w/ 5s rest 350m Easy Cool-
-> Down (RPE 4)
+> 350m Easy Warm-Up (RPE4) 6x50m F&T; Drills w/ 10s rest 8x200m Easy-Moderate
+> (RPE6) w/ 10s rest 6x100m Easy-Moderate (RPE6) w/ 5s rest 350m Easy Cool-Down
+> (RPE4)
 
 #### Workout 2
 * **Name**: VO2max Intervals 
@@ -580,8 +579,8 @@ Rest Day
 
 **Description**:
 
-> 20min Easy-Moderate Warm-Up (RPE 6) 7 Hard 2-minute Near-Sprints (RPE 9) w/
-> 2min recoveries at RPE 2 20min Easy Cool-Down (RPE 4)
+> 20min Easy-Moderate Warm-Up (RPE6) 7 Hard 2-minute Near-Sprints (RPE9) w/ 2min
+> recoveries at RPE2 20min Easy Cool-Down (RPE4)
 
 
 ### Thursday 
@@ -605,8 +604,8 @@ Rest Day
 
 **Description**:
 
-> 40min Easy (RPE 4) Work in 6x20-second relaxed sprints with 40 seconds of
-> regular, RPE 4 running in between each.
+> 40min Easy (RPE4) Work in 6x20-second relaxed sprints with 40 seconds of
+> regular, RPE4 running in between each.
 
 
 ### Friday 
@@ -631,9 +630,9 @@ Rest Day
 
 **Description**:
 
-> 350m Easy Warm-Up (RPE 4) 6x50m FS Drills w/ 10s rest 6x200m Moderate-Hard
-> (RPE 8) w/ 20s rest 8x25m All-Out Sprints (RPE 10) w/ 20s rest 10x25m K Drills
-> w/ 15s rest 350m Easy Cool-Down (RPE 4)
+> 350m Easy Warm-Up (RPE4) 6x50m FS Drills w/ 10s rest 6x200m Moderate-Hard
+> (RPE8) w/ 20s rest 8x25m All-Out Sprints (RPE10) w/ 20s rest 10x25m K Drills
+> w/ 15s rest 350m Easy Cool-Down (RPE4)
 
 
 ### Saturday 
@@ -657,8 +656,8 @@ Rest Day
 
 **Description**:
 
-> 10min Easy-Moderate Warm-Up (RPE 6) 36min Moderate-Hard (RPE 8) 10min Easy
-> Cool-Down (RPE 4)
+> 10min Easy-Moderate Warm-Up (RPE6) 36min Moderate-Hard (RPE8) 10min Easy Cool-
+> Down (RPE4)
 
 
 ### Sunday 
@@ -669,8 +668,7 @@ Rest Day
 
 **Description**:
 
-> 350m Easy Warm-Up (RPE 4) 2400m Easy-Moderate (RPE 6) 350m Easy Cool-Down (RPE
-> 4)
+> 350m Easy Warm-Up (RPE4) 2400m Easy-Moderate (RPE6) 350m Easy Cool-Down (RPE4)
 
 #### Workout 2
 * **Name**: Long Base Run
@@ -679,7 +677,7 @@ Rest Day
 
 **Description**:
 
-> 80min Easy-Moderate (RPE 6)
+> 80min Easy-Moderate (RPE6)
 
 ## Week 4
 
@@ -765,8 +763,8 @@ Rest Day
 
 **Description**:
 
-> 350m Easy Warm-Up (RPE 4) 6x50m CU Drill 8x100m Hard (RPE 90 w/ 60s rest 6x50m
-> All-Out Sprints (RPE 10) w/ 5s rest 350m Easy Cool-Down (RPE 4)
+> 350m Easy Warm-Up (RPE4) 6x50m CU Drill 8x100m Hard (RPE9) w/ 60s rest 6x50m
+> All-Out Sprints (RPE10) w/ 5s rest 350m Easy Cool-Down (RPE4)
 
 
 ### Wednesday 
@@ -777,9 +775,9 @@ Rest Day
 
 **Description**:
 
-> 350m Easy Warm-Up (RPE 4) 6x50m CS Drills w/ 10s rest 6x200m Easy-Moderate
-> (RPE 6) w/ 10s rest 6x100m Easy-Moderate (RPE 6) w/ 5s rest 350m Easy Cool-
-> Down (RPE 4)
+> 350m Easy Warm-Up (RPE4) 6x50m CS Drills w/ 10s rest 6x200m Easy-Moderate
+> (RPE6) w/ 10s rest 6x100m Easy-Moderate (RPE6) w/ 5s rest 350m Easy Cool-Down
+> (RPE4)
 
 #### Workout 2
 * **Name**: VO2max Intervals
@@ -788,8 +786,8 @@ Rest Day
 
 **Description**:
 
-> 15min Easy-Moderate Warm-Up (RPE 6) 8 Hard 1-minute Near-Sprints (RPE 9) w/
-> 2min recoveries at RPE 2 20min Easy Cool-Down (RPE 4)
+> 15min Easy-Moderate Warm-Up (RPE6) 8 Hard 1-minute Near-Sprints (RPE9) w/ 2min
+> recoveries at RPE2 20min Easy Cool-Down (RPE4)
 
 
 ### Thursday 
@@ -813,7 +811,7 @@ Rest Day
 
 **Description**:
 
-> 30min Easy (RPE 4) Work in 4x20-second relaxed sprints with 40 seconds of
+> 30min Easy (RPE4) Work in 4x20-second relaxed sprints with 40 seconds of
 > regular, RPE4 running in between each.
 
 
@@ -839,8 +837,8 @@ Rest Day
 
 **Description**:
 
-> 250m Easy Warm-Up (RPE 4) 4x200m Moderate-Hard (RPE 8) w/ 45s rest 8x25m All-
-> Out Sprints (RPE 10) w/ 20s rest 250m Easy Cool-Down (RPE 4)
+> 250m Easy Warm-Up (RPE4) 4x200m Moderate-Hard (RPE8) w/ 45s rest 8x25m All-Out
+> Sprints (RPE10) w/ 20s rest 250m Easy Cool-Down (RPE4)
 
 
 ### Saturday 
@@ -848,9 +846,9 @@ Rest Day
 #### Workout 1
 * **Name**: Carter +2
 * **Duration**: 45 minutes
-* **TSS**: 54.0
-* **NP**: 170
-* **IF**: 85%
+* **TSS**: 53.0
+* **NP**: 168
+* **IF**: 84%
 
 **Description**:
 
@@ -866,7 +864,7 @@ Rest Day
 
 > If you're racing tomorrow, just do an easy 30 minutes on the bike, hop off for
 > a 10-minute transition run at an easy, RPE4 pace and work in 2x20-second
-> relaxed sprints. Not racing' Then do this 45-minute bike workout where you'll
+> relaxed sprints. Not racing? Then do this 45-minute bike workout where you'll
 > again sustain 30 minutes of steady effort but this time back down between
 > 85-95% FTP in the interest of very active recovery. Come off the bike,
 > transition quickly into your running gear and head out on another short but
@@ -882,8 +880,8 @@ Rest Day
 
 **Description**:
 
-> 250m Easy Warm-Up (RPE 4) 2100m Easy-Moderate (RPE 6) 250m Easy Cool-Down (RPE
-> 4) This can be substituted with a B- or A-Priority Sprint Triathlon Race.
+> 250m Easy Warm-Up (RPE4) 2100m Easy-Moderate (RPE6) 250m Easy Cool-Down (RPE4)
+> This can be substituted with a B- or A-Priority Sprint Triathlon Race.
 
 #### Workout 2
 * **Name**: Base Run
@@ -892,7 +890,7 @@ Rest Day
 
 **Description**:
 
-> 60min Easy-Moderate (RPE 6) This can be substituted with a B- or A-Priority
+> 60min Easy-Moderate (RPE6) This can be substituted with a B- or A-Priority
 > Sprint Triathlon Race.
 
 ## Week 5
@@ -979,9 +977,9 @@ Rest Day
 
 **Description**:
 
-> 350m Easy Warm-Up (RPE 4) 6x50m FS Drill 10x100m Hard (RPE 9) w/ 60s rest
-> 8x50m All-Out Sprints (RPE 10) w/ 20s rest 10x25m K Drills w/ 15s rest 350m
-> Easy Cool-Down (RPE 4)
+> 350m Easy Warm-Up (RPE4) 6x50m FS Drill 10x100m Hard (RPE9) w/ 60s rest 8x50m
+> All-Out Sprints (RPE10) w/ 20s rest 10x25m K Drills w/ 15s rest 350m Easy
+> Cool-Down (RPE4)
 
 
 ### Wednesday 
@@ -992,9 +990,9 @@ Rest Day
 
 **Description**:
 
-> 350m Easy Warm-Up (RPE 4) 6x50m BB Drills w/ 10s rest 8x200m Easy-Moderate
-> (RPE 6) w/ 10s rest 6x100m Easy-Moderate (RPE 6) w/ 5s rest 350m Easy Cool-
-> Down (RPE 4)
+> 350m Easy Warm-Up (RPE4) 6x50m BB Drills w/ 10s rest 8x200m Easy-Moderate
+> (RPE6) w/ 10s rest 6x100m Easy-Moderate (RPE6) w/ 5s rest 350m Easy Cool-Down
+> (RPE4)
 
 #### Workout 2
 * **Name**: VO2max Intervals
@@ -1003,8 +1001,8 @@ Rest Day
 
 **Description**:
 
-> 15min Easy-Moderate Warm- Up (RPE 6) 3 Hard 3-minute efforts (RPE 9) w/ 3min
-> recoveries at RPE 4 10min Easy Cool-Down (RPE 4)
+> 15min Easy-Moderate Warm- Up (RPE6) 3 Hard 3-minute efforts (RPE9) w/ 3min
+> recoveries at RPE4 10min Easy Cool-Down (RPE4)
 
 
 ### Thursday 
@@ -1012,13 +1010,13 @@ Rest Day
 #### Workout 1
 * **Name**: Dicks -1
 * **Duration**: 1 hour and 15 minutes
-* **TSS**: 105.0
-* **NP**: 184
-* **IF**: 92%
+* **TSS**: 104.0
+* **NP**: 182
+* **IF**: 91%
 
 **Description**:
 
-> Dicks -1 is 5x8-minute intervals at 105% FTP with 3-minute recoveries between
+> Dicks -1 is 5x8-minute intervals at 105% FTP with 5-minute recoveries between
 > intervals.
 
 #### Workout 2
@@ -1028,8 +1026,8 @@ Rest Day
 
 **Description**:
 
-> 40min Easy (RPE 4) Work in 8x20-second relaxed sprints with 40 seconds of
-> regular, RPE 4 running in between each.
+> 40min Easy (RPE4) Work in 8x20-second relaxed sprints with 40 seconds of
+> regular, RPE4 running in between each.
 
 
 ### Friday 
@@ -1054,9 +1052,9 @@ Rest Day
 
 **Description**:
 
-> 350m Easy Warm-Up (RPE 4) 6x50m F Drills w/ 10s rest 6x200m Moderate-Hard (RPE
-> 8) w/ 30s rest 8x25m All-Out Sprints (RPE 10) w/ 20s rest 10x25m K&R; Drills
-> w/ 15s rest 350m Easy Cool-Down (RPE 4)
+> 350m Easy Warm-Up (RPE4) 6x50m F Drills w/ 10s rest 6x200m Moderate-Hard
+> (RPE8) w/ 30s rest 8x25m All-Out Sprints (RPE10) w/ 20s rest 10x25m K&R;
+> Drills w/ 15s rest 350m Easy Cool-Down (RPE4)
 
 
 ### Saturday 
@@ -1080,8 +1078,8 @@ Rest Day
 
 **Description**:
 
-> 10min Easy-Moderate Warm-Up (RPE 6) 38min Steady Run Moderate-Hard (RPE 8)
-> 10min Easy (RPE 4)
+> 10min Easy-Moderate Warm-Up (RPE6) 38min Steady Run Moderate-Hard (RPE8) 10min
+> Easy (RPE4)
 
 
 ### Sunday 
@@ -1092,8 +1090,7 @@ Rest Day
 
 **Description**:
 
-> 350m Easy Warm-Up (RPE 4) 2400m Easy-Moderate (RPE 6) 350m Easy Cool-Down (RPE
-> 4)
+> 350m Easy Warm-Up (RPE4) 2400m Easy-Moderate (RPE6) 350m Easy Cool-Down (RPE4)
 
 #### Workout 2
 * **Name**: Long Base Run
@@ -1102,7 +1099,7 @@ Rest Day
 
 **Description**:
 
-> 80min Easy-Moderate (RPE 6)
+> 80min Easy-Moderate (RPE6)
 
 ## Week 6
 
@@ -1174,7 +1171,7 @@ Rest Day
 ### Tuesday 
 
 #### Workout 1
-* **Name**: Matthes +1 
+* **Name**: Matthes +1
 * **Duration**: 1 hour and 15 minutes
 * **TSS**: 102.0
 * **NP**: 180
@@ -1193,9 +1190,9 @@ Rest Day
 
 **Description**:
 
-> 350m Easy Warm-Up (RPE 4) 6x50m S Drill 10x100m Hard (RPE 9) w/ 45s rest 9x50m
-> All-Out Sprints (RPE 10) w/ 20s rest 10x25m K&R; Drills w/ 15s rest 350m Easy
-> Cool-Down (RPE 4)
+> 350m Easy Warm-Up (RPE4) 6x50m S Drill 10x100m Hard (RPE9) w/ 45s rest 9x50m
+> All-Out Sprints (RPE10) w/ 20s rest 10x25m K&R; Drills w/ 15s rest 350m Easy
+> Cool-Down (RPE4)
 
 
 ### Wednesday 
@@ -1206,9 +1203,9 @@ Rest Day
 
 **Description**:
 
-> 350m Easy Warm-Up (RPE 4) 6x50m BS Drills w/ 10s rest 8x200m Easy-Moderate
-> (RPE 6) w/ 10s rest 7x100m Easy-Moderate (RPE 6) w/ 5s rest 350m Easy Cool-
-> Down (RPE 4)
+> 350m Easy Warm-Up (RPE4) 6x50m BS Drills w/ 10s rest 8x200m Easy-Moderate
+> (RPE6) w/ 10s rest 7x100m Easy-Moderate (RPE6) w/ 5s rest 350m Easy Cool-Down
+> (RPE4)
 
 #### Workout 2
 * **Name**: VO2max Intervals
@@ -1217,8 +1214,8 @@ Rest Day
 
 **Description**:
 
-> 15min Easy-Moderate Warm-Up (RPE 6) 4 Hard 3-minute efforts (RPE 9) w/ 3min
-> recoveries at RPE 4 10min Easy Cool-Down (RPE 4)
+> 15min Easy-Moderate Warm-Up (RPE6) 4 Hard 3-minute efforts (RPE9) w/ 3min
+> recoveries at RPE4 10min Easy Cool-Down (RPE4)
 
 
 ### Thursday 
@@ -1242,7 +1239,7 @@ Rest Day
 
 **Description**:
 
-> 40min Easy (RPE 4) Work in 8x20-second relaxed sprints with 40 seconds of
+> 40min Easy (RPE4) Work in 8x20-second relaxed sprints with 40 seconds of
 > regular, RPE4 running between each.
 
 
@@ -1251,9 +1248,9 @@ Rest Day
 #### Workout 1
 * **Name**: Carter +3
 * **Duration**: 45 minutes
-* **TSS**: 67.0
-* **NP**: 188
-* **IF**: 94%
+* **TSS**: 65.0
+* **NP**: 186
+* **IF**: 93%
 
 **Description**:
 
@@ -1266,9 +1263,9 @@ Rest Day
 
 **Description**:
 
-> 350m Easy Warm-Up (RPE 4) 6x50m SA Drills w/ 10s rest 6x200m Moderate-Hard
-> (RPE 8) w/ 20s rest 8x25m All-Out Sprints (RPE 10) w/ 10s rest 10x25m K Drills
-> w/ 15s rest 350m Easy Cool-Down (RPE 4)
+> 350m Easy Warm-Up (RPE4) 6x50m SA Drills w/ 10s rest 6x200m Moderate-Hard
+> (RPE8) w/ 20s rest 8x25m All-Out Sprints (RPE10) w/ 10s rest 10x25m K Drills
+> w/ 15s rest 350m Easy Cool-Down (RPE4)
 
 #### Workout 3
 * **Name**: Brick workout: Threshold Ride + Tempo Transition Run
@@ -1289,13 +1286,13 @@ Rest Day
 #### Workout 1
 * **Name**: Hunter
 * **Duration**: 2 hours
-* **TSS**: 123.0
-* **NP**: 158
-* **IF**: 79%
+* **TSS**: 121.0
+* **NP**: 156
+* **IF**: 78%
 
 **Description**:
 
-> Hunter consists of 3x20-minute intervals at 88-92% FTP with 10-minute
+> Hunter consists of 3x20-minute intervals at 88-92% FTP with 15-minute
 > recoveries between intervals.
 
 #### Workout 2
@@ -1305,8 +1302,8 @@ Rest Day
 
 **Description**:
 
-> 10min Easy-Moderate Warm-Up (RPE 6) 40min Moderate-Hard (RPE 8) 10min Easy
-> Cool-Down (RPE 4)
+> 10min Easy-Moderate Warm-Up (RPE6) 40min Moderate-Hard (RPE8) 10min Easy Cool-
+> Down (RPE4)
 
 
 ### Sunday 
@@ -1317,7 +1314,7 @@ Rest Day
 
 **Description**:
 
-> 350m Easy Warm-Up (RPE 4) 1000m Hard (RPE 9) 350m Easy Cool-Down (RPE 4)
+> 350m Easy Warm-Up (RPE4) 1000m Hard (RPE9) 350m Easy Cool-Down (RPE4)
 
 #### Workout 2
 * **Name**: Long Base Run
@@ -1326,7 +1323,7 @@ Rest Day
 
 **Description**:
 
-> 85min Easy-Moderate (RPE 6)
+> 85min Easy-Moderate (RPE6)
 
 ## Week 7
 
@@ -1410,9 +1407,9 @@ Rest Day
 
 **Description**:
 
-> 350m Easy Warm-Up (RPE 4) 6x50m CU Drill 10x100m Hard (RPE 9) w/ 30s rest
-> 6x50m All-Out Sprints (RPE 10) w/ 20s rest 10x25m SK Drills w/ 15s rest 350m
-> Easy Cool-Down (RPE 4)
+> 350m Easy Warm-Up (RPE4) 6x50m CU Drill 10x100m Hard (RPE9) w/ 30s rest 6x50m
+> All-Out Sprints (RPE10) w/ 20s rest 10x25m SK Drills w/ 15s rest 350m Easy
+> Cool-Down (RPE4)
 
 
 ### Wednesday 
@@ -1423,9 +1420,9 @@ Rest Day
 
 **Description**:
 
-> 350m Easy Warm-Up (RPE 4) 6x50m CS Drills w/ 10s rest 6x200m Easy-Moderate
-> (RPE 6) w/ 10s rest 6x100m Easy-Moderate (RPE 6) w/ 5s rest 350m Easy Cool-
-> Down (RPE 4)
+> 350m Easy Warm-Up (RPE4) 6x50m CS Drills w/ 10s rest 6x200m Easy-Moderate
+> (RPE6) w/ 10s rest 6x100m Easy-Moderate (RPE6) w/ 5s rest 350m Easy Cool-Down
+> (RPE4)
 
 #### Workout 2
 * **Name**: VO2max Intervals
@@ -1434,8 +1431,8 @@ Rest Day
 
 **Description**:
 
-> 15min Easy-Moderate Warm-Up (RPE 6) 5 Hard 3-minute efforts (RPE 9) w/ 3min
-> recoveries at RPE 4 10min Easy Cool-Down (RPE 4)
+> 15min Easy-Moderate Warm-Up (RPE6) 5 Hard 3-minute efforts (RPE9) w/ 3min
+> recoveries at RPE4 10min Easy Cool-Down (RPE4)
 
 
 ### Thursday 
@@ -1462,8 +1459,8 @@ Rest Day
 
 **Description**:
 
-> 30min Easy (RPE 4) Work in 6x20-second relaxed sprints with 40 seconds of
-> regular, RPE 4 running in between each.
+> 30min Easy (RPE4) Work in 6x20-second relaxed sprints with 40 seconds of
+> regular, RPE4 running in between each.
 
 
 ### Friday 
@@ -1488,9 +1485,9 @@ Rest Day
 
 **Description**:
 
-> 350m Easy Warm-Up (RPE 4) 6x50m HCU Drills w/ 10s rest 6x200m Moderate-Hard
-> (RPE 8) w/ 10s rest 6x25m All-Out Sprints (RPE 10) w/ 5s rest 10x25m K&R;
-> Drills w/ 15s rest 350m Easy Cool-Down (RPE 4)
+> 350m Easy Warm-Up (RPE4) 6x50m HCU Drills w/ 10s rest 6x200m Moderate-Hard
+> (RPE8) w/ 10s rest 6x25m All-Out Sprints (RPE10) w/ 5s rest 10x25m K&R; Drills
+> w/ 15s rest 350m Easy Cool-Down (RPE4)
 
 
 ### Saturday 
@@ -1514,28 +1511,27 @@ Rest Day
 
 **Description**:
 
-> 10min Easy-Moderate (RPE 6) 25min Moderate-Hard (RPE 8)
+> 10min Easy-Moderate (RPE6) 25min Moderate-Hard (RPE8)
 
 
 ### Sunday 
 
 #### Workout 1
-* **Name**: Continuous Base
-
-
-**Description**:
-
-> 250m Easy Warm-Up (RPE 4) 1900m Easy-Moderate (RPE 6) 250m Easy Cool-Down (RPE
-> 4)
-
-#### Workout 2
 * **Name**: Base Run
 * **Duration**: 2 days and 12 hours
 
 
 **Description**:
 
-> 60min Easy-Moderate (RPE 6)
+> 60min Easy-Moderate (RPE6)
+
+#### Workout 2
+* **Name**: Continuous Base
+
+
+**Description**:
+
+> 250m Easy Warm-Up (RPE4) 1900m Easy-Moderate (RPE6) 250m Easy Cool-Down (RPE4)
 
 ## Week 8
 
@@ -1611,8 +1607,8 @@ Rest Day
 
 **Description**:
 
-> 350m Easy Warm-Up (RPE 4) 6x50m CU Drill 10x100m Hard (RPE 9) w/ 60s rest
-> 4x50m All-Out Sprints (RPE 10) w/ 20s rest 350m Easy Cool-Down (RPE 4)
+> 350m Easy Warm-Up (RPE4) 6x50m CU Drill 10x100m Hard (RPE9) w/ 60s rest 4x50m
+> All-Out Sprints (RPE10) w/ 20s rest 350m Easy Cool-Down (RPE4)
 
 
 ### Wednesday 
@@ -1623,9 +1619,9 @@ Rest Day
 
 **Description**:
 
-> 350m Easy Warm-Up (RPE 4) 6x50m F&T; Drills w/ 10s rest 4x200m Easy-Moderate
-> (RPE 6) w/ 10s rest 4x100m Easy-Moderate (RPE 6) w/ 5s rest 350m Easy Cool-
-> Down (RPE 4)
+> 350m Easy Warm-Up (RPE4) 6x50m F&T; Drills w/ 10s rest 4x200m Easy-Moderate
+> (RPE6) w/ 10s rest 4x100m Easy-Moderate (RPE6) w/ 5s rest 350m Easy Cool-Down
+> (RPE4)
 
 #### Workout 2
 * **Name**: Recovery Run
@@ -1634,7 +1630,7 @@ Rest Day
 
 **Description**:
 
-> 35min Easy (RPE 4)
+> 35min Easy (RPE4)
 
 
 ### Thursday 
@@ -1658,7 +1654,7 @@ Rest Day
 
 **Description**:
 
-> 35min Easy (RPE 4)
+> 35min Easy (RPE4)
 
 
 ### Friday 
@@ -1683,8 +1679,8 @@ Rest Day
 
 **Description**:
 
-> 250m Easy Warm-Up (RPE 4) 4x200m Moderate-Hard (RPE 8) w/ 45s rest 4x25m All-
-> Out Sprints (RPE 10) w/ 20s rest 250m Easy Cool-Down (RPE 4)
+> 250m Easy Warm-Up (RPE4) 4x200m Moderate-Hard (RPE8) w/ 45s rest 4x25m All-Out
+> Sprints (RPE10) w/ 20s rest 250m Easy Cool-Down (RPE4)
 
 
 ### Saturday 
@@ -1707,7 +1703,7 @@ Rest Day
 
 **Description**:
 
-> 25min Easy (RPE 4) Work in 6x20-second relaxed sprints with 40 seconds of
+> 25min Easy (RPE4) Work in 6x20-second relaxed sprints with 40 seconds of
 > recovery jogging between each
 
 

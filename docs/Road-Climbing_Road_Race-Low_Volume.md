@@ -89,14 +89,14 @@ Rest Day
 
 * **Name**: Mount Deborah
 * **Duration**: 1 hour
-* **TSS**: 72.0
-* **NP**: 170
-* **IF**: 85%
+* **TSS**: 70.0
+* **NP**: 168
+* **IF**: 84%
 
 **Description**:
 
-> Mount Deborah is 7x3-minute intervals at 105-109% FTP with 3.5-minute
-> recoveries between intervals.
+> Mount Deborah is 7x3-minute intervals at 105-109% FTP with 4-minute recoveries
+> between intervals.
 
 
 ### Friday 
@@ -152,19 +152,19 @@ Rest Day
 
 * **Name**: Huxley
 * **Duration**: 1 hour
-* **TSS**: 87.0
-* **NP**: 186
-* **IF**: 93%
+* **TSS**: 84.0
+* **NP**: 184
+* **IF**: 92%
 
 **Description**:
 
 > Huxley is 3 sets of 3x3-minute Attack and Recover intervals that build on the
 > brutality of Abott.
 > 
-> The valleys range from 95-115% FTP for as long as 2.5 minutes while the surges
+> The valleys range from 95-108% FTP for as long as 2.5 minutes while the surges
 > force you to hold your watts between 135-180% FTP for 15-60 seconds.
 > 
-> Very short, 1-minute recoveries separate intervals while 4-minute recoveries
+> Very short, 1-minute recoveries separate intervals while 5-minute recoveries
 > separate the sets of intervals.
 
 
@@ -344,14 +344,14 @@ Rest Day
 
 * **Name**: Mokelumne
 * **Duration**: 1 hour
-* **TSS**: 45.0
-* **NP**: 134
-* **IF**: 67%
+* **TSS**: 44.0
+* **NP**: 132
+* **IF**: 66%
 
 **Description**:
 
-> Mokelumne is 60 minutes of aerobic Endurance riding mostly spent at 65% FTP
-> and includes 2x20-second sprints.
+> Mokelumne is 1 hour of aerobic Endurance riding mostly spent at 65% FTP and
+> includes 2x20-second sprints.
 
 
 ### Friday 
@@ -425,8 +425,8 @@ Rest Day
 **Description**:
 
 > Bradley is 4x10-minute intervals at 95-99% FTP. Each interval includes
-> 4x8-second neuromuscular bursts at 150-180% FTP. Recoveries between intervals
-> are 3 minutes long.
+> 4x8-second neuromuscular bursts at 150-180% FTP and recoveries between
+> intervals are 4 minutes long.
 
 
 ### Wednesday 
@@ -438,9 +438,9 @@ Rest Day
 
 * **Name**: Diamond Valley Road Race
 * **Duration**: 1 hour
-* **TSS**: 79.0
-* **NP**: 178
-* **IF**: 89%
+* **TSS**: 78.0
+* **NP**: 176
+* **IF**: 88%
 
 **Description**:
 
@@ -451,7 +451,7 @@ Rest Day
 > 30-second active recovery, 2 minutes of Tempo work, and then a second 2-minute
 > effort at 115% FTP that concludes with a 30-second kick at 120% FTP.
 > 
-> Recovery between each interval is 5 minutes long.
+> Recovery between each interval is 6 minutes long.
 
 
 ### Friday 
@@ -535,20 +535,20 @@ Rest Day
 
 ### Thursday 
 
-* **Name**: Kern
+* **Name**: Kern -1
 * **Duration**: 1 hour
-* **TSS**: 87.0
-* **NP**: 186
-* **IF**: 93%
+* **TSS**: 80.0
+* **NP**: 180
+* **IF**: 90%
 
 **Description**:
 
-> Kern is 3x14-minute sets of intervals where you'll start with 2 minutes at
-> 115% FTP followed closely by 2.5 minutes at 105% FTP and finally 3 minutes at
-> 95% FTP before stepping back out the same way you stepped in.
+> Kern -1 is 3x12-minute sets of intervals where you'll start with 1.75 minutes
+> at 115% FTP followed closely by 2 minutes at 105% FTP and finally 2.5 minutes
+> at 95% FTP before stepping back out the same way you stepped in.
 > 
 > Recoveries between intervals are only 30 seconds and the recoveries between
-> sets of intervals are 3 minutes long.
+> sets of intervals are 5 minutes long.
 
 
 ### Friday 
@@ -560,7 +560,7 @@ Rest Day
 
 * **Name**: Sonora +2
 * **Duration**: 1 hour and 15 minutes
-* **TSS**: 104.0
+* **TSS**: 103.0
 * **NP**: 182
 * **IF**: 91%
 
@@ -607,23 +607,19 @@ Rest Day
 
 * **Name**: Basin -4
 * **Duration**: 45 minutes
-* **TSS**: 65.0
-* **NP**: 186
-* **IF**: 93%
+* **TSS**: 62.0
+* **NP**: 182
+* **IF**: 91%
 
 **Description**:
 
-> Basin -4 is 4x6-minute sets of out-of-the-saddle ramps into briefly sustained
-> segments, all ending in an anaerobic surge out of the saddle.
+> Basin -4 is 4x5-minute sets of optional out-of-the-saddle ramps into briefly
+> sustained segments, all ending in an all-out surge out of the saddle.
 > 
-> The format is 1 minute at 85% FTP plus a 1-minute ramp to 95% FTP. Then, 1
-> minute at 95% FTP is followed by a 30-second ramp to 105% FTP where you'll
-> stay for 1 minute before surging to 130% FTP over the next 30 seconds.
+> The format consists of a set of short plateaus and steady rises in power
+> beginning at 85% FTP and ascending all the way to 150% FTP.
 > 
-> The final kick includes 30 seconds at 130% FTP and a 30-second ramp to 150%
-> FTP.
-> 
-> Each recovery valley between intervals is 3 minutes long.
+> Each recovery valley between intervals is 4 minutes long.
 
 
 ### Wednesday 
@@ -712,24 +708,20 @@ Rest Day
 
 * **Name**: Basin -5
 * **Duration**: 30 minutes
-* **TSS**: 45.0
-* **NP**: 190
-* **IF**: 95%
+* **TSS**: 42.0
+* **NP**: 184
+* **IF**: 92%
 
 **Description**:
 
-> Basin -5 is the time-crunched version of Basin consisting of just 3x5-minute
-> (ish) sets of out-of-the-saddle ramps into briefly sustained segments, all
-> ending in an anaerobic surge out of the saddle.
+> Basin -5 is the time-crunched version of Basin consisting of just 3x4-minute
+> sets of out-of-the-saddle ramps into briefly sustained segments, all ending in
+> an all-out surge out of the saddle.
 > 
-> The format is 45 seconds at 85% FTP plus a 45-second ramp to 95% FTP. Then, 1
-> minute at 95% FTP is followed by a 30-second ramp to 105% FTP where you'll
-> stay for 45 seconds before surging to 130% FTP over the next 30 seconds.
+> The format consists of a set of short plateaus and steady rises in power
+> beginning at 85% FTP and ascending all the way to 150% FTP.
 > 
-> The final kick includes 30 seconds at 130% FTP and a 30-second ramp to 150%
-> FTP.
-> 
-> The recovery valleys between intervals are 2.5 minutes long.
+> Each recovery valley between intervals is 4 minutes long.
 
 
 ### Wednesday 

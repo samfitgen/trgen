@@ -108,7 +108,8 @@ Rest Day
 
 **Description**:
 
-> Gibbs consists of 2 hours of aerobic Endurance spent between 60-70% FTP.
+> Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70%
+> FTP.
 > 
 > Optional form drills include Form Sprints, Endurance Spinning intervals, and
 > some Single-Leg Focus drills.
@@ -136,9 +137,9 @@ Rest Day
 
 * **Name**: Clingman's
 * **Duration**: 1 hour
-* **TSS**: 71.0
-* **NP**: 168
-* **IF**: 84%
+* **TSS**: 66.0
+* **NP**: 162
+* **IF**: 81%
 
 **Description**:
 
@@ -181,12 +182,9 @@ Rest Day
 
 **Description**:
 
-> Warren consists of nearly 2.25 hours of aerobic Endurance riding spent between
-> 60-70% FTP.
-> 
-> Optional form drills include Form Sprints,
-> 
-> Endurance Spinning & Individual Leg Training (ILT).
+> Warren consists of about 2 hours 15 minutes of aerobic Endurance riding spent
+> between 60-70% FTP and includes optional form drills like form sprints,
+> endurance-spinning, and Individual Leg Training (ILT).
 
 
 ### Sunday 
@@ -210,15 +208,16 @@ Rest Day
 
 * **Name**: Gros Morne
 * **Duration**: 1 hour
-* **TSS**: 71.0
-* **NP**: 168
-* **IF**: 84%
+* **TSS**: 66.0
+* **NP**: 162
+* **IF**: 81%
 
 **Description**:
 
-> 60 minutes of mostly Tempo and Sweet Spot work spent between 80-90% FTP with
-> the addition of 4x1-minute Force Intervals with 1 minute's rest between them
-> and 3x10s Strength Sprints followed by 6 minutes of Tempo work.
+> Gros Morne is 60 minutes of mostly Tempo and Sweet Spot work spent between
+> 80-90% FTP. Additionally, there are 4x1-minute Force Intervals each with 1
+> minute's rest between them followed by 3x10-second Strength Sprints. The
+> workout then concludes with 6 minutes of Tempo work.
 
 
 ### Wednesday 
@@ -249,17 +248,15 @@ Rest Day
 
 * **Name**: Koip
 * **Duration**: 2 hours and 30 minutes
-* **TSS**: 106.0
+* **TSS**: 105.0
 * **NP**: 130
 * **IF**: 65%
 
 **Description**:
 
 > Koip consists of nearly 2.5 hours of aerobic Endurance riding spent between
-> 60-70% FTP.
-> 
-> Optional form drills include Form Sprints, Endurance Spinning and Single-Leg
-> Focus (SLF).
+> 60-70% FTP and includes form drills like form sprints, endurance spinning, and
+> single-leg focus (SLF) drills.
 
 
 ### Sunday 
@@ -283,9 +280,9 @@ Rest Day
 
 * **Name**: Jane Bald
 * **Duration**: 1 hour
-* **TSS**: 64.0
-* **NP**: 160
-* **IF**: 80%
+* **TSS**: 57.0
+* **NP**: 152
+* **IF**: 76%
 
 **Description**:
 

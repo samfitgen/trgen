@@ -115,21 +115,20 @@ Rest Day
 
 ### Saturday 
 
-* **Name**: Spanish Needle
+* **Name**: Spanish Needle -3
 * **Duration**: 1 hour and 30 minutes
-* **TSS**: 101.0
-* **NP**: 164
-* **IF**: 82%
+* **TSS**: 92.0
+* **NP**: 156
+* **IF**: 78%
 
 **Description**:
 
-> Spanish Needle is comprised of 6x8-minute sets of microbursts consisting of 15
-> seconds at 150% FTP followed directly by 15 seconds at 40% FTP.
-> 
-> Recovery valleys between sets of bursts are just over 5 minutes long.
+> Spanish Needle -3 is 6x8-minute sets of microbursts where you alternate
+> between 15 seconds at 140% FTP and 15 seconds at 40% FTP. Recovery valleys
+> between sets of bursts are just over 5 minutes long.
 > 
 > The first set of microbursts offers a ramping warmup which can help you
-> determine any Workout Intensity reductions that might be necessary.
+> determine any intensity reductions that might be necessary.
 
 
 ### Sunday 
@@ -173,7 +172,7 @@ Rest Day
 
 > Baird +2 is 3 sets of 5x90-second intervals at 120% FTP where recoveries
 > between intervals are 1 minute long and recoveries between sets of intervals
-> are 5 minutes long.
+> are 6 minutes long.
 
 
 ### Wednesday 
@@ -255,15 +254,17 @@ Rest Day
 
 * **Name**: Bashful +2
 * **Duration**: 1 hour
-* **TSS**: 91.0
-* **NP**: 192
-* **IF**: 96%
+* **TSS**: 89.0
+* **NP**: 188
+* **IF**: 94%
 
 **Description**:
 
-> Bashful +2 is 3 sets of 5x90-second intervals at 125% FTP where recoveries
-> between intervals are 1 minute long and recoveries between sets of intervals
-> are 5 minutes long.
+> Bashful +2 is 3 sets of 5x90-second intervals that rise from 121% FTP to 125%
+> FTP.
+> 
+> Recoveries between intervals are 1 minute long and recoveries between sets of
+> intervals are 5 minutes long.
 
 
 ### Wednesday 
@@ -295,11 +296,11 @@ Rest Day
 
 ### Saturday 
 
-* **Name**: Junction
+* **Name**: Junction -1
 * **Duration**: 1 hour and 30 minutes
-* **TSS**: 111.0
-* **NP**: 172
-* **IF**: 86%
+* **TSS**: 109.0
+* **NP**: 170
+* **IF**: 85%
 
 **Description**:
 
@@ -368,11 +369,9 @@ Rest Day
 
 **Description**:
 
-> Whorl consists of an hour & 15 minutes of aerobic Endurance work spent between
-> 60-75% FTP.
-> 
-> Optional form drills include Form Sprints, Endurance Spinning intervals, and
-> quadrant drills like Pistons and Kick & Pull drills.
+> Whorl consists of 75 minutes of aerobic Endurance work spent between 60-75%
+> FTP. Optional form drills include form sprints, endurance-spinning intervals,
+> and various pedalstroke drills.
 
 
 ### Friday 
@@ -390,7 +389,7 @@ Rest Day
 
 **Description**:
 
-> Townsend consists simply of 90 minutes of aerobic Endurance spent between
+> Townsend consists of 90 minutes of aerobic Endurance riding spent between
 > 60-70% FTP.
 
 
@@ -467,7 +466,7 @@ Rest Day
 
 * **Name**: Dade +1
 * **Duration**: 1 hour and 15 minutes
-* **TSS**: 101.0
+* **TSS**: 100.0
 * **NP**: 180
 * **IF**: 90%
 
@@ -475,7 +474,7 @@ Rest Day
 
 > Dade +1 is three sets of 3x2.5-minute VO2max repeats at 120% FTP.
 > 
->  2.5 minutes of recovery fall between Intervals and 8 minutes of easy spinning
+> 4 minutes of recovery fall between Intervals and 6 minutes of easy spinning
 > separate each set.
 
 
@@ -486,16 +485,16 @@ Rest Day
 
 ### Saturday 
 
-* **Name**: Mount Goode +1
+* **Name**: Mount Goode
 * **Duration**: 1 hour and 30 minutes
-* **TSS**: 112.0
-* **NP**: 172
-* **IF**: 86%
+* **TSS**: 109.0
+* **NP**: 170
+* **IF**: 85%
 
 **Description**:
 
-> Mount Goode +1 is 3x15-minute intervals at 97-99% FTP with 5 minutes of
-> Endurance work at 60% FTP between intervals.
+> Mount Goode is 3x15-minute intervals at 97-99% FTP with 8-minute recoveries
+> between intervals.
 
 
 ### Sunday 
@@ -531,18 +530,18 @@ Rest Day
 
 ### Tuesday 
 
-* **Name**: Ansel Adams -1
+* **Name**: Ansel Adams -2
 * **Duration**: 1 hour
-* **TSS**: 94.0
-* **NP**: 194
-* **IF**: 97%
+* **TSS**: 90.0
+* **NP**: 190
+* **IF**: 95%
 
 **Description**:
 
-> Ansel Adams -1 consists of 3x13-minute sets of 50 seconds at 130% FTP with 40
-> seconds of recovery between each interval.
+> Ansel Adams -2 consists of 6x6-minute sets of 50/50's where you'll spend 50
+> seconds at 130% FTP followed by 50 seconds at recovery watts.
 > 
-> 4 minutes of recovery fall between each set of intervals.
+> 2 minutes of recovery fall between each set of intervals.
 
 
 ### Wednesday 
@@ -552,7 +551,7 @@ Rest Day
 
 ### Thursday 
 
-* **Name**: Matthes +1 
+* **Name**: Matthes +1
 * **Duration**: 1 hour and 15 minutes
 * **TSS**: 102.0
 * **NP**: 180
@@ -618,16 +617,16 @@ Rest Day
 
 * **Name**: San Joaquin +3
 * **Duration**: 1 hour
-* **TSS**: 96.0
-* **NP**: 196
-* **IF**: 98%
+* **TSS**: 94.0
+* **NP**: 194
+* **IF**: 97%
 
 **Description**:
 
-> San Joaquin +3 is 3x10-minute sets of 50 seconds at 130% FTP with 20 seconds
-> of active recovery between each interval.
+> San Joaquin +3 is 6 sets of 4-5x50-second repeats at 130% FTP with a brief 20
+> seconds of active recovery following each repeat.
 > 
-> 6 minutes of recovery fall between each set of intervals.
+> 3 minutes of recovery fall between each set of intervals.
 
 
 ### Wednesday 
@@ -639,14 +638,14 @@ Rest Day
 
 * **Name**: Kaiser +2
 * **Duration**: 1 hour and 15 minutes
-* **TSS**: 110.0
-* **NP**: 188
-* **IF**: 94%
+* **TSS**: 106.0
+* **NP**: 184
+* **IF**: 92%
 
 **Description**:
 
-> Kaiser +2 is 3 sets of 3x3-minute VO2max repeats at 120% FTP with 3-minute
-> recoveries between intervals and 6 minutes between sets.
+> Kaiser +2 is 3 sets of 3x3-minute VO2max repeats at 118% FTP with 4-minute
+> recoveries between intervals and 5 minutes between sets.
 
 
 ### Friday 
@@ -721,11 +720,9 @@ Rest Day
 
 **Description**:
 
-> Whorl consists of an hour & 15 minutes of aerobic Endurance work spent between
-> 60-75% FTP.
-> 
-> Optional form drills include Form Sprints, Endurance Spinning intervals, and
-> quadrant drills like Pistons and Kick & Pull drills.
+> Whorl consists of 75 minutes of aerobic Endurance work spent between 60-75%
+> FTP. Optional form drills include form sprints, endurance-spinning intervals,
+> and various pedalstroke drills.
 
 
 ### Friday 
